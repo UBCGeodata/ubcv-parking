@@ -1,255 +1,255 @@
-﻿FAC_UID;FAC_DESCRIPTION;FAC_ADDRESS;FAC_HOURPM;FAC_HOURSDAY;FAC_RATE;FAC_RATEPM;FAC_RATEHOL;FAC_VERRUS;FAC_DISABLED;FAC_MC;FAC_BIKE;FAC_ELEVATOR;FAC_EV;FAC_UNDERPERMIT;FAC_GRAD;FAC_REZPERMIT;FAC_FSPERMIT;FAC_BOUNDARY_DESCRIPTION;FAC_TIPS;FAC_HEIGHT;FAC_MAP_DISPLAY;FAC_MODIFY_DATE;PAYMENT_LINK
-2171;President's Lot;;;;;;;;;;;;;;;;;Special Permit Only;;;;20120825195639; https://www.honkmobile.com/hourly/zones/
-2172;Sports Medicine Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max. 4 hours;No Charge;$2/hr Max $6;5636;;;;;;;;;;;;;;20150724111554; https://www.honkmobile.com/hourly/zones/5636
-2173;Purdy Pavilion;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;;No Charge;$3.50/hr Max $14;5640;;;;;;;;;;At UBC Hospital off Health Sciences Mall;;;;20131215160819; https://www.honkmobile.com/hourly/zones/5640
-2181;West Parkade;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;;$3.50/hr 4hr Max;$3.50/hr Max $8.00;5671;0;0;0;0;0;0;0;0;0;;;;0;20170726151903; https://www.honkmobile.com/hourly/zones/5671
-2182;Osborne Lot;6108 Thunderbird Boulevard;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$2/Hour Max 4 hours;No Charge;$2/hr Max $10;5639;1;0;0;0;0;0;0;0;0;Near Doug Mitchell, Osborne Gyms and Tennis Centre;Very busy location, we recommend using Thunderbird Parkade;N/A;1;20170613110253; https://www.honkmobile.com/hourly/zones/5639
-2116;Rugby Pavilion;;;;;;;;;;;;;;;;;2584 East Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2117;Student Rec Centre;;;;;;;;;;;;;;;;;6000 Student Union Boulevard;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2118;University Boulevard;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5615;;;;;;;;;;;;;;20131216114619; https://www.honkmobile.com/hourly/zones/5615
-2119;Osoyoos Crescent;;;;;;;;;;;;;;;;;;;;;20131218164127; https://www.honkmobile.com/hourly/zones/
-2120;Fairview Crescent;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max. 4 hours;No Charge;$2/hr Max $6;5613;;;;;;;;;;;;;;20130927101706; https://www.honkmobile.com/hourly/zones/5613
-2121;Acadia Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2122;Thunderbird Boulevard;;;;;;;;;;;;;;;;;;;;;20120825195151; https://www.honkmobile.com/hourly/zones/
-2123;Thunderbird Crescent;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5641;;;;;;;;;;2300 Main Mall;;;;20130411141757; https://www.honkmobile.com/hourly/zones/5641
-2124;East Mall Road South 16-TBird;;;;;;;5623;0;0;0;0;0;0;0;0;0;;;;0;20170628151629; https://www.honkmobile.com/hourly/zones/5623
-2125;Stadium Road ;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2126;Agronomy Road;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5619;;;;;;;;;;;;;;20131215160533; https://www.honkmobile.com/hourly/zones/5619
-2127;Stores Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2128;Engineering Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2129;Applied Sciences Lane;;;;;;;;;;;;;;;;;;;;;20120828121413; https://www.honkmobile.com/hourly/zones/
-2130;Hospital Lane;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;;5614;;;;;;;;;;;;;;20130304144731; https://www.honkmobile.com/hourly/zones/5614
-2131;Health Sciences Road;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5646;;;;;;;;;;;;;;20130424145105; https://www.honkmobile.com/hourly/zones/5646
-2132;Biological Sciences Road;;;;;;;;;;;;;;;;;;;;;20120813120357; https://www.honkmobile.com/hourly/zones/
-2133;Student Union Boulevard;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5609;;;;;;;;;;;;;;20141124145118; https://www.honkmobile.com/hourly/zones/5609
-2134;Walter Gage Road;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;$8 Flat Rate;$8 Flat Rate;5634;;;;;;;;;;;;;;20150601142454; https://www.honkmobile.com/hourly/zones/5634
-2135;Mathematics Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2136;Agricultural Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2137;Memorial Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2138;Crescent Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2139;Education Road;;;;;;;;;;;;;;;;;;;;;20131219155740; https://www.honkmobile.com/hourly/zones/
-2140;Wesbrook Mall  - GSAB;;;;;;;5610;;;;;;;;;;;;;;20131215162247; https://www.honkmobile.com/hourly/zones/5610
-2152;ACU Lot;;6:00 PM - 7:00 AM;7:00 AM - 6:00 PM;$2.00/ 1/2 hr Max 2 hours;;;5675;;;;;;;;;;Entrance to UBC Hospital;;;;20140717072753; https://www.honkmobile.com/hourly/zones/5675
-2153;AMPEL Lot;;;;Reserved/Assigned Permit Only;;;;;;;;;;;;;;;;;20130930092002; https://www.honkmobile.com/hourly/zones/
-2249;Nest;;;;;;;;;;;;;;;;;;;;;20150717145319; https://www.honkmobile.com/hourly/zones/
-2156;B1 Lot;;;7:00 AM - 2:00 AM;$3/hr  Max $15/day;No Charge;$8 Flat Rate;5626;;;;;;;;;;Economy Lot at Health Sciences & Agronomy;;;;20150724111510; https://www.honkmobile.com/hourly/zones/5626
-2157;B4 Lot;;;7:00 AM - 2:00 AM;$3/hr  Max $15/day;;;5631;1;1;0;0;0;0;0;0;1;Near Forestry, Main Mall and Orchard Commons;;N/A;1;20170803122404; https://www.honkmobile.com/hourly/zones/5631
-2174;Ritsumeikan Lot;;;;;;;5648;0;0;0;0;0;0;0;1;0;Residential Parking Lot for Ritsumeikan and Vantage College ;No Public Parking;;1;20170803121955; https://www.honkmobile.com/hourly/zones/5648
-2175;Marine Drive Lot;;;;;;;;0;0;0;0;0;0;0;0;0;Resident Lot near St. John's College & Marine Drive Residences;;;0;20170803105057; https://www.honkmobile.com/hourly/zones/
-2176;Rose Garden Parkade;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;;$3.50/hr 4hr Max;$3.50/hr Max $8.00;5665;0;0;0;0;0;0;0;0;0;;;;0;20170726151749; https://www.honkmobile.com/hourly/zones/5665
-2177;Scarfe Lot;;;;;;;;;;;;;;;;;Near Scarfe, EOS Buildings and Campus Planning;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2178;Stadium Lot;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$3/hr  Max $15/day;$2.00/hr Max $10.00;$2/hr Max $10;5630;1;0;0;0;0;0;0;0;1;Parking at Thunderbird Stadium;Check our events listings to ensure lot isn't closed!;;1;20170803124707; https://www.honkmobile.com/hourly/zones/5630
-2179;Thunderbird Parkade;6065 Thunderbird Blvd, Vancouver, BC;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$3.50/hr max $16.00;$1.50/hr Max $8.00;$1.50/hr Max $8.00;5677;1;1;1;1;1;1;1;0;1;Near Doug Mitchell, Osborne, Pharmacy and UBC Hospital;Rooftop Parking $10/Day;6'10"                2.08m;1;20170726151823; https://www.honkmobile.com/hourly/zones/5677
-2180;West Mall ;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$2/Hour Max 4 hours;No Charge;$2/hr Max $10;5601;;;;;;;;;;West Mall at Thunderbird by Totem, Rits and Tbird Rez;;;;20140311192700; https://www.honkmobile.com/hourly/zones/5601
-2183;Wright Field Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max. 4 hours;No Charge;$2/hr Max $6;5637;;;;;;;;;;Economy lot at Athletics playing fields;;;;20131216141926; https://www.honkmobile.com/hourly/zones/5637
-2184;Fraser River Parkade;6440 Memorial Rd, Vancouver, BC;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;;$3.50/hr 4hr Max;$3.50/hr Max $8.00;5673;1;1;0;0;0;1;1;1;1;Near Arts District, Nitobe Gardens and Koerner Library;;6'8"                2.03m;1;20170726151058; https://www.honkmobile.com/hourly/zones/5673
-2185;Health Sciences Parkade;2250 Health Sciences Mall, Vancouver, BC ;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;;$3.50/hr 4hr Max;$3.50/hr Max $8.00;5669;1;1;1;1;0;0;0;0;1;Near UBC Hospital, Health Sciences District and UBC Bookstore;Patient Priority stalls on-site;6'8"                2.03m;1;20170726151140; https://www.honkmobile.com/hourly/zones/5669
-2186;Cecil Green Road;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$3.50/hr Max 4 hours;$8 Flat Rate;$8 Flat Rate;5606;0;0;0;0;0;0;0;0;0;6100 Cecil Green Park Road;;;0;20170803104351; https://www.honkmobile.com/hourly/zones/5606
-2187;Armouries Meters;;;;;;;;;;;;;;;;;Adjacent to Music, President's Office;;;;20120825194814; https://www.honkmobile.com/hourly/zones/
-2004;Anthropology & Sociology;;;;;;;;;;;;;;;;;6303 NW Marine Drive;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2005;Engineering Lane;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2006;AERL;;;;;;;;;;;;;;;;;2202 Main Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2007;Arts One Bldg;;;;;;;;;;;;;;;;;6358 University Blvd;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2008;Bookstore;;;;;;;;;;;;;;;;;6200 University Blvd;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2009;Buchanan Tower;;;;;;;;;;;;;;;;;1873 East Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2250;Ponderosa Area Serv/Fire Lanes;;;;;;;;;;;;;;;;;;;;;20150722134753; https://www.honkmobile.com/hourly/zones/
-2251;W Lot;;;;;;;;;;;;;;;;;;;;;20161011142514; https://www.honkmobile.com/hourly/zones/
-2010;CK Choi;;;;;;;;;;;;;;;;;1855 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2011;Campus & Community Planning;;;;;;;;;;;;;;;;;2210 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2014;Botany Annex;;;;;;;;;;;;;;;;;6386 University Blvd;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2016;Brock Hall Annex;;;;;;;;;;;;;;;;;1874 East Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2041;George F. Curtis Building;;;;;;;;;;;;;;;;;1822 East Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2020;Chemistry Physics;;;;;;;;;;;;;;;;;6221 University Blvd;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2022;Coal & Mineral Processing;;;;;;;;;;;;;;;;;2332 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2023;Continuing Studies;;;;;;;;;;;;;;;;;2121 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2024;Totem Field Studios Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2026;GSAB Lot;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;;$8 Flat Rate;$8 Flat Rate;5632;;;;;;;;;;http://maps.google.com/?q=49.2675596516011,-123.247323283241;;;;20140522090142; https://www.honkmobile.com/hourly/zones/5632
-2027;West Mall Road;;;;;;;5601;;;;;;;;;;;;;;20140311184407; https://www.honkmobile.com/hourly/zones/5601
-2029;Orchard Lot;;;;;;;;;;;;;;;;;Near MacMillan, Orchard House and Ritsumeikan;;;;20131215143008; https://www.honkmobile.com/hourly/zones/
-2032;Lower Mall Road;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5649;;;;;;;;;;;;;;20131215154623; https://www.honkmobile.com/hourly/zones/5649
-2033;Old Auditorium;;;;;;;;;;;;;;;;;6344 Memorial Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2034;B.C. Binning;;;;;;;;;;;;;;;;;6363 Stores Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2035;Buchanan Complex;;;;;;;;;;;;;;;;;1866 Main Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2036;Cecil Green Park House;;;;;;;;;;;;;;;;;;;;;20131216165720; https://www.honkmobile.com/hourly/zones/
-2037;CEME Trailer;;;;;;;;;;;;;;;;;2345 East Mall ;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2040;George Cunningham Building;;;;;;;;;;;;;;;;;2146 East Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2042;David Strangway Building;;;;;;;;;;;;;;;;;2151 Wesbrook Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2043;Donald Rix Building;;;;;;;;;;;;;;;;;2389 Health Sciences Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2044;Earth & Ocean Sciences;;;;;;;;;;;;;;;;;2219 Main Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2045;First Nations Long House;;;;;;;;;;;;;;;;;1985 West Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2046;Food, Nutrition & Health;;;;;;;;;;;;;;;;;2205 East Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2047;Forest Sciences Centre;;;;;;;;;;;;;;;;;2424 Main Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2048;Frank Forward Building;;;;;;;;;;;;;;;;;6350 Stores Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2049;Fred Kaiser Building;;;;;;;;;;;;;;;;;2332 Main Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2193;B Lot;;;;;;;;;;;;;;;;;;;;;20140813102855; https://www.honkmobile.com/hourly/zones/
-2194;G Lot;;;;;;;;;;;;;;;;;;;;;20140813103011; https://www.honkmobile.com/hourly/zones/
-2195;H Lot;;;;;;;;;;;;;;;;;;;;;20140813103031; https://www.honkmobile.com/hourly/zones/
-2196;J Lot;;;;;;;;;;;;;;;;;;;;;20140813103046; https://www.honkmobile.com/hourly/zones/
-2197;F Lot;;;;;;;;;;;;;;;;;;;;;20161011141801; https://www.honkmobile.com/hourly/zones/
-2198;A Lot;;;;F/S Permit Only;;;;;;;;;;;;;;;;;20160120140655; https://www.honkmobile.com/hourly/zones/
-2199;C Lot;;;;;;;;;;;;;;;;;;;;;20140813102918; https://www.honkmobile.com/hourly/zones/
-2200;E Lot;;;;;;;;;;;;;;;;;;;;;20161011141738; https://www.honkmobile.com/hourly/zones/
-2202;M Lot;;;;;;;;;;;;;;;;;;;;;20161011142140; https://www.honkmobile.com/hourly/zones/
-2203;Q Lot;;;;;;;;;;;;;;;;;;;;;20121001142128; https://www.honkmobile.com/hourly/zones/
-2204;R Lot;;;;;;;;;;;;;;;;;;;;;20161011141831; https://www.honkmobile.com/hourly/zones/
-2205;Resident Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2206;S Lot;;;;;;;;;;;;;;;;;;;;;20120731143641; https://www.honkmobile.com/hourly/zones/
-2050;Friedman Building;;;;;;;;;;;;;;;;;2177 Wesbrook Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2051;Gas Gun Facility;;;;;;;;;;;;;;;;;6301 Stadium Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2052;GSAB;;5:00 PM - 12:00 AM;;;$3.50/hr 4hr Max;$8 Flat Rate;;;;;;;;;;;2075 Wesbrook Mall;;;;20130411131822; https://www.honkmobile.com/hourly/zones/
-2053;Geography Building;;;;;;;;;;;;;;;;;1984 West Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2054;Gerald McGavin Building;;;;;;;;;;;;;;;;;2386 East Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2055;Hennings & Hebb Buildings;;;;;;;;;;;;;;;;;6224 Agricultural Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2056;Henry Angus ;;;;;;;;;;;;;;;;;2053 Main Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2057;Hillel House;;;;;;;;;;;;;;;;;6145 Student Union Boulevard;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2058;Hugh Dempster Pavilion;;;;;;;;;;;;;;;;;6245 Agronomy Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2059;Hut M17;;;;;;;;;;;;;;;;;6373 University Boulevard;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2060;Hut M18;;;;;;;;;;;;;;;;;6361 University Boulevard;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2061;Huts M21 & M22;;;;;;;;;;;;;;;;;2109 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2062;ICICS (CICSR);;;;;;;;;;;;;;;;;2366 Main Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2063;IRC;;;;;;;;;;;;;;;;;2194 Health Sciences Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2064;International House;;;;;;;;;;;;;;;;;1783 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2065;J. B. Macdonald Building;;;;;;;;;;;;;;;;;2199 Wesbrook Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2066;Jack Bell Building;;;;;;;;;;;;;;;;;2080 West Mall ;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2067;James Mather Building;;;;;;;;;;;;;;;;;5804 Fairview Avenue;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2068;John Owen Pavilion;;;;;;;;;;;;;;;;;3055 Wesbrook Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2069;Douglas Kenny Building;;;;;;;;;;;;;;;;;2136 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2070;Abdul Ladha Building;;;;;;;;;;;;;;;;;2055 East Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2071;Landscape Architecture;;;;;;;;;;;;;;;;;2371 Main Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2188;Law Lot;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$3.50/hr Max 4 hours;$1.50/hr Max $8.00;$1.50/hr Max $8.00;5654;1;0;0;0;0;0;0;0;1;Near Allard Hall, Buchanan and Brock Hall;Very busy location during daytime hours!;;1;20170803125419; https://www.honkmobile.com/hourly/zones/5654
-2015;Brimacombe;;;;;;;;;;;;;;;;;2355 East Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2012;Biological Sciences;;;;;;;;;;;;;;;;;6270 University Blvd;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2013;Biomedical Research Ctr;;;;;;;;;;;;;;;;;2222 Health Sciences Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2017;Chemical & Biological Engineer;;;;;;;;;;;;;;;;;2360 East Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2019;Chemistry ;;;;;;;;;;;;;;;;;2036 Main Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2021;CEME;;;;;;;;;;;;;;;;;2275 East Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2025;Volkoff Lane;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2028;University Centre Lot;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$3.50/hr Max 4 hours;$8 Flat Rate;$8 Flat Rate;5638;1;0;0;0;0;0;0;0;0;Near Sage Restaurant, Peter Wall, Freddy Wood & Sing Tao;Perfect for stopping and checking out the Rose Garden view!;;1;20170803115916; https://www.honkmobile.com/hourly/zones/5638
-2030;Sauder Lane;;;;;;;;;;;;;;;;;;;;;20131215152006; https://www.honkmobile.com/hourly/zones/
-2031;Armouries Lot;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$3.50/hr Max 4 hours;$8 Flat Rate;$8 Flat Rate;5625;1;1;0;0;0;0;0;0;1;Near Arts district, Old Admin and Koerner Library;;N/A;1;20170726114708; https://www.honkmobile.com/hourly/zones/5625
-2038;David Lam;;;;;;;;;;;;;;;;;6326 Agricultural Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2039;Copp Building;;;;;;;;;;;;;;;;;2146 Health Sciences Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2072;Frederic Lasserre Building;;;;;;;;;;;;;;;;;6333 Memorial Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2073;Leonard S. Klinck Building;;;;;;;;;;;;;;;;;6356 Agricultural Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2074;Library Processing Centre;;;;;;;;;;;;;;;;;2206 East Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2075;Liu Institute;;;;;;;;;;;;;;;;;6476 NW Marine Drive;;;;20130822082517; https://www.honkmobile.com/hourly/zones/
-2076;Lower Mall Header House;;;;;;;;;;;;;;;;;2269 Lower Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2077;Lower Mall Research Station;;;;;;;;;;;;;;;;;2259 Lower Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2078;MacLeod Building;;;;;;;;;;;;;;;;;2356 Main Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2079;H. R. MacMillan Building;;;;;;;;;;;;;;;;;2357 Main Mall ;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2080;Mary Bollert Hall;;;;;;;;;;;;;;;;;6253 NW Marine Drive;;;;20131219121649; https://www.honkmobile.com/hourly/zones/
-2081;Math/Stats Resource Centre;;;;;;;;;;;;;;;;;6357 Agricultural Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2082;Mathematics Building;;;;;;;;;;;;;;;;;1984 Mathematics Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2083;Med Block C;;;;;;;;;;;;;;;;;2176 Health Sciences Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2084;Michael Smith Laboratories;;;;;;;;;;;;;;;;;2185 East Mall ;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2085;Old Firehall;;;;;;;;;;;;;;;;;2038 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2086;Orchard House;;;;;;;;;;;;;;;;;2336 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2087;Ponderosa Complex;;;;;;;;;;;;;;;;;2011 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2088;PowerHouse;;;;;;;;;;;;;;;;;2040 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2089;Neville Scarfe Building;;;;;;;;;;;;;;;;;2125 Main Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2090;Sing Tao Building;;;;;;;;;;;;;;;;;6388 Crescent Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2091;TEF 3;;;;;;;;;;;;;;;;;6190 Agronomy Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2092;Totem Field Studios;;;;;;;;;;;;;;;;;2613 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2093;Wesbrook Building;;;;;;;;;;;;;;;;;6174 University Boulevard;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2094;West Mall Annex;;;;;;;;;;;;;;;;;1933 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2095;Aquatic Centre;;;;;;;;;;;;;;;;;6121 University Boulevard;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2096;West Mall Swing Building;;;;;;;;;;;;;;;;;2175 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2097;Asian Centre;;;;;;;;;;;;;;;;;1871 West Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2098;Barn Coffee Shop;;;;;;;;;;;;;;;;;2323 Main Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2099;Chan Centre;;;;;;;;;;;;;;;;;6265 Crescent Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2102;Koerner Library;;;;;;;;;;;;;;;;;1958 Main Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2103;Graduate Student Centre;;;;;;;;;;;;;;;;;6371 Crescent Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2104;Life Sciences Centre;;;;;;;;;;;;;;;;;2350 Health Sciences Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2105;Marine Drive Residence;;;;;;;;;;;;;;;;;2205 Lower Mall Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2106;Winter Sports Centre;;;;;;;;;;;;;;;;;6066 Thunderbird Boulevard;;;;20140312211720; https://www.honkmobile.com/hourly/zones/
-2107;Student Union Building;;;;;;;;;;;;;;;;;6138 Student Union Boulevard;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2108;Osborne Gyms;;;;;;;;;;;;;;;;;6108 Thunderbird Boulevard;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2109;Old Administration Building;;;;;;;;;;;;;;;;;6328 Memorial Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2110;Music Building;;;;;;;;;;;;;;;;;6361 Memorial Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2111;University Centre;;;;;;;;;;;;;;;;;6331 Crescent Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2112;UBC Hospital;;;;;;;;;;;;;;;;;2211 Wesbrook Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2113;Museum of Anthropology;;;;;;;;;;;;;;;;;6393 NW Marine Drive;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2114;Belkin Art Gallery;;;;;;;;;;;;;;;;;1825 Main Mall;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2100;Freddy Wood Theatre;;;;;;;;;;;;;;;;;6354 Crescent Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2115;Ritsumeikan House;;;;;;;;;;;;;;;;;6460 Agronomy Road;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2101;Green College;;;;;;;;;;;;;;;;;6201 Cecil Gren Park Road;;;;20131216165628; https://www.honkmobile.com/hourly/zones/
-2141;Wesbrook Mall Dentistry/Hospital;;;;;;;;;;;;;;;;;;;;;20121025132446; https://www.honkmobile.com/hourly/zones/
-2142;Wesbrook Mall 2200 Block;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5612;;;;;;;;;;;;;;20140311193257; https://www.honkmobile.com/hourly/zones/5612
-2143;Wesbrook Mall 2300 Block;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2144;Wesbrook Mall 2400 Block;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2145;Wesbrook Mall Tbird to16th;;;;;;;;;;;;;;;;;;;;;20131216142939; https://www.honkmobile.com/hourly/zones/
-2146;Wesbrook Mall 2600 Block;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2147;Wesbrook Mall 2700 Block;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2148;Wesbrook Mall 2800 Block;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2149;Wesbrook Mall 2900 Block;;;;;;;;;;;;;;;;;;;;;20130920080302; https://www.honkmobile.com/hourly/zones/
-2150;Wesbrook Mall South 16th;;;;;;;;;;;;;;;;;;;;;20130912133250; https://www.honkmobile.com/hourly/zones/
-2151;Wesbrook Mall 3100 Block;;;;;;;;;;;;;;;;;;;;;20130912133500; https://www.honkmobile.com/hourly/zones/
-2158;B7 Lot;;;;;;;;;;;;;;;;;Event Only Lot by Thunderbird Stadium;;;;20120825195319; https://www.honkmobile.com/hourly/zones/
-2159;Berwick Lot;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;F/S Permit Only;$8 Flat Rate;$8 Flat Rate;5642;;;;;;;;;;At Berwick Daycare Centre on Osyoos Cresent;;;;20130411145717; https://www.honkmobile.com/hourly/zones/5642
-2160;Bookstore Lot;;;;;;;;;;;;;;;;;Near Bookstore, Sauder, Chemistry, Physics, SUB;;;;20120825194920; https://www.honkmobile.com/hourly/zones/
-2161;Brock Hall Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5617;;;;;;;;;;Behind Brock Hall off Walter Gage Road;;;;20130304145022; https://www.honkmobile.com/hourly/zones/5617
-2162;Buchanan Meter Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5608;;;;;;;;;;At Buchanan E Block off of East Mall;;;;20150722084040; https://www.honkmobile.com/hourly/zones/5608
-2163;C2 Lot;;;7:00 AM - 2:00 AM;$3/hr  Max $15/day;$8 Flat Rate;$8 Flat Rate;5627;1;1;0;0;0;0;0;0;0;Near Life Sciences , Applied Sciences District and TEF 3;Short-term stalls available for quick access;N/A;1;20170628125104; https://www.honkmobile.com/hourly/zones/5627
-2164;Library Processing Lot;;;;;;;;;;;;;;;;;;;;;20120825195542; https://www.honkmobile.com/hourly/zones/
-2165;L Lot;;;;;;;;;;;;;;;;;Resident Lot by St. John's College & Marine Drive Residences;;;;20120825195510; https://www.honkmobile.com/hourly/zones/
-2166;Michael Smith Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5621;;;;;;;;;;On East Mall near Bookstore & Wesbrook Building;;;;20140620081655; https://www.honkmobile.com/hourly/zones/5621
-2167;Mather Lot;;;;;;;;;;;;;;;;;;;;;20120825195413; https://www.honkmobile.com/hourly/zones/
-2168;Museum Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;$3.50/hr Max $8.00;$3.50/hr Max $8.00;5603;;;;;;;;;;;;;;20150601142519; https://www.honkmobile.com/hourly/zones/5603
-2169;Music Underground Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2170;North Parkade;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$3.50/hr max $16.00;$3.50/hr Max $8.00;$3.50/hr Max $8.00;5667;1;1;1;0;1;1;1;0;1;Naer Brock Hall, Gage Residence, Nest and Aquatic Centre;;6'5";1;20170726151724; https://www.honkmobile.com/hourly/zones/5667
-2207;Motorcycle Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2208;Marine Drive Residences;;;;;;;;;;;;;;;;;;;;;20131215151424; https://www.honkmobile.com/hourly/zones/
-2209;Strangway Pay Lot;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$3.50/hr max $16.00;$1.00/hr Max $6.00;$1.00/hr Max $6.00;5655;;;;;;;;;;;;;;20150724111157; https://www.honkmobile.com/hourly/zones/5655
-2210;D Lot;;;;;;;;;;;;;;;;;;;;;20161011141525; https://www.honkmobile.com/hourly/zones/
-2211;K Lot;;;;;;;;;;;;;;;;;;;;;20161011141426; https://www.honkmobile.com/hourly/zones/
-2212;O Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2213;Motorcycle Lot Complimentary;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2214;Service Okanagan;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2215;U Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2216;CD Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2217;Nurseries Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2218;PowerHouse Reserved;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2219;Wesbrook Mall;;;;;;;;;;;;;;;;;;;;;20130912133401; https://www.honkmobile.com/hourly/zones/
-2220;Old Firehall Meters;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $14;5604;;;;;;;;;;;;;;20131215152336; https://www.honkmobile.com/hourly/zones/5604
-2221;Memorial Lot;;;;;;;5605;1;1;0;0;0;0;0;0;0;;Board of Governor's Lot - No public parking;;1;20170803120230; https://www.honkmobile.com/hourly/zones/5605
-2222;Bioenergy Research;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2223;Totem Lot - F/S;;;;F/S Permit Only;;;;;;;;;;;;;F/S Lot adjacent to Totem Rez Lot;;;;20131215140044; https://www.honkmobile.com/hourly/zones/
-2224;Faculty & Staff Surface Lots;;;;;;;;;;;;;;;;;;;;;20130403154339; https://www.honkmobile.com/hourly/zones/
-2225;Loading Zones - All;;;;;;;;;;;;;;;;;;;;;20121203100807; https://www.honkmobile.com/hourly/zones/
-2226;Ponderosa Meters;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;;$3.50/hr Max $14;5604;;;;;;;;;;2000 West Mall;;;;20130304103745; https://www.honkmobile.com/hourly/zones/5604
-2227;Totem Meters;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$2/Hour Max 4 hours;No Charge;$2/hr Max $10;5601;;;;;;;;;;;;;;20131215135354; https://www.honkmobile.com/hourly/zones/5601
-2228;Alumni Avenue;;;;;;;;;;;;;;;;;;;;;20130424123555; https://www.honkmobile.com/hourly/zones/
-2229;Surface Pay Lots;;;;;;;;;;;;;;;;;;;;;20130424162332; https://www.honkmobile.com/hourly/zones/
-2230;All Parkades;;;;;;;;;;;;;;;;;;;;;20130424162429; https://www.honkmobile.com/hourly/zones/
-2231;Hospice Lot;;;;;;;;;;;;;;;;;;;;;20150724111121; https://www.honkmobile.com/hourly/zones/
-2232;UBC Farm;;;;;;;5646;;;;;;;;;;;;;;20141124144958; https://www.honkmobile.com/hourly/zones/5646
-2233;Botanical Gardens;;12:00 AM - 6:00 AM;7:00 AM - 10:00 PM;$2/hr Max $10/day;;$2/hr Max $6;5642;1;0;0;0;0;0;0;0;1;Parking at Botanical Gardens;Visitors to Gardens get a special rate!;;1;20170803125117; https://www.honkmobile.com/hourly/zones/5642
-2234;East Mall Road North;;;;;;;;;;;;;;;;;;;;;20130912133801; https://www.honkmobile.com/hourly/zones/
-2235;Triumf;;;7:00 AM - Midnight;$1.00/hr Max $6.50/day;;;5643;;;;;;;;;;;;;;20140813114908; https://www.honkmobile.com/hourly/zones/5643
-2236;Mary Bollert Hall F/S;;;;;;;;;;;;;;;;;;;;;20131219121313; https://www.honkmobile.com/hourly/zones/
-2237;University Hill Secondary School;;5:00 PM - 12:00 AM;6:00 AM - 6:00 PM;Reserved/Assigned Permit Only;;;5616;;;;;;;;;;;;;;20150724111216; https://www.honkmobile.com/hourly/zones/5616
-2238;Centre for Comparative Medicine;;;;;;;5657;;;;;;;;;;;;;;20140226150542; https://www.honkmobile.com/hourly/zones/5657
-2239;Doug Mitchell Load Zone;;;;;;;;;;;;;;;;;;;;;20140217125839; https://www.honkmobile.com/hourly/zones/
-2240;Iona Drive Lot;;;;;;;;;;;;;;;;;;;;;20141008122753; https://www.honkmobile.com/hourly/zones/
-2241;Wayne & William White Engineerin;;;;;;;;;;;;;;;;;;;;;20141114131233; https://www.honkmobile.com/hourly/zones/
-2242;Keremeos Court;;;;;;;;;;;;;;;;;;;;;20150904105718; https://www.honkmobile.com/hourly/zones/
-2243;Salmo Court;;;;;;;;;;;;;;;;;;;;;20150904105728; https://www.honkmobile.com/hourly/zones/
-2244;Oyama Court;;;;;;;;;;;;;;;;;;;;;20150904105707; https://www.honkmobile.com/hourly/zones/
-2245;Vancouver School of Theology;;;;;;;;;;;;;;;;;;;;;20141124144641; https://www.honkmobile.com/hourly/zones/
-2246;Beaty Biodiversity Building;;;;;;;;;;;;;;;;;;;;;20150427080954; https://www.honkmobile.com/hourly/zones/
-2247;Oberlander Lane;;;;;;;;;;;;;;;;;between marine drive residence & lower mall research station;;;;20150427135226; https://www.honkmobile.com/hourly/zones/
-2248;Alumni Centre;;;;;;;;;;;;;;;;;;;;;20150717145209; https://www.honkmobile.com/hourly/zones/
-2252;Vancouver School of Economics;;;;;;;;;;;;;;;;;;;;;20150911115603; https://www.honkmobile.com/hourly/zones/
-2253;X Lot;;;;;;;;;;;;;;;;;;;;;20160210161934; https://www.honkmobile.com/hourly/zones/
-2254;Y Lot;;;;;;;;;;;;;;;;;;;;;20160210162215; https://www.honkmobile.com/hourly/zones/
-2255;W;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20170627161557; https://www.honkmobile.com/hourly/zones/
-2256;Z Lot;;;;;;;;;;;;;;;;;;;;;20160210162148; https://www.honkmobile.com/hourly/zones/
-2257;Library PARC;;;;F/S Permit Only;;;;;;;;;;;;;;;;;20160307132727; https://www.honkmobile.com/hourly/zones/
-2258;Acadia Park ;;;;;;;;;;;;;;;;;;;;;20160406120730; https://www.honkmobile.com/hourly/zones/
-2259;Acadia Visitor Parking Areas;;;;;;;;;;;;;;;;;;;;;20160525104100; https://www.honkmobile.com/hourly/zones/
-2260;All lots except M and R;;;;;;;;;;;;;;;;;;;;;20170224154151; https://www.honkmobile.com/hourly/zones/
-2261;Multi-Lot;;;;;;;;;;;;;;;;;;;;;20170301132311; https://www.honkmobile.com/hourly/zones/
-2262;Orchard Commons;;;;;;;;0;0;0;0;;0;0;0;0;;;;;20170428114008; https://www.honkmobile.com/hourly/zones/
-2263;Iona Underground;;;;;;;;;;;;;;;;;;;;;20170410104223; https://www.honkmobile.com/hourly/zones/
-2264;NSDC LOT;;;;;;;;1;0;0;0;1;0;0;0;0;Near UBC Athletics Fields;;;1;20170627120823; https://www.honkmobile.com/hourly/zones/
-2265;memorial gym fire lane;;;;;;;;0;0;0;0;0;0;0;0;0;Memorial Gym ;;;0;20170627122041; https://www.honkmobile.com/hourly/zones/
+﻿"FAC_UID"|"FAC_DESCRIPTION"|"FAC_ADDRESS"|"FAC_HOURPM"|"FAC_HOURSDAY"|"FAC_RATE"|"FAC_RATEPM"|"FAC_RATEHOL"|"FAC_VERRUS"|"FAC_DISABLED"|"FAC_MC"|"FAC_BIKE"|"FAC_ELEVATOR"|"FAC_EV"|"FAC_UNDERPERMIT"|"FAC_GRAD"|"FAC_REZPERMIT"|"FAC_FSPERMIT"|"FAC_BOUNDARY_DESCRIPTION"|"FAC_TIPS"|"FAC_HEIGHT"|"FAC_MAP_DISPLAY"|"FAC_MODIFY_DATE"|"PAYMENT_LINK"
+2171|President's Lot|||||||||||||||||Special Permit Only||||20120825195639| https://www.honkmobile.com/hourly/zones/
+2172|Sports Medicine Lot||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max. 4 hours|No Charge|$2/hr Max $6|5636||||||||||||||20150724111554| https://www.honkmobile.com/hourly/zones/5636
+2173|Purdy Pavilion||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM||No Charge|$3.50/hr Max $14|5640||||||||||At UBC Hospital off Health Sciences Mall||||20131215160819| https://www.honkmobile.com/hourly/zones/5640
+2181|West Parkade||5:00 PM - 12:00 AM|6:00 AM - 5:00 PM||$3.50/hr 4hr Max|$3.50/hr Max $8.00|5671|0|0|0|0|0|0|0|0|0||||0|20170726151903| https://www.honkmobile.com/hourly/zones/5671
+2182|Osborne Lot|6108 Thunderbird Boulevard|10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$2/Hour Max 4 hours|No Charge|$2/hr Max $10|5639|1|0|0|0|0|0|0|0|0|Near Doug Mitchell, Osborne Gyms and Tennis Centre|Very busy location, we recommend using Thunderbird Parkade|N/A|1|20170613110253| https://www.honkmobile.com/hourly/zones/5639
+2116|Rugby Pavilion|||||||||||||||||2584 East Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2117|Student Rec Centre|||||||||||||||||6000 Student Union Boulevard||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2118|University Boulevard||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5615||||||||||||||20131216114619| https://www.honkmobile.com/hourly/zones/5615
+2119|Osoyoos Crescent|||||||||||||||||||||20131218164127| https://www.honkmobile.com/hourly/zones/
+2120|Fairview Crescent||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max. 4 hours|No Charge|$2/hr Max $6|5613||||||||||||||20130927101706| https://www.honkmobile.com/hourly/zones/5613
+2121|Acadia Road|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2122|Thunderbird Boulevard|||||||||||||||||||||20120825195151| https://www.honkmobile.com/hourly/zones/
+2123|Thunderbird Crescent||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5641||||||||||2300 Main Mall||||20130411141757| https://www.honkmobile.com/hourly/zones/5641
+2124|East Mall Road South 16-TBird|||||||5623|0|0|0|0|0|0|0|0|0||||0|20170628151629| https://www.honkmobile.com/hourly/zones/5623
+2125|Stadium Road |||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2126|Agronomy Road||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5619||||||||||||||20131215160533| https://www.honkmobile.com/hourly/zones/5619
+2127|Stores Road|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2128|Engineering Road|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2129|Applied Sciences Lane|||||||||||||||||||||20120828121413| https://www.honkmobile.com/hourly/zones/
+2130|Hospital Lane||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge||5614||||||||||||||20130304144731| https://www.honkmobile.com/hourly/zones/5614
+2131|Health Sciences Road||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5646||||||||||||||20130424145105| https://www.honkmobile.com/hourly/zones/5646
+2132|Biological Sciences Road|||||||||||||||||||||20120813120357| https://www.honkmobile.com/hourly/zones/
+2133|Student Union Boulevard||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5609||||||||||||||20141124145118| https://www.honkmobile.com/hourly/zones/5609
+2134|Walter Gage Road||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|$8 Flat Rate|$8 Flat Rate|5634||||||||||||||20150601142454| https://www.honkmobile.com/hourly/zones/5634
+2135|Mathematics Road|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2136|Agricultural Road|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2137|Memorial Road|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2138|Crescent Road|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2139|Education Road|||||||||||||||||||||20131219155740| https://www.honkmobile.com/hourly/zones/
+2140|Wesbrook Mall  - GSAB|||||||5610||||||||||||||20131215162247| https://www.honkmobile.com/hourly/zones/5610
+2152|ACU Lot||6:00 PM - 7:00 AM|7:00 AM - 6:00 PM|$2.00/ 1/2 hr Max 2 hours|||5675||||||||||Entrance to UBC Hospital||||20140717072753| https://www.honkmobile.com/hourly/zones/5675
+2153|AMPEL Lot||||Reserved/Assigned Permit Only|||||||||||||||||20130930092002| https://www.honkmobile.com/hourly/zones/
+2249|Nest|||||||||||||||||||||20150717145319| https://www.honkmobile.com/hourly/zones/
+2156|B1 Lot|||7:00 AM - 2:00 AM|$3/hr  Max $15/day|No Charge|$8 Flat Rate|5626||||||||||Economy Lot at Health Sciences & Agronomy||||20150724111510| https://www.honkmobile.com/hourly/zones/5626
+2157|B4 Lot|||7:00 AM - 2:00 AM|$3/hr  Max $15/day|||5631|1|1|0|0|0|0|0|0|1|Near Forestry, Main Mall and Orchard Commons||N/A|1|20170803122404| https://www.honkmobile.com/hourly/zones/5631
+2174|Ritsumeikan Lot|||||||5648|0|0|0|0|0|0|0|1|0|Residential Parking Lot for Ritsumeikan and Vantage College |No Public Parking||1|20170803121955| https://www.honkmobile.com/hourly/zones/5648
+2175|Marine Drive Lot||||||||0|0|0|0|0|0|0|0|0|Resident Lot near St. John's College & Marine Drive Residences|||0|20170803105057| https://www.honkmobile.com/hourly/zones/
+2176|Rose Garden Parkade||5:00 PM - 12:00 AM|6:00 AM - 5:00 PM||$3.50/hr 4hr Max|$3.50/hr Max $8.00|5665|0|0|0|0|0|0|0|0|0||||0|20170726151749| https://www.honkmobile.com/hourly/zones/5665
+2177|Scarfe Lot|||||||||||||||||Near Scarfe, EOS Buildings and Campus Planning||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2178|Stadium Lot||5:00 PM - 12:00 AM|6:00 AM - 5:00 PM|$3/hr  Max $15/day|$2.00/hr Max $10.00|$2/hr Max $10|5630|1|0|0|0|0|0|0|0|1|Parking at Thunderbird Stadium|Check our events listings to ensure lot isn't closed!||1|20170803124707| https://www.honkmobile.com/hourly/zones/5630
+2179|Thunderbird Parkade|6065 Thunderbird Blvd, Vancouver, BC|5:00 PM - 12:00 AM|6:00 AM - 5:00 PM|$3.50/hr max $16.00|$1.50/hr Max $8.00|$1.50/hr Max $8.00|5677|1|1|1|1|1|1|1|0|1|Near Doug Mitchell, Osborne, Pharmacy and UBC Hospital|Rooftop Parking $10/Day|6'10"                2.08m|1|20170726151823| https://www.honkmobile.com/hourly/zones/5677
+2180|West Mall ||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$2/Hour Max 4 hours|No Charge|$2/hr Max $10|5601||||||||||West Mall at Thunderbird by Totem, Rits and Tbird Rez||||20140311192700| https://www.honkmobile.com/hourly/zones/5601
+2183|Wright Field Lot||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max. 4 hours|No Charge|$2/hr Max $6|5637||||||||||Economy lot at Athletics playing fields||||20131216141926| https://www.honkmobile.com/hourly/zones/5637
+2184|Fraser River Parkade|6440 Memorial Rd, Vancouver, BC|5:00 PM - 12:00 AM|6:00 AM - 5:00 PM||$3.50/hr 4hr Max|$3.50/hr Max $8.00|5673|1|1|0|0|0|1|1|1|1|Near Arts District, Nitobe Gardens and Koerner Library||6'8"                2.03m|1|20170726151058| https://www.honkmobile.com/hourly/zones/5673
+2185|Health Sciences Parkade|2250 Health Sciences Mall, Vancouver, BC |5:00 PM - 12:00 AM|6:00 AM - 5:00 PM||$3.50/hr 4hr Max|$3.50/hr Max $8.00|5669|1|1|1|1|0|0|0|0|1|Near UBC Hospital, Health Sciences District and UBC Bookstore|Patient Priority stalls on-site|6'8"                2.03m|1|20170726151140| https://www.honkmobile.com/hourly/zones/5669
+2186|Cecil Green Road||5:00 PM - 12:00 AM|6:00 AM - 5:00 PM|$3.50/hr Max 4 hours|$8 Flat Rate|$8 Flat Rate|5606|0|0|0|0|0|0|0|0|0|6100 Cecil Green Park Road|||0|20170803104351| https://www.honkmobile.com/hourly/zones/5606
+2187|Armouries Meters|||||||||||||||||Adjacent to Music, President's Office||||20120825194814| https://www.honkmobile.com/hourly/zones/
+2004|Anthropology & Sociology|||||||||||||||||6303 NW Marine Drive||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2005|Engineering Lane|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2006|AERL|||||||||||||||||2202 Main Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2007|Arts One Bldg|||||||||||||||||6358 University Blvd||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2008|Bookstore|||||||||||||||||6200 University Blvd||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2009|Buchanan Tower|||||||||||||||||1873 East Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2250|Ponderosa Area Serv/Fire Lanes|||||||||||||||||||||20150722134753| https://www.honkmobile.com/hourly/zones/
+2251|W Lot|||||||||||||||||||||20161011142514| https://www.honkmobile.com/hourly/zones/
+2010|CK Choi|||||||||||||||||1855 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2011|Campus & Community Planning|||||||||||||||||2210 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2014|Botany Annex|||||||||||||||||6386 University Blvd||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2016|Brock Hall Annex|||||||||||||||||1874 East Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2041|George F. Curtis Building|||||||||||||||||1822 East Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2020|Chemistry Physics|||||||||||||||||6221 University Blvd||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2022|Coal & Mineral Processing|||||||||||||||||2332 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2023|Continuing Studies|||||||||||||||||2121 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2024|Totem Field Studios Lot|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2026|GSAB Lot||5:00 PM - 12:00 AM|6:00 AM - 5:00 PM||$8 Flat Rate|$8 Flat Rate|5632||||||||||http://maps.google.com/?q=49.2675596516011,-123.247323283241||||20140522090142| https://www.honkmobile.com/hourly/zones/5632
+2027|West Mall Road|||||||5601||||||||||||||20140311184407| https://www.honkmobile.com/hourly/zones/5601
+2029|Orchard Lot|||||||||||||||||Near MacMillan, Orchard House and Ritsumeikan||||20131215143008| https://www.honkmobile.com/hourly/zones/
+2032|Lower Mall Road||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5649||||||||||||||20131215154623| https://www.honkmobile.com/hourly/zones/5649
+2033|Old Auditorium|||||||||||||||||6344 Memorial Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2034|B.C. Binning|||||||||||||||||6363 Stores Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2035|Buchanan Complex|||||||||||||||||1866 Main Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2036|Cecil Green Park House|||||||||||||||||||||20131216165720| https://www.honkmobile.com/hourly/zones/
+2037|CEME Trailer|||||||||||||||||2345 East Mall ||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2040|George Cunningham Building|||||||||||||||||2146 East Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2042|David Strangway Building|||||||||||||||||2151 Wesbrook Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2043|Donald Rix Building|||||||||||||||||2389 Health Sciences Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2044|Earth & Ocean Sciences|||||||||||||||||2219 Main Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2045|First Nations Long House|||||||||||||||||1985 West Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2046|Food, Nutrition & Health|||||||||||||||||2205 East Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2047|Forest Sciences Centre|||||||||||||||||2424 Main Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2048|Frank Forward Building|||||||||||||||||6350 Stores Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2049|Fred Kaiser Building|||||||||||||||||2332 Main Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2193|B Lot|||||||||||||||||||||20140813102855| https://www.honkmobile.com/hourly/zones/
+2194|G Lot|||||||||||||||||||||20140813103011| https://www.honkmobile.com/hourly/zones/
+2195|H Lot|||||||||||||||||||||20140813103031| https://www.honkmobile.com/hourly/zones/
+2196|J Lot|||||||||||||||||||||20140813103046| https://www.honkmobile.com/hourly/zones/
+2197|F Lot|||||||||||||||||||||20161011141801| https://www.honkmobile.com/hourly/zones/
+2198|A Lot||||F/S Permit Only|||||||||||||||||20160120140655| https://www.honkmobile.com/hourly/zones/
+2199|C Lot|||||||||||||||||||||20140813102918| https://www.honkmobile.com/hourly/zones/
+2200|E Lot|||||||||||||||||||||20161011141738| https://www.honkmobile.com/hourly/zones/
+2202|M Lot|||||||||||||||||||||20161011142140| https://www.honkmobile.com/hourly/zones/
+2203|Q Lot|||||||||||||||||||||20121001142128| https://www.honkmobile.com/hourly/zones/
+2204|R Lot|||||||||||||||||||||20161011141831| https://www.honkmobile.com/hourly/zones/
+2205|Resident Lot|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2206|S Lot|||||||||||||||||||||20120731143641| https://www.honkmobile.com/hourly/zones/
+2050|Friedman Building|||||||||||||||||2177 Wesbrook Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2051|Gas Gun Facility|||||||||||||||||6301 Stadium Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2052|GSAB||5:00 PM - 12:00 AM|||$3.50/hr 4hr Max|$8 Flat Rate|||||||||||2075 Wesbrook Mall||||20130411131822| https://www.honkmobile.com/hourly/zones/
+2053|Geography Building|||||||||||||||||1984 West Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2054|Gerald McGavin Building|||||||||||||||||2386 East Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2055|Hennings & Hebb Buildings|||||||||||||||||6224 Agricultural Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2056|Henry Angus |||||||||||||||||2053 Main Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2057|Hillel House|||||||||||||||||6145 Student Union Boulevard||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2058|Hugh Dempster Pavilion|||||||||||||||||6245 Agronomy Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2059|Hut M17|||||||||||||||||6373 University Boulevard||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2060|Hut M18|||||||||||||||||6361 University Boulevard||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2061|Huts M21 & M22|||||||||||||||||2109 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2062|ICICS (CICSR)|||||||||||||||||2366 Main Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2063|IRC|||||||||||||||||2194 Health Sciences Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2064|International House|||||||||||||||||1783 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2065|J. B. Macdonald Building|||||||||||||||||2199 Wesbrook Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2066|Jack Bell Building|||||||||||||||||2080 West Mall ||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2067|James Mather Building|||||||||||||||||5804 Fairview Avenue||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2068|John Owen Pavilion|||||||||||||||||3055 Wesbrook Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2069|Douglas Kenny Building|||||||||||||||||2136 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2070|Abdul Ladha Building|||||||||||||||||2055 East Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2071|Landscape Architecture|||||||||||||||||2371 Main Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2188|Law Lot||5:00 PM - 12:00 AM|6:00 AM - 5:00 PM|$3.50/hr Max 4 hours|$1.50/hr Max $8.00|$1.50/hr Max $8.00|5654|1|0|0|0|0|0|0|0|1|Near Allard Hall, Buchanan and Brock Hall|Very busy location during daytime hours!||1|20170803125419| https://www.honkmobile.com/hourly/zones/5654
+2015|Brimacombe|||||||||||||||||2355 East Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2012|Biological Sciences|||||||||||||||||6270 University Blvd||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2013|Biomedical Research Ctr|||||||||||||||||2222 Health Sciences Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2017|Chemical & Biological Engineer|||||||||||||||||2360 East Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2019|Chemistry |||||||||||||||||2036 Main Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2021|CEME|||||||||||||||||2275 East Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2025|Volkoff Lane|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2028|University Centre Lot||5:00 PM - 12:00 AM|6:00 AM - 5:00 PM|$3.50/hr Max 4 hours|$8 Flat Rate|$8 Flat Rate|5638|1|0|0|0|0|0|0|0|0|Near Sage Restaurant, Peter Wall, Freddy Wood & Sing Tao|Perfect for stopping and checking out the Rose Garden view!||1|20170803115916| https://www.honkmobile.com/hourly/zones/5638
+2030|Sauder Lane|||||||||||||||||||||20131215152006| https://www.honkmobile.com/hourly/zones/
+2031|Armouries Lot||5:00 PM - 12:00 AM|6:00 AM - 5:00 PM|$3.50/hr Max 4 hours|$8 Flat Rate|$8 Flat Rate|5625|1|1|0|0|0|0|0|0|1|Near Arts district, Old Admin and Koerner Library||N/A|1|20170726114708| https://www.honkmobile.com/hourly/zones/5625
+2038|David Lam|||||||||||||||||6326 Agricultural Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2039|Copp Building|||||||||||||||||2146 Health Sciences Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2072|Frederic Lasserre Building|||||||||||||||||6333 Memorial Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2073|Leonard S. Klinck Building|||||||||||||||||6356 Agricultural Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2074|Library Processing Centre|||||||||||||||||2206 East Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2075|Liu Institute|||||||||||||||||6476 NW Marine Drive||||20130822082517| https://www.honkmobile.com/hourly/zones/
+2076|Lower Mall Header House|||||||||||||||||2269 Lower Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2077|Lower Mall Research Station|||||||||||||||||2259 Lower Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2078|MacLeod Building|||||||||||||||||2356 Main Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2079|H. R. MacMillan Building|||||||||||||||||2357 Main Mall ||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2080|Mary Bollert Hall|||||||||||||||||6253 NW Marine Drive||||20131219121649| https://www.honkmobile.com/hourly/zones/
+2081|Math/Stats Resource Centre|||||||||||||||||6357 Agricultural Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2082|Mathematics Building|||||||||||||||||1984 Mathematics Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2083|Med Block C|||||||||||||||||2176 Health Sciences Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2084|Michael Smith Laboratories|||||||||||||||||2185 East Mall ||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2085|Old Firehall|||||||||||||||||2038 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2086|Orchard House|||||||||||||||||2336 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2087|Ponderosa Complex|||||||||||||||||2011 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2088|PowerHouse|||||||||||||||||2040 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2089|Neville Scarfe Building|||||||||||||||||2125 Main Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2090|Sing Tao Building|||||||||||||||||6388 Crescent Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2091|TEF 3|||||||||||||||||6190 Agronomy Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2092|Totem Field Studios|||||||||||||||||2613 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2093|Wesbrook Building|||||||||||||||||6174 University Boulevard||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2094|West Mall Annex|||||||||||||||||1933 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2095|Aquatic Centre|||||||||||||||||6121 University Boulevard||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2096|West Mall Swing Building|||||||||||||||||2175 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2097|Asian Centre|||||||||||||||||1871 West Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2098|Barn Coffee Shop|||||||||||||||||2323 Main Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2099|Chan Centre|||||||||||||||||6265 Crescent Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2102|Koerner Library|||||||||||||||||1958 Main Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2103|Graduate Student Centre|||||||||||||||||6371 Crescent Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2104|Life Sciences Centre|||||||||||||||||2350 Health Sciences Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2105|Marine Drive Residence|||||||||||||||||2205 Lower Mall Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2106|Winter Sports Centre|||||||||||||||||6066 Thunderbird Boulevard||||20140312211720| https://www.honkmobile.com/hourly/zones/
+2107|Student Union Building|||||||||||||||||6138 Student Union Boulevard||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2108|Osborne Gyms|||||||||||||||||6108 Thunderbird Boulevard||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2109|Old Administration Building|||||||||||||||||6328 Memorial Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2110|Music Building|||||||||||||||||6361 Memorial Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2111|University Centre|||||||||||||||||6331 Crescent Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2112|UBC Hospital|||||||||||||||||2211 Wesbrook Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2113|Museum of Anthropology|||||||||||||||||6393 NW Marine Drive||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2114|Belkin Art Gallery|||||||||||||||||1825 Main Mall||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2100|Freddy Wood Theatre|||||||||||||||||6354 Crescent Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2115|Ritsumeikan House|||||||||||||||||6460 Agronomy Road||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2101|Green College|||||||||||||||||6201 Cecil Gren Park Road||||20131216165628| https://www.honkmobile.com/hourly/zones/
+2141|Wesbrook Mall Dentistry/Hospital|||||||||||||||||||||20121025132446| https://www.honkmobile.com/hourly/zones/
+2142|Wesbrook Mall 2200 Block||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5612||||||||||||||20140311193257| https://www.honkmobile.com/hourly/zones/5612
+2143|Wesbrook Mall 2300 Block|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2144|Wesbrook Mall 2400 Block|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2145|Wesbrook Mall Tbird to16th|||||||||||||||||||||20131216142939| https://www.honkmobile.com/hourly/zones/
+2146|Wesbrook Mall 2600 Block|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2147|Wesbrook Mall 2700 Block|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2148|Wesbrook Mall 2800 Block|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2149|Wesbrook Mall 2900 Block|||||||||||||||||||||20130920080302| https://www.honkmobile.com/hourly/zones/
+2150|Wesbrook Mall South 16th|||||||||||||||||||||20130912133250| https://www.honkmobile.com/hourly/zones/
+2151|Wesbrook Mall 3100 Block|||||||||||||||||||||20130912133500| https://www.honkmobile.com/hourly/zones/
+2158|B7 Lot|||||||||||||||||Event Only Lot by Thunderbird Stadium||||20120825195319| https://www.honkmobile.com/hourly/zones/
+2159|Berwick Lot||5:00 PM - 12:00 AM|6:00 AM - 5:00 PM|F/S Permit Only|$8 Flat Rate|$8 Flat Rate|5642||||||||||At Berwick Daycare Centre on Osyoos Cresent||||20130411145717| https://www.honkmobile.com/hourly/zones/5642
+2160|Bookstore Lot|||||||||||||||||Near Bookstore, Sauder, Chemistry, Physics, SUB||||20120825194920| https://www.honkmobile.com/hourly/zones/
+2161|Brock Hall Lot||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5617||||||||||Behind Brock Hall off Walter Gage Road||||20130304145022| https://www.honkmobile.com/hourly/zones/5617
+2162|Buchanan Meter Lot||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5608||||||||||At Buchanan E Block off of East Mall||||20150722084040| https://www.honkmobile.com/hourly/zones/5608
+2163|C2 Lot|||7:00 AM - 2:00 AM|$3/hr  Max $15/day|$8 Flat Rate|$8 Flat Rate|5627|1|1|0|0|0|0|0|0|0|Near Life Sciences , Applied Sciences District and TEF 3|Short-term stalls available for quick access|N/A|1|20170628125104| https://www.honkmobile.com/hourly/zones/5627
+2164|Library Processing Lot|||||||||||||||||||||20120825195542| https://www.honkmobile.com/hourly/zones/
+2165|L Lot|||||||||||||||||Resident Lot by St. John's College & Marine Drive Residences||||20120825195510| https://www.honkmobile.com/hourly/zones/
+2166|Michael Smith Lot||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5621||||||||||On East Mall near Bookstore & Wesbrook Building||||20140620081655| https://www.honkmobile.com/hourly/zones/5621
+2167|Mather Lot|||||||||||||||||||||20120825195413| https://www.honkmobile.com/hourly/zones/
+2168|Museum Lot||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|$3.50/hr Max $8.00|$3.50/hr Max $8.00|5603||||||||||||||20150601142519| https://www.honkmobile.com/hourly/zones/5603
+2169|Music Underground Lot|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2170|North Parkade||5:00 PM - 12:00 AM|6:00 AM - 5:00 PM|$3.50/hr max $16.00|$3.50/hr Max $8.00|$3.50/hr Max $8.00|5667|1|1|1|0|1|1|1|0|1|Naer Brock Hall, Gage Residence, Nest and Aquatic Centre||6'5"|1|20170726151724| https://www.honkmobile.com/hourly/zones/5667
+2207|Motorcycle Lot|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2208|Marine Drive Residences|||||||||||||||||||||20131215151424| https://www.honkmobile.com/hourly/zones/
+2209|Strangway Pay Lot||6:00 PM - 6:00 AM|6:00 AM - 6:00 PM|$3.50/hr max $16.00|$1.00/hr Max $6.00|$1.00/hr Max $6.00|5655||||||||||||||20150724111157| https://www.honkmobile.com/hourly/zones/5655
+2210|D Lot|||||||||||||||||||||20161011141525| https://www.honkmobile.com/hourly/zones/
+2211|K Lot|||||||||||||||||||||20161011141426| https://www.honkmobile.com/hourly/zones/
+2212|O Lot|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2213|Motorcycle Lot Complimentary|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2214|Service Okanagan|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2215|U Lot|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2216|CD Lot|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2217|Nurseries Road|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2218|PowerHouse Reserved|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2219|Wesbrook Mall|||||||||||||||||||||20130912133401| https://www.honkmobile.com/hourly/zones/
+2220|Old Firehall Meters||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours|No Charge|$3.50/hr Max $14|5604||||||||||||||20131215152336| https://www.honkmobile.com/hourly/zones/5604
+2221|Memorial Lot|||||||5605|1|1|0|0|0|0|0|0|0||Board of Governor's Lot - No public parking||1|20170803120230| https://www.honkmobile.com/hourly/zones/5605
+2222|Bioenergy Research|||||||||||||||||||||20120720172509| https://www.honkmobile.com/hourly/zones/
+2223|Totem Lot - F/S||||F/S Permit Only|||||||||||||F/S Lot adjacent to Totem Rez Lot||||20131215140044| https://www.honkmobile.com/hourly/zones/
+2224|Faculty & Staff Surface Lots|||||||||||||||||||||20130403154339| https://www.honkmobile.com/hourly/zones/
+2225|Loading Zones - All|||||||||||||||||||||20121203100807| https://www.honkmobile.com/hourly/zones/
+2226|Ponderosa Meters||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$3.50/hr Max 4 hours||$3.50/hr Max $14|5604||||||||||2000 West Mall||||20130304103745| https://www.honkmobile.com/hourly/zones/5604
+2227|Totem Meters||10:00 PM - 7:00 AM|7:00 AM - 10:00 PM|$2/Hour Max 4 hours|No Charge|$2/hr Max $10|5601||||||||||||||20131215135354| https://www.honkmobile.com/hourly/zones/5601
+2228|Alumni Avenue|||||||||||||||||||||20130424123555| https://www.honkmobile.com/hourly/zones/
+2229|Surface Pay Lots|||||||||||||||||||||20130424162332| https://www.honkmobile.com/hourly/zones/
+2230|All Parkades|||||||||||||||||||||20130424162429| https://www.honkmobile.com/hourly/zones/
+2231|Hospice Lot|||||||||||||||||||||20150724111121| https://www.honkmobile.com/hourly/zones/
+2232|UBC Farm|||||||5646||||||||||||||20141124144958| https://www.honkmobile.com/hourly/zones/5646
+2233|Botanical Gardens||12:00 AM - 6:00 AM|7:00 AM - 10:00 PM|$2/hr Max $10/day||$2/hr Max $6|5642|1|0|0|0|0|0|0|0|1|Parking at Botanical Gardens|Visitors to Gardens get a special rate!||1|20170803125117| https://www.honkmobile.com/hourly/zones/5642
+2234|East Mall Road North|||||||||||||||||||||20130912133801| https://www.honkmobile.com/hourly/zones/
+2235|Triumf|||7:00 AM - Midnight|$1.00/hr Max $6.50/day|||5643||||||||||||||20140813114908| https://www.honkmobile.com/hourly/zones/5643
+2236|Mary Bollert Hall F/S|||||||||||||||||||||20131219121313| https://www.honkmobile.com/hourly/zones/
+2237|University Hill Secondary School||5:00 PM - 12:00 AM|6:00 AM - 6:00 PM|Reserved/Assigned Permit Only|||5616||||||||||||||20150724111216| https://www.honkmobile.com/hourly/zones/5616
+2238|Centre for Comparative Medicine|||||||5657||||||||||||||20140226150542| https://www.honkmobile.com/hourly/zones/5657
+2239|Doug Mitchell Load Zone|||||||||||||||||||||20140217125839| https://www.honkmobile.com/hourly/zones/
+2240|Iona Drive Lot|||||||||||||||||||||20141008122753| https://www.honkmobile.com/hourly/zones/
+2241|Wayne & William White Engineerin|||||||||||||||||||||20141114131233| https://www.honkmobile.com/hourly/zones/
+2242|Keremeos Court|||||||||||||||||||||20150904105718| https://www.honkmobile.com/hourly/zones/
+2243|Salmo Court|||||||||||||||||||||20150904105728| https://www.honkmobile.com/hourly/zones/
+2244|Oyama Court|||||||||||||||||||||20150904105707| https://www.honkmobile.com/hourly/zones/
+2245|Vancouver School of Theology|||||||||||||||||||||20141124144641| https://www.honkmobile.com/hourly/zones/
+2246|Beaty Biodiversity Building|||||||||||||||||||||20150427080954| https://www.honkmobile.com/hourly/zones/
+2247|Oberlander Lane|||||||||||||||||between marine drive residence & lower mall research station||||20150427135226| https://www.honkmobile.com/hourly/zones/
+2248|Alumni Centre|||||||||||||||||||||20150717145209| https://www.honkmobile.com/hourly/zones/
+2252|Vancouver School of Economics|||||||||||||||||||||20150911115603| https://www.honkmobile.com/hourly/zones/
+2253|X Lot|||||||||||||||||||||20160210161934| https://www.honkmobile.com/hourly/zones/
+2254|Y Lot|||||||||||||||||||||20160210162215| https://www.honkmobile.com/hourly/zones/
+2255|W||||||||0|0|0|0|0|0|0|0|0||||0|20170627161557| https://www.honkmobile.com/hourly/zones/
+2256|Z Lot|||||||||||||||||||||20160210162148| https://www.honkmobile.com/hourly/zones/
+2257|Library PARC||||F/S Permit Only|||||||||||||||||20160307132727| https://www.honkmobile.com/hourly/zones/
+2258|Acadia Park |||||||||||||||||||||20160406120730| https://www.honkmobile.com/hourly/zones/
+2259|Acadia Visitor Parking Areas|||||||||||||||||||||20160525104100| https://www.honkmobile.com/hourly/zones/
+2260|All lots except M and R|||||||||||||||||||||20170224154151| https://www.honkmobile.com/hourly/zones/
+2261|Multi-Lot|||||||||||||||||||||20170301132311| https://www.honkmobile.com/hourly/zones/
+2262|Orchard Commons||||||||0|0|0|0||0|0|0|0|||||20170428114008| https://www.honkmobile.com/hourly/zones/
+2263|Iona Underground|||||||||||||||||||||20170410104223| https://www.honkmobile.com/hourly/zones/
+2264|NSDC LOT||||||||1|0|0|0|1|0|0|0|0|Near UBC Athletics Fields|||1|20170627120823| https://www.honkmobile.com/hourly/zones/
+2265|memorial gym fire lane||||||||0|0|0|0|0|0|0|0|0|Memorial Gym |||0|20170627122041| https://www.honkmobile.com/hourly/zones/
