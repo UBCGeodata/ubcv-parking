@@ -1,6 +1,6 @@
 ubcv-parking
 ============
-Parking related data for UBC Vancouver Campus
+Parking related data for UBC Vancouver Campus. Created for UBC Parking web site. 
 
 Datasets
 --------
