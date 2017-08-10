@@ -200,8 +200,8 @@
 2207;Motorcycle Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2208;Marine Drive Residences;;;;;;;;;;;;;;;;;;;;;20131215151424; https://www.honkmobile.com/hourly/zones/
 2209;Strangway Pay Lot;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$3.50/hr max $16.00;$1.00/hr Max $6.00;$1.00/hr Max $6.00;5655;;;;;;;;;;;;;;20150724111157; https://www.honkmobile.com/hourly/zones/5655
-2210;D Lot;;;;;;;;;;;;;;;;;;;;;20161011141525; https://www.honkmobile.com/hourly/zones/
-2211;K Lot;;;;;;;;;;;;;;;;;;;;;20161011141426; https://www.honkmobile.com/hourly/zones/
+2210;Accessibility Permit;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20170810115823; https://www.honkmobile.com/hourly/zones/
+2211;K Lot;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20170810115714; https://www.honkmobile.com/hourly/zones/
 2212;O Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2213;Motorcycle Lot Complimentary;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2214;Service Okanagan;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
@@ -248,8 +248,9 @@
 2258;Acadia Park ;;;;;;;;;;;;;;;;;;;;;20160406120730; https://www.honkmobile.com/hourly/zones/
 2259;Acadia Visitor Parking Areas;;;;;;;;;;;;;;;;;;;;;20160525104100; https://www.honkmobile.com/hourly/zones/
 2260;All lots except M and R;;;;;;;;;;;;;;;;;;;;;20170224154151; https://www.honkmobile.com/hourly/zones/
-2261;Multi-Lot;;;;;;;;;;;;;;;;;;;;;20170301132311; https://www.honkmobile.com/hourly/zones/
+2261;Multi-Lot;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20170810115737; https://www.honkmobile.com/hourly/zones/
 2262;Orchard Commons;;;;;;;;0;0;0;0;;0;0;0;0;;;;;20170428114008; https://www.honkmobile.com/hourly/zones/
 2263;Iona Underground;;;;;;;;;;;;;;;;;;;;;20170410104223; https://www.honkmobile.com/hourly/zones/
 2264;NSDC LOT;;;;;;;;1;0;0;0;1;0;0;0;0;Near UBC Athletics Fields;;;1;20170627120823; https://www.honkmobile.com/hourly/zones/
 2265;memorial gym fire lane;;;;;;;;0;0;0;0;0;0;0;0;0;Memorial Gym ;;;0;20170627122041; https://www.honkmobile.com/hourly/zones/
+2266;DAYCARE;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20170810115653; https://www.honkmobile.com/hourly/zones/
