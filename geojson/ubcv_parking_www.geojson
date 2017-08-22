@@ -6,6 +6,142 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
+        "coordinates" : [ -123.25093450984008, 49.269043514236927 ]
+      },
+      "properties" : {
+        "FAC_ID" : "2170",
+        "FAC_UID" : 2170,
+        "FAC_DESCRIPTION" : "North Parkade",
+        "FAC_ADDRESS" : "6115 Student Union Boulevard V6T 1Z1",
+        "FAC_HOURPM" : "5:00 PM - 12:00 AM",
+        "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
+        "FAC_RATE" : "$3.50/hr max $16.00",
+        "FAC_RATEPM" : "$3.50/hr Max $8.00",
+        "FAC_RATEHOL" : "$3.50/hr Max $8.00",
+        "FAC_VERRUS" : "5667",
+        "FAC_DISABLED" : "1",
+        "FAC_MC" : "1",
+        "FAC_BIKE" : "1",
+        "FAC_ELEVATOR" : "1",
+        "FAC_EV" : "1",
+        "FAC_UNDERPERMIT" : "1",
+        "FAC_GRAD" : "1",
+        "FAC_REZPERMIT" : "1",
+        "FAC_FSPERMIT" : "1",
+        "FAC_BOUNDARY_DESCRIPTION" : "Naer Brock Hall, Gage Residence, Nest and Aquatic Centre",
+        "FAC_TIPS" : "Short-term stalls available for pool and gym visitors",
+        "FAC_HEIGHT" : "6'5\"",
+        "FAC_MAP_DISPLAY" : "1",
+        "FAC_MODIFY_DATE" : "20170822092158",
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -123.24559890972148, 49.260864230681655 ]
+      },
+      "properties" : {
+        "FAC_ID" : "2163",
+        "FAC_UID" : 2163,
+        "FAC_DESCRIPTION" : "C2 Lot",
+        "FAC_ADDRESS" : null,
+        "FAC_HOURPM" : null,
+        "FAC_HOURSDAY" : "7:00 AM - 2:00 AM",
+        "FAC_RATE" : "$3/hr  Max $15/day",
+        "FAC_RATEPM" : null,
+        "FAC_RATEHOL" : null,
+        "FAC_VERRUS" : "5627",
+        "FAC_DISABLED" : "1",
+        "FAC_MC" : "1",
+        "FAC_BIKE" : "0",
+        "FAC_ELEVATOR" : "0",
+        "FAC_EV" : "0",
+        "FAC_UNDERPERMIT" : "0",
+        "FAC_GRAD" : "0",
+        "FAC_REZPERMIT" : "0",
+        "FAC_FSPERMIT" : "0",
+        "FAC_BOUNDARY_DESCRIPTION" : "Near Life Sciences , Applied Sciences District and TEF 3",
+        "FAC_TIPS" : "Short-term stalls available for quick access",
+        "FAC_HEIGHT" : "N/A",
+        "FAC_MAP_DISPLAY" : "1",
+        "FAC_MODIFY_DATE" : "20170822091909",
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5627"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -123.25838168695708, 49.269258413864165 ]
+      },
+      "properties" : {
+        "FAC_ID" : "2168",
+        "FAC_UID" : 2168,
+        "FAC_DESCRIPTION" : "Museum Lot",
+        "FAC_ADDRESS" : null,
+        "FAC_HOURPM" : "10:00 PM - 7:00 AM",
+        "FAC_HOURSDAY" : "7:00 AM - 10:00 PM",
+        "FAC_RATE" : "$3.50/hr Max 4 hours",
+        "FAC_RATEPM" : "$3.50/hr Max $8.00",
+        "FAC_RATEHOL" : "$3.50/hr Max $8.00",
+        "FAC_VERRUS" : "5603",
+        "FAC_DISABLED" : "1",
+        "FAC_MC" : "0",
+        "FAC_BIKE" : "0",
+        "FAC_ELEVATOR" : "0",
+        "FAC_EV" : "0",
+        "FAC_UNDERPERMIT" : "0",
+        "FAC_GRAD" : "0",
+        "FAC_REZPERMIT" : "0",
+        "FAC_FSPERMIT" : "0",
+        "FAC_BOUNDARY_DESCRIPTION" : "Proximity parking for Museum of Anthropology",
+        "FAC_TIPS" : "Very busy location during daytime hours!",
+        "FAC_HEIGHT" : null,
+        "FAC_MAP_DISPLAY" : "1",
+        "FAC_MODIFY_DATE" : "20170813124902",
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5603"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -123.24404988405811, 49.254978634577895 ]
+      },
+      "properties" : {
+        "FAC_ID" : "2178",
+        "FAC_UID" : 2178,
+        "FAC_DESCRIPTION" : "Stadium Lot",
+        "FAC_ADDRESS" : null,
+        "FAC_HOURPM" : "5:00 PM - 12:00 AM",
+        "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
+        "FAC_RATE" : "$3/hr  Max $15/day",
+        "FAC_RATEPM" : "$2.00/hr Max $10.00",
+        "FAC_RATEHOL" : "$2/hr Max $10",
+        "FAC_VERRUS" : "5630",
+        "FAC_DISABLED" : "1",
+        "FAC_MC" : "0",
+        "FAC_BIKE" : "0",
+        "FAC_ELEVATOR" : "0",
+        "FAC_EV" : "0",
+        "FAC_UNDERPERMIT" : "0",
+        "FAC_GRAD" : "0",
+        "FAC_REZPERMIT" : "0",
+        "FAC_FSPERMIT" : "1",
+        "FAC_BOUNDARY_DESCRIPTION" : "Parking at Thunderbird Stadium",
+        "FAC_TIPS" : "Check our events listings to ensure lot isn't closed!",
+        "FAC_HEIGHT" : null,
+        "FAC_MAP_DISPLAY" : "1",
+        "FAC_MODIFY_DATE" : "20170803124707",
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5630"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
         "coordinates" : [ -123.25548018716441, 49.264899474502556 ]
       },
       "properties" : {
@@ -46,7 +182,7 @@
         "FAC_ID" : "2179",
         "FAC_UID" : 2179,
         "FAC_DESCRIPTION" : "Thunderbird Parkade",
-        "FAC_ADDRESS" : "6065 Thunderbird Blvd, Vancouver, BC",
+        "FAC_ADDRESS" : "6065 Thunderbird Blvd, Vancouver, BC V6T 1Z3",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
         "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
         "FAC_RATE" : "$3.50/hr max $16.00",
@@ -66,7 +202,7 @@
         "FAC_TIPS" : "Rooftop Parking $10/Day",
         "FAC_HEIGHT" : "6'10\"                2.08m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20170811134041",
+        "FAC_MODIFY_DATE" : "20170813130051",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5677"
       }
     },
@@ -176,40 +312,6 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25093450984008, 49.269043514236927 ]
-      },
-      "properties" : {
-        "FAC_ID" : "2170",
-        "FAC_UID" : 2170,
-        "FAC_DESCRIPTION" : "North Parkade",
-        "FAC_ADDRESS" : null,
-        "FAC_HOURPM" : "5:00 PM - 12:00 AM",
-        "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-        "FAC_RATE" : "$3.50/hr max $16.00",
-        "FAC_RATEPM" : "$3.50/hr Max $8.00",
-        "FAC_RATEHOL" : "$3.50/hr Max $8.00",
-        "FAC_VERRUS" : "5667",
-        "FAC_DISABLED" : "1",
-        "FAC_MC" : "1",
-        "FAC_BIKE" : "1",
-        "FAC_ELEVATOR" : "0",
-        "FAC_EV" : "1",
-        "FAC_UNDERPERMIT" : "1",
-        "FAC_GRAD" : "1",
-        "FAC_REZPERMIT" : "0",
-        "FAC_FSPERMIT" : "1",
-        "FAC_BOUNDARY_DESCRIPTION" : "Naer Brock Hall, Gage Residence, Nest and Aquatic Centre",
-        "FAC_TIPS" : null,
-        "FAC_HEIGHT" : "6'5\"",
-        "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20170726151724",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667"
-      }
-    },
-    {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
         "coordinates" : [ -123.24951480346523, 49.268673697845813 ]
       },
       "properties" : {
@@ -312,40 +414,6 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.24637494808545, 49.265716363613869 ]
-      },
-      "properties" : {
-        "FAC_ID" : "2209",
-        "FAC_UID" : 2209,
-        "FAC_DESCRIPTION" : "Strangway Pay Lot",
-        "FAC_ADDRESS" : null,
-        "FAC_HOURPM" : "6:00 PM - 6:00 AM",
-        "FAC_HOURSDAY" : "6:00 AM - 6:00 PM",
-        "FAC_RATE" : "$3.50/hr max $16.00",
-        "FAC_RATEPM" : "$1.00/hr Max $6.00",
-        "FAC_RATEHOL" : "$1.00/hr Max $6.00",
-        "FAC_VERRUS" : "5655",
-        "FAC_DISABLED" : null,
-        "FAC_MC" : null,
-        "FAC_BIKE" : null,
-        "FAC_ELEVATOR" : null,
-        "FAC_EV" : null,
-        "FAC_UNDERPERMIT" : null,
-        "FAC_GRAD" : null,
-        "FAC_REZPERMIT" : null,
-        "FAC_FSPERMIT" : null,
-        "FAC_BOUNDARY_DESCRIPTION" : null,
-        "FAC_TIPS" : null,
-        "FAC_HEIGHT" : null,
-        "FAC_MAP_DISPLAY" : null,
-        "FAC_MODIFY_DATE" : "20150724111157",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5655"
-      }
-    },
-    {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
         "coordinates" : [ -123.24984227821491, 49.264936851916545 ]
       },
       "properties" : {
@@ -386,7 +454,7 @@
         "FAC_ID" : "2185",
         "FAC_UID" : 2185,
         "FAC_DESCRIPTION" : "Health Sciences Parkade",
-        "FAC_ADDRESS" : "2250 Health Sciences Mall, Vancouver, BC ",
+        "FAC_ADDRESS" : "2250 Health Sciences Mall, Vancouver, BC V6T 1Z3 ",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
         "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
         "FAC_RATE" : null,
@@ -406,7 +474,7 @@
         "FAC_TIPS" : "Patient Priority stalls on-site",
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20170726151140",
+        "FAC_MODIFY_DATE" : "20170813130116",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5669"
       }
     },
@@ -454,62 +522,28 @@
         "FAC_ID" : "2176",
         "FAC_UID" : 2176,
         "FAC_DESCRIPTION" : "Rose Garden Parkade",
-        "FAC_ADDRESS" : null,
+        "FAC_ADDRESS" : "6278 NW Marine Drive, Vancouver, BC V6T 1Z1",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
         "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-        "FAC_RATE" : null,
-        "FAC_RATEPM" : "$3.50/hr 4hr Max",
+        "FAC_RATE" : "$3.50/hr max $16.00",
+        "FAC_RATEPM" : "$3.50/hr Max $8.00",
         "FAC_RATEHOL" : "$3.50/hr Max $8.00",
         "FAC_VERRUS" : "5665",
-        "FAC_DISABLED" : "0",
-        "FAC_MC" : "0",
-        "FAC_BIKE" : "0",
-        "FAC_ELEVATOR" : "0",
-        "FAC_EV" : "0",
-        "FAC_UNDERPERMIT" : "0",
-        "FAC_GRAD" : "0",
-        "FAC_REZPERMIT" : "0",
-        "FAC_FSPERMIT" : "0",
-        "FAC_BOUNDARY_DESCRIPTION" : null,
-        "FAC_TIPS" : null,
-        "FAC_HEIGHT" : null,
-        "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20170726151749",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5665"
-      }
-    },
-    {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [ -123.24559890972148, 49.260864230681655 ]
-      },
-      "properties" : {
-        "FAC_ID" : "2163",
-        "FAC_UID" : 2163,
-        "FAC_DESCRIPTION" : "C2 Lot",
-        "FAC_ADDRESS" : null,
-        "FAC_HOURPM" : null,
-        "FAC_HOURSDAY" : "7:00 AM - 2:00 AM",
-        "FAC_RATE" : "$3/hr  Max $15/day",
-        "FAC_RATEPM" : "$8 Flat Rate",
-        "FAC_RATEHOL" : "$8 Flat Rate",
-        "FAC_VERRUS" : "5627",
         "FAC_DISABLED" : "1",
         "FAC_MC" : "1",
         "FAC_BIKE" : "0",
-        "FAC_ELEVATOR" : "0",
+        "FAC_ELEVATOR" : "1",
         "FAC_EV" : "0",
-        "FAC_UNDERPERMIT" : "0",
-        "FAC_GRAD" : "0",
-        "FAC_REZPERMIT" : "0",
-        "FAC_FSPERMIT" : "0",
-        "FAC_BOUNDARY_DESCRIPTION" : "Near Life Sciences , Applied Sciences District and TEF 3",
-        "FAC_TIPS" : "Short-term stalls available for quick access",
-        "FAC_HEIGHT" : "N/A",
+        "FAC_UNDERPERMIT" : "1",
+        "FAC_GRAD" : "1",
+        "FAC_REZPERMIT" : "1",
+        "FAC_FSPERMIT" : "1",
+        "FAC_BOUNDARY_DESCRIPTION" : "Close to Chan Centre, Freddy Wood Theatre and MOA",
+        "FAC_TIPS" : "Event rate of $10 in effect for events at the Chan Centre",
+        "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20170811133747",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5627"
+        "FAC_MODIFY_DATE" : "20170813125843",
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5665"
       }
     },
     {
@@ -686,40 +720,6 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25838168695708, 49.269258413864165 ]
-      },
-      "properties" : {
-        "FAC_ID" : "2168",
-        "FAC_UID" : 2168,
-        "FAC_DESCRIPTION" : "Museum Lot",
-        "FAC_ADDRESS" : null,
-        "FAC_HOURPM" : "10:00 PM - 7:00 AM",
-        "FAC_HOURSDAY" : "7:00 AM - 10:00 PM",
-        "FAC_RATE" : "$3.50/hr Max 4 hours",
-        "FAC_RATEPM" : "$3.50/hr Max $8.00",
-        "FAC_RATEHOL" : "$3.50/hr Max $8.00",
-        "FAC_VERRUS" : "5603",
-        "FAC_DISABLED" : null,
-        "FAC_MC" : null,
-        "FAC_BIKE" : null,
-        "FAC_ELEVATOR" : null,
-        "FAC_EV" : null,
-        "FAC_UNDERPERMIT" : null,
-        "FAC_GRAD" : null,
-        "FAC_REZPERMIT" : null,
-        "FAC_FSPERMIT" : null,
-        "FAC_BOUNDARY_DESCRIPTION" : null,
-        "FAC_TIPS" : null,
-        "FAC_HEIGHT" : null,
-        "FAC_MAP_DISPLAY" : null,
-        "FAC_MODIFY_DATE" : "20150601142519",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5603"
-      }
-    },
-    {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
         "coordinates" : [ -123.25883015486393, 49.270487467636343 ]
       },
       "properties" : {
@@ -828,7 +828,7 @@
         "FAC_ID" : "2184",
         "FAC_UID" : 2184,
         "FAC_DESCRIPTION" : "Fraser River Parkade",
-        "FAC_ADDRESS" : "6440 Memorial Rd, Vancouver, BC",
+        "FAC_ADDRESS" : "6440 Memorial Rd, Vancouver, BC V6T 1Z2",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
         "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
         "FAC_RATE" : null,
@@ -837,7 +837,7 @@
         "FAC_VERRUS" : "5673",
         "FAC_DISABLED" : "1",
         "FAC_MC" : "1",
-        "FAC_BIKE" : "0",
+        "FAC_BIKE" : "1",
         "FAC_ELEVATOR" : "0",
         "FAC_EV" : "0",
         "FAC_UNDERPERMIT" : "1",
@@ -848,7 +848,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20170726151058",
+        "FAC_MODIFY_DATE" : "20170822092046",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5673"
       }
     },
@@ -884,40 +884,6 @@
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170803122404",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5631"
-      }
-    },
-    {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [ -123.24404988405811, 49.254978634577895 ]
-      },
-      "properties" : {
-        "FAC_ID" : "2178",
-        "FAC_UID" : 2178,
-        "FAC_DESCRIPTION" : "Stadium Lot",
-        "FAC_ADDRESS" : null,
-        "FAC_HOURPM" : "5:00 PM - 12:00 AM",
-        "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-        "FAC_RATE" : "$3/hr  Max $15/day",
-        "FAC_RATEPM" : "$2.00/hr Max $10.00",
-        "FAC_RATEHOL" : "$2/hr Max $10",
-        "FAC_VERRUS" : "5630",
-        "FAC_DISABLED" : "1",
-        "FAC_MC" : "0",
-        "FAC_BIKE" : "0",
-        "FAC_ELEVATOR" : "0",
-        "FAC_EV" : "0",
-        "FAC_UNDERPERMIT" : "0",
-        "FAC_GRAD" : "0",
-        "FAC_REZPERMIT" : "0",
-        "FAC_FSPERMIT" : "1",
-        "FAC_BOUNDARY_DESCRIPTION" : "Parking at Thunderbird Stadium",
-        "FAC_TIPS" : "Check our events listings to ensure lot isn't closed!",
-        "FAC_HEIGHT" : null,
-        "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20170803124707",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5630"
       }
     },
     {
@@ -998,27 +964,27 @@
         "FAC_ID" : "2181",
         "FAC_UID" : 2181,
         "FAC_DESCRIPTION" : "West Parkade",
-        "FAC_ADDRESS" : null,
+        "FAC_ADDRESS" : "2140 Lower Mall, Vancouver, BC V6T 1Z2",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
         "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-        "FAC_RATE" : null,
-        "FAC_RATEPM" : "$3.50/hr 4hr Max",
+        "FAC_RATE" : "$3.50/hr max $16.00",
+        "FAC_RATEPM" : "$3.50/hr Max $8.00",
         "FAC_RATEHOL" : "$3.50/hr Max $8.00",
         "FAC_VERRUS" : "5671",
-        "FAC_DISABLED" : "0",
+        "FAC_DISABLED" : "1",
         "FAC_MC" : "0",
-        "FAC_BIKE" : "0",
+        "FAC_BIKE" : "1",
         "FAC_ELEVATOR" : "0",
-        "FAC_EV" : "0",
-        "FAC_UNDERPERMIT" : "0",
-        "FAC_GRAD" : "0",
-        "FAC_REZPERMIT" : "0",
-        "FAC_FSPERMIT" : "0",
-        "FAC_BOUNDARY_DESCRIPTION" : null,
-        "FAC_TIPS" : null,
-        "FAC_HEIGHT" : null,
-        "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20170726151903",
+        "FAC_EV" : "1",
+        "FAC_UNDERPERMIT" : "1",
+        "FAC_GRAD" : "1",
+        "FAC_REZPERMIT" : "1",
+        "FAC_FSPERMIT" : "1",
+        "FAC_BOUNDARY_DESCRIPTION" : "Near Education, Sauder School, Ponderosa Commons and Wreck Beach",
+        "FAC_TIPS" : "Park on level 4 for accessible parking to street access for UBC",
+        "FAC_HEIGHT" : "6'8\"                2.03m",
+        "FAC_MAP_DISPLAY" : "1",
+        "FAC_MODIFY_DATE" : "20170822092129",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5671"
       }
     },
@@ -1564,6 +1530,40 @@
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20140311193257",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5612"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -123.24638602533318, 49.265709873742594 ]
+      },
+      "properties" : {
+        "FAC_ID" : "2209",
+        "FAC_UID" : 2209,
+        "FAC_DESCRIPTION" : "Strangway Pay Lot",
+        "FAC_ADDRESS" : null,
+        "FAC_HOURPM" : "6:00 PM - 6:00 AM",
+        "FAC_HOURSDAY" : "6:00 AM - 6:00 PM",
+        "FAC_RATE" : "$3.50/hr max $16.00",
+        "FAC_RATEPM" : "$1.00/hr Max $6.00",
+        "FAC_RATEHOL" : "$1.00/hr Max $6.00",
+        "FAC_VERRUS" : "5655",
+        "FAC_DISABLED" : null,
+        "FAC_MC" : null,
+        "FAC_BIKE" : null,
+        "FAC_ELEVATOR" : null,
+        "FAC_EV" : null,
+        "FAC_UNDERPERMIT" : null,
+        "FAC_GRAD" : null,
+        "FAC_REZPERMIT" : null,
+        "FAC_FSPERMIT" : null,
+        "FAC_BOUNDARY_DESCRIPTION" : null,
+        "FAC_TIPS" : null,
+        "FAC_HEIGHT" : null,
+        "FAC_MAP_DISPLAY" : null,
+        "FAC_MODIFY_DATE" : "20150724111157",
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5655"
       }
     }
   ]
