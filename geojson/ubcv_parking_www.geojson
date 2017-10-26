@@ -6,7 +6,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25093450984008, 49.269043514236927 ]
+        "coordinates" : [ -123.25093450984008, 49.26904351423693 ]
       },
       "properties" : {
         "FAC_ID" : "2170",
@@ -176,7 +176,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.24306007235424, 49.261658216001301 ]
+        "coordinates" : [ -123.24306007235424, 49.2616582160013 ]
       },
       "properties" : {
         "FAC_ID" : "2179",
@@ -244,7 +244,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25037787951541, 49.271246223135591 ]
+        "coordinates" : [ -123.25037787951541, 49.27124622313559 ]
       },
       "properties" : {
         "FAC_ID" : "2252",
@@ -278,7 +278,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25037226226357, 49.270051688630531 ]
+        "coordinates" : [ -123.25037226226357, 49.27005168863053 ]
       },
       "properties" : {
         "FAC_ID" : "2134",
@@ -312,7 +312,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.24951480346523, 49.268673697845813 ]
+        "coordinates" : [ -123.24951480346523, 49.26867369784581 ]
       },
       "properties" : {
         "FAC_ID" : "2133",
@@ -380,7 +380,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.24505111588157, 49.264839733010277 ]
+        "coordinates" : [ -123.24505111588157, 49.26483973301028 ]
       },
       "properties" : {
         "FAC_ID" : "2152",
@@ -516,7 +516,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.2562959831736, 49.269079485884717 ]
+        "coordinates" : [ -123.2562959831736, 49.26907948588472 ]
       },
       "properties" : {
         "FAC_ID" : "2176",
@@ -550,7 +550,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25698594037247, 49.268540963154607 ]
+        "coordinates" : [ -123.25698594037247, 49.26854096315461 ]
       },
       "properties" : {
         "FAC_ID" : "2028",
@@ -618,7 +618,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.2573740121922, 49.267377982469952 ]
+        "coordinates" : [ -123.2573740121922, 49.26737798246995 ]
       },
       "properties" : {
         "FAC_ID" : "2031",
@@ -720,7 +720,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25883015486393, 49.270487467636343 ]
+        "coordinates" : [ -123.25883015486393, 49.27048746763634 ]
       },
       "properties" : {
         "FAC_ID" : "2136",
@@ -754,7 +754,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25703687257425, 49.266934225710202 ]
+        "coordinates" : [ -123.25703687257425, 49.2669342257102 ]
       },
       "properties" : {
         "FAC_ID" : "2221",
@@ -856,7 +856,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.24975080728569, 49.25992322001234 ]
+        "coordinates" : [ -123.2497508072857, 49.25992322001234 ]
       },
       "properties" : {
         "FAC_ID" : "2157",
@@ -992,7 +992,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.24699933995934, 49.255424048419059 ]
+        "coordinates" : [ -123.24699933995934, 49.25542404841906 ]
       },
       "properties" : {
         "FAC_ID" : "2231",
@@ -1026,7 +1026,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25790322482005, 49.262136913275178 ]
+        "coordinates" : [ -123.25790322482005, 49.26213691327518 ]
       },
       "properties" : {
         "FAC_ID" : "2175",
@@ -1094,7 +1094,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25559398553894, 49.262090391640101 ]
+        "coordinates" : [ -123.25559398553894, 49.2620903916401 ]
       },
       "properties" : {
         "FAC_ID" : "2208",
@@ -1128,7 +1128,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.2515012496401, 49.254819250037542 ]
+        "coordinates" : [ -123.2515012496401, 49.25481925003754 ]
       },
       "properties" : {
         "FAC_ID" : "2233",
@@ -1162,7 +1162,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.24304087410093, 49.260484121545929 ]
+        "coordinates" : [ -123.24304087410093, 49.26048412154593 ]
       },
       "properties" : {
         "FAC_ID" : "2182",
@@ -1196,7 +1196,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.2511518147588, 49.259091105575649 ]
+        "coordinates" : [ -123.2511518147588, 49.25909110557565 ]
       },
       "properties" : {
         "FAC_ID" : "2227",
@@ -1264,7 +1264,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.23930545300297, 49.259112730672712 ]
+        "coordinates" : [ -123.23930545300297, 49.25911273067271 ]
       },
       "properties" : {
         "FAC_ID" : "2145",
@@ -1332,7 +1332,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.24015815605833, 49.253700028433443 ]
+        "coordinates" : [ -123.24015815605833, 49.25370002843344 ]
       },
       "properties" : {
         "FAC_ID" : "2237",
@@ -1366,7 +1366,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.23754054275597, 49.260923347020082 ]
+        "coordinates" : [ -123.23754054275597, 49.26092334702008 ]
       },
       "properties" : {
         "FAC_ID" : "2244",
@@ -1400,7 +1400,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.2377448952772, 49.261752591993883 ]
+        "coordinates" : [ -123.2377448952772, 49.26175259199388 ]
       },
       "properties" : {
         "FAC_ID" : "2242",
@@ -1434,7 +1434,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.23996077868665, 49.262619219435493 ]
+        "coordinates" : [ -123.23996077868665, 49.26261921943549 ]
       },
       "properties" : {
         "FAC_ID" : "2120",
@@ -1468,7 +1468,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.23860986517508, 49.260871791702797 ]
+        "coordinates" : [ -123.23860986517508, 49.2608717917028 ]
       },
       "properties" : {
         "FAC_ID" : "2159",
@@ -1502,7 +1502,7 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.24363579011349, 49.263875427758812 ]
+        "coordinates" : [ -123.24363579011349, 49.26387542775881 ]
       },
       "properties" : {
         "FAC_ID" : "2142",
