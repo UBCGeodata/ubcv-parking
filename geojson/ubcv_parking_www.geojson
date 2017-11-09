@@ -9,7 +9,7 @@
         "coordinates" : [ -123.25556236036074, 49.26489978066352 ]
       },
       "properties" : {
-        "FAC_UID" : 2220,
+        "FAC_ID" : 2220,
         "FAC_DESCRIPTION" : "Old Firehall Meters",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -43,7 +43,7 @@
         "coordinates" : [ -123.24379874539181, 49.257371848192236 ]
       },
       "properties" : {
-        "FAC_UID" : 2234,
+        "FAC_ID" : 2234,
         "FAC_DESCRIPTION" : "East Mall Road North",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -77,7 +77,7 @@
         "coordinates" : [ -123.25038976546702, 49.27005170139485 ]
       },
       "properties" : {
-        "FAC_UID" : 2134,
+        "FAC_ID" : 2134,
         "FAC_DESCRIPTION" : "Walter Gage Road",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -111,7 +111,7 @@
         "coordinates" : [ -123.24934385279225, 49.26867358388863 ]
       },
       "properties" : {
-        "FAC_UID" : 2133,
+        "FAC_ID" : 2133,
         "FAC_DESCRIPTION" : "Student Union Boulevard",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -145,7 +145,7 @@
         "coordinates" : [ -123.24705400690631, 49.266153587731544 ]
       },
       "properties" : {
-        "FAC_UID" : 2118,
+        "FAC_ID" : 2118,
         "FAC_DESCRIPTION" : "University Boulevard",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -179,7 +179,7 @@
         "coordinates" : [ -123.24634275494458, 49.26157642291651 ]
       },
       "properties" : {
-        "FAC_UID" : 2126,
+        "FAC_ID" : 2126,
         "FAC_DESCRIPTION" : "Agronomy Road",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -213,7 +213,7 @@
         "coordinates" : [ -123.2480855949423, 49.25979658750571 ]
       },
       "properties" : {
-        "FAC_UID" : 2123,
+        "FAC_ID" : 2123,
         "FAC_DESCRIPTION" : "Thunderbird Crescent",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -247,7 +247,7 @@
         "coordinates" : [ -123.25115181137205, 49.25909033791045 ]
       },
       "properties" : {
-        "FAC_UID" : 2227,
+        "FAC_ID" : 2227,
         "FAC_DESCRIPTION" : "Totem Meters",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -281,7 +281,7 @@
         "coordinates" : [ -123.25340005517268, 49.25970360309406 ]
       },
       "properties" : {
-        "FAC_UID" : 2174,
+        "FAC_ID" : 2174,
         "FAC_DESCRIPTION" : "Ritsumeikan Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -315,7 +315,7 @@
         "coordinates" : [ -123.23930535812733, 49.25909949305445 ]
       },
       "properties" : {
-        "FAC_UID" : 2145,
+        "FAC_ID" : 2145,
         "FAC_DESCRIPTION" : "Wesbrook Mall Tbird to16th",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -349,7 +349,7 @@
         "coordinates" : [ -123.23859345677027, 49.260871730369296 ]
       },
       "properties" : {
-        "FAC_UID" : 2159,
+        "FAC_ID" : 2159,
         "FAC_DESCRIPTION" : "Berwick Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -383,7 +383,7 @@
         "coordinates" : [ -123.24363577704317, 49.26387542952441 ]
       },
       "properties" : {
-        "FAC_UID" : 2142,
+        "FAC_ID" : 2142,
         "FAC_DESCRIPTION" : "Wesbrook Mall 2200 Block",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -417,7 +417,7 @@
         "coordinates" : [ -123.24333040165597, 49.26077521374551 ]
       },
       "properties" : {
-        "FAC_UID" : 2182,
+        "FAC_ID" : 2182,
         "FAC_DESCRIPTION" : "Osborne Lot",
         "FAC_ADDRESS" : "6108 Thunderbird Boulevard",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -451,7 +451,7 @@
         "coordinates" : [ -123.24539470463955, 49.26106682378708 ]
       },
       "properties" : {
-        "FAC_UID" : 2163,
+        "FAC_ID" : 2163,
         "FAC_DESCRIPTION" : "C2 Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -485,7 +485,7 @@
         "coordinates" : [ -123.24753028880731, 49.26299721170438 ]
       },
       "properties" : {
-        "FAC_UID" : 2185,
+        "FAC_ID" : 2185,
         "FAC_DESCRIPTION" : "Health Sciences Parkade",
         "FAC_ADDRESS" : "2250 Health Sciences Mall, Vancouver, BC V6T 1Z3 ",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -519,7 +519,7 @@
         "coordinates" : [ -123.25835315538113, 49.26628423865092 ]
       },
       "properties" : {
-        "FAC_UID" : 2184,
+        "FAC_ID" : 2184,
         "FAC_DESCRIPTION" : "Fraser River Parkade",
         "FAC_ADDRESS" : "6440 Memorial Rd, Vancouver, BC V6T 1Z2",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -553,7 +553,7 @@
         "coordinates" : [ -123.25720665551192, 49.266860657823756 ]
       },
       "properties" : {
-        "FAC_UID" : 2221,
+        "FAC_ID" : 2221,
         "FAC_DESCRIPTION" : "Memorial Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -587,7 +587,7 @@
         "coordinates" : [ -123.2574195342774, 49.26768794737487 ]
       },
       "properties" : {
-        "FAC_UID" : 2031,
+        "FAC_ID" : 2031,
         "FAC_DESCRIPTION" : "Armouries Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -621,7 +621,7 @@
         "coordinates" : [ -123.2567782535383, 49.26777523989804 ]
       },
       "properties" : {
-        "FAC_UID" : 2169,
+        "FAC_ID" : 2169,
         "FAC_DESCRIPTION" : "Music Underground Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -655,7 +655,7 @@
         "coordinates" : [ -123.25673310493474, 49.26951854608753 ]
       },
       "properties" : {
-        "FAC_UID" : 2176,
+        "FAC_ID" : 2176,
         "FAC_DESCRIPTION" : "Rose Garden Parkade",
         "FAC_ADDRESS" : "6278 NW Marine Drive, Vancouver, BC V6T 1Z1",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -689,7 +689,7 @@
         "coordinates" : [ -123.25894743151645, 49.268805200576445 ]
       },
       "properties" : {
-        "FAC_UID" : 2168,
+        "FAC_ID" : 2168,
         "FAC_DESCRIPTION" : "Museum Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -723,7 +723,7 @@
         "coordinates" : [ -123.24318782172867, 49.261280108880996 ]
       },
       "properties" : {
-        "FAC_UID" : 2179,
+        "FAC_ID" : 2179,
         "FAC_DESCRIPTION" : "Thunderbird Parkade",
         "FAC_ADDRESS" : "6065 Thunderbird Blvd, Vancouver, BC V6T 1Z3",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -757,7 +757,7 @@
         "coordinates" : [ -123.25560852709219, 49.26287157026631 ]
       },
       "properties" : {
-        "FAC_UID" : 2181,
+        "FAC_ID" : 2181,
         "FAC_DESCRIPTION" : "West Parkade",
         "FAC_ADDRESS" : "2140 Lower Mall, Vancouver, BC V6T 1Z2",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -791,7 +791,7 @@
         "coordinates" : [ -123.25048728891821, 49.26882649750718 ]
       },
       "properties" : {
-        "FAC_UID" : 2170,
+        "FAC_ID" : 2170,
         "FAC_DESCRIPTION" : "North Parkade",
         "FAC_ADDRESS" : "6115 Student Union Boulevard V6T 1Z1",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -825,7 +825,7 @@
         "coordinates" : [ -123.25029136823763, 49.25997574197266 ]
       },
       "properties" : {
-        "FAC_UID" : 2157,
+        "FAC_ID" : 2157,
         "FAC_DESCRIPTION" : "B4 Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -859,7 +859,7 @@
         "coordinates" : [ -123.24512015967258, 49.25553237532452 ]
       },
       "properties" : {
-        "FAC_UID" : 2178,
+        "FAC_ID" : 2178,
         "FAC_DESCRIPTION" : "Stadium Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -893,7 +893,7 @@
         "coordinates" : [ -123.25716018993782, 49.26845359088503 ]
       },
       "properties" : {
-        "FAC_UID" : 2028,
+        "FAC_ID" : 2028,
         "FAC_DESCRIPTION" : "University Centre Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -927,7 +927,7 @@
         "coordinates" : [ -123.24607564886243, 49.26577986096816 ]
       },
       "properties" : {
-        "FAC_UID" : 2209,
+        "FAC_ID" : 2209,
         "FAC_DESCRIPTION" : "Strangway Pay Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "6:00 PM - 6:00 AM",
@@ -961,7 +961,7 @@
         "coordinates" : [ -123.24470294612864, 49.26481176107425 ]
       },
       "properties" : {
-        "FAC_UID" : 2152,
+        "FAC_ID" : 2152,
         "FAC_DESCRIPTION" : "ACU Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "6:00 PM - 7:00 AM",
@@ -995,7 +995,7 @@
         "coordinates" : [ -123.25761884511166, 49.26190746750036 ]
       },
       "properties" : {
-        "FAC_UID" : 2175,
+        "FAC_ID" : 2175,
         "FAC_DESCRIPTION" : "St. John's College Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1029,7 +1029,7 @@
         "coordinates" : [ -123.25557925169622, 49.26217088141634 ]
       },
       "properties" : {
-        "FAC_UID" : 2208,
+        "FAC_ID" : 2208,
         "FAC_DESCRIPTION" : "Marine Drive Residences",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1063,7 +1063,7 @@
         "coordinates" : [ -123.23164389563033, 49.247841054519185 ]
       },
       "properties" : {
-        "FAC_UID" : 2235,
+        "FAC_ID" : 2235,
         "FAC_DESCRIPTION" : "Triumf",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1097,7 +1097,7 @@
         "coordinates" : [ -123.2328240021143, 49.245954436653555 ]
       },
       "properties" : {
-        "FAC_UID" : 2238,
+        "FAC_ID" : 2238,
         "FAC_DESCRIPTION" : "Centre for Comparative Medicine",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1131,7 +1131,7 @@
         "coordinates" : [ -123.24019042388069, 49.25337063572032 ]
       },
       "properties" : {
-        "FAC_UID" : 2237,
+        "FAC_ID" : 2237,
         "FAC_DESCRIPTION" : "University Hill Secondary School",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -1165,7 +1165,7 @@
         "coordinates" : [ -123.246784857739, 49.2553776019127 ]
       },
       "properties" : {
-        "FAC_UID" : 2231,
+        "FAC_ID" : 2231,
         "FAC_DESCRIPTION" : "Hospice Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1199,7 +1199,7 @@
         "coordinates" : [ -123.24996649180267, 49.25439908474935 ]
       },
       "properties" : {
-        "FAC_UID" : 2233,
+        "FAC_ID" : 2233,
         "FAC_DESCRIPTION" : "Botanical Gardens",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "12:00 AM - 6:00 AM",
@@ -1233,7 +1233,7 @@
         "coordinates" : [ -123.2396067851322, 49.262577129055344 ]
       },
       "properties" : {
-        "FAC_UID" : 2120,
+        "FAC_ID" : 2120,
         "FAC_DESCRIPTION" : "Fairview Crescent",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -1267,7 +1267,7 @@
         "coordinates" : [ -123.23851133449047, 49.261431294606716 ]
       },
       "properties" : {
-        "FAC_UID" : 2242,
+        "FAC_ID" : 2242,
         "FAC_DESCRIPTION" : "Keremeos Court",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1301,7 +1301,7 @@
         "coordinates" : [ -123.23804022357237, 49.260748373166884 ]
       },
       "properties" : {
-        "FAC_UID" : 2244,
+        "FAC_ID" : 2244,
         "FAC_DESCRIPTION" : "Oyama Court",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1335,7 +1335,7 @@
         "coordinates" : [ -123.23730735331849, 49.25983389297842 ]
       },
       "properties" : {
-        "FAC_UID" : 2243,
+        "FAC_ID" : 2243,
         "FAC_DESCRIPTION" : "Salmo Court",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1369,7 +1369,7 @@
         "coordinates" : [ -123.25728871998417, 49.270800053676346 ]
       },
       "properties" : {
-        "FAC_UID" : 2136,
+        "FAC_ID" : 2136,
         "FAC_DESCRIPTION" : "Agricultural Road",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1403,7 +1403,7 @@
         "coordinates" : [ -123.2563092773744, 49.2704025213229 ]
       },
       "properties" : {
-        "FAC_UID" : 2236,
+        "FAC_ID" : 2236,
         "FAC_DESCRIPTION" : "Mary Bollert Hall F/S",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1437,7 +1437,7 @@
         "coordinates" : [ -123.2511364287482, 49.271127078680784 ]
       },
       "properties" : {
-        "FAC_UID" : 2252,
+        "FAC_ID" : 2252,
         "FAC_DESCRIPTION" : "Vancouver School of Economics",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
@@ -1471,7 +1471,7 @@
         "coordinates" : [ -123.25229272225036, 49.26945248850577 ]
       },
       "properties" : {
-        "FAC_UID" : 2188,
+        "FAC_ID" : 2188,
         "FAC_DESCRIPTION" : "Law Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
@@ -1505,7 +1505,7 @@
         "coordinates" : [ -123.25392917626296, 49.26965229970899 ]
       },
       "properties" : {
-        "FAC_UID" : 2162,
+        "FAC_ID" : 2162,
         "FAC_DESCRIPTION" : "Buchanan Meter Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
@@ -1539,7 +1539,7 @@
         "coordinates" : [ -123.24962762905018, 49.26473378096364 ]
       },
       "properties" : {
-        "FAC_UID" : 2166,
+        "FAC_ID" : 2166,
         "FAC_DESCRIPTION" : "Michael Smith Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "10:00 PM - 7:00 AM",
