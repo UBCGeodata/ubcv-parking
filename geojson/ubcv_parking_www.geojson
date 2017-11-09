@@ -32,7 +32,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20131215152336",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5604"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5604",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -65,7 +66,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20130912133801",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -98,7 +100,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20150601142454",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5634"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5634",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -131,7 +134,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20141124145118",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5609"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5609",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -164,7 +168,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20131216114619",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5615"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5615",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -197,7 +202,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20131215160533",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5619"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5619",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -230,7 +236,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20130411141757",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5641"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5641",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -263,7 +270,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20131215135354",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5601"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5601",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -296,7 +304,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20171012100743",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5648"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5648",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -329,7 +338,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20131216142939",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -362,7 +372,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20130411145717",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5642"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5642",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -395,7 +406,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20140311193257",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5612"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5612",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -428,7 +440,8 @@
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20171023162603",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5639"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5639",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -461,7 +474,8 @@
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170822091909",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5627"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5627",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -494,7 +508,8 @@
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170813130116",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5669"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5669",
+        "HIGHLIGHT_FACILITY" : "1"
       }
     },
     {
@@ -527,7 +542,8 @@
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170822092046",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5673"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5673",
+        "HIGHLIGHT_FACILITY" : "1"
       }
     },
     {
@@ -560,7 +576,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20171012101126",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5605"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5605",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -593,7 +610,8 @@
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170726114708",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5625"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5625",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -626,7 +644,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20120720172509",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -659,7 +678,8 @@
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170813125843",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5665"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5665",
+        "HIGHLIGHT_FACILITY" : "1"
       }
     },
     {
@@ -692,7 +712,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170813124902",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5603"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5603",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -725,7 +746,8 @@
         "FAC_HEIGHT" : "6'10\"                2.08m",
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170813130051",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5677"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5677",
+        "HIGHLIGHT_FACILITY" : "1"
       }
     },
     {
@@ -758,7 +780,8 @@
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170822092129",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5671"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5671",
+        "HIGHLIGHT_FACILITY" : "1"
       }
     },
     {
@@ -791,7 +814,8 @@
         "FAC_HEIGHT" : "6'5\"",
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170822092158",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667",
+        "HIGHLIGHT_FACILITY" : "1"
       }
     },
     {
@@ -824,7 +848,8 @@
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170803122404",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5631"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5631",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -857,7 +882,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170803124707",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5630"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5630",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -890,7 +916,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170803115916",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5638"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5638",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -923,7 +950,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20171030103455",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5655"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5655",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -956,7 +984,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170811134929",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5675"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5675",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -989,7 +1018,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20171012100949",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1022,7 +1052,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20131215151424",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1055,7 +1086,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20140813114908",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5643"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5643",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1088,7 +1120,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20140226150542",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5657"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5657",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1121,7 +1154,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20150724111216",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5616"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5616",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1154,7 +1188,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20150724111121",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1187,7 +1222,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170811132446",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5642"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5642",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1220,7 +1256,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20171012101633",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5613"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5613",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1253,7 +1290,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20150904105718",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1286,7 +1324,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20150904105707",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1319,7 +1358,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20150904105728",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1352,7 +1392,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20120720172509",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1385,7 +1426,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20131219121313",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1418,7 +1460,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : null,
         "FAC_MODIFY_DATE" : "20150911115603",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1451,7 +1494,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170803125419",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5654"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5654",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1484,7 +1528,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20171012101404",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5608"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5608",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     },
     {
@@ -1517,7 +1562,8 @@
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
         "FAC_MODIFY_DATE" : "20170811133005",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5621"
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5621",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     }
   ]
