@@ -42,7 +42,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2170",
 				"FAC_UID" : 2170,
 				"FAC_DESCRIPTION" : "North Parkade",
 				"FAC_ADDRESS" : "6115 Student Union Boulevard V6T 1Z1",
@@ -90,7 +89,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2163",
 				"FAC_UID" : 2163,
 				"FAC_DESCRIPTION" : "C2 Lot",
 				"FAC_ADDRESS" : null,
@@ -141,7 +139,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2168",
 				"FAC_UID" : 2168,
 				"FAC_DESCRIPTION" : "Museum Lot",
 				"FAC_ADDRESS" : null,
@@ -212,7 +209,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2178",
 				"FAC_UID" : 2178,
 				"FAC_DESCRIPTION" : "Stadium Lot",
 				"FAC_ADDRESS" : null,
@@ -256,7 +252,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2220",
 				"FAC_UID" : 2220,
 				"FAC_DESCRIPTION" : "Old Firehall Meters",
 				"FAC_ADDRESS" : null,
@@ -422,7 +417,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2179",
 				"FAC_UID" : 2179,
 				"FAC_DESCRIPTION" : "Thunderbird Parkade",
 				"FAC_ADDRESS" : "6065 Thunderbird Blvd, Vancouver, BC V6T 1Z3",
@@ -484,7 +478,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2234",
 				"FAC_UID" : 2234,
 				"FAC_DESCRIPTION" : "East Mall Road North",
 				"FAC_ADDRESS" : null,
@@ -545,7 +538,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2252",
 				"FAC_UID" : 2252,
 				"FAC_DESCRIPTION" : "Vancouver School of Economics",
 				"FAC_ADDRESS" : null,
@@ -594,7 +586,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2134",
 				"FAC_UID" : 2134,
 				"FAC_DESCRIPTION" : "Walter Gage Road",
 				"FAC_ADDRESS" : null,
@@ -638,7 +629,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2133",
 				"FAC_UID" : 2133,
 				"FAC_DESCRIPTION" : "Student Union Boulevard",
 				"FAC_ADDRESS" : null,
@@ -684,7 +674,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2118",
 				"FAC_UID" : 2118,
 				"FAC_DESCRIPTION" : "University Boulevard",
 				"FAC_ADDRESS" : null,
@@ -740,7 +729,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2152",
 				"FAC_UID" : 2152,
 				"FAC_DESCRIPTION" : "ACU Lot",
 				"FAC_ADDRESS" : null,
@@ -785,7 +773,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2166",
 				"FAC_UID" : 2166,
 				"FAC_DESCRIPTION" : "Michael Smith Lot",
 				"FAC_ADDRESS" : null,
@@ -861,7 +848,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2185",
 				"FAC_UID" : 2185,
 				"FAC_DESCRIPTION" : "Health Sciences Parkade",
 				"FAC_ADDRESS" : "2250 Health Sciences Mall, Vancouver, BC V6T 1Z3 ",
@@ -908,7 +894,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2162",
 				"FAC_UID" : 2162,
 				"FAC_DESCRIPTION" : "Buchanan Meter Lot",
 				"FAC_ADDRESS" : null,
@@ -985,7 +970,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2176",
 				"FAC_UID" : 2176,
 				"FAC_DESCRIPTION" : "Rose Garden Parkade",
 				"FAC_ADDRESS" : "6278 NW Marine Drive, Vancouver, BC V6T 1Z1",
@@ -1033,7 +1017,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2028",
 				"FAC_UID" : 2028,
 				"FAC_DESCRIPTION" : "University Centre Lot",
 				"FAC_ADDRESS" : null,
@@ -1079,7 +1062,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2235",
 				"FAC_UID" : 2235,
 				"FAC_DESCRIPTION" : "Triumf",
 				"FAC_ADDRESS" : null,
@@ -1125,7 +1107,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2031",
 				"FAC_UID" : 2031,
 				"FAC_DESCRIPTION" : "Armouries Lot",
 				"FAC_ADDRESS" : null,
@@ -1170,7 +1151,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2236",
 				"FAC_UID" : 2236,
 				"FAC_DESCRIPTION" : "Mary Bollert Hall F/S",
 				"FAC_ADDRESS" : null,
@@ -1214,7 +1194,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2169",
 				"FAC_UID" : 2169,
 				"FAC_DESCRIPTION" : "Music Underground Lot",
 				"FAC_ADDRESS" : null,
@@ -1270,7 +1249,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2136",
 				"FAC_UID" : 2136,
 				"FAC_DESCRIPTION" : "Agricultural Road",
 				"FAC_ADDRESS" : null,
@@ -1316,7 +1294,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2221",
 				"FAC_UID" : 2221,
 				"FAC_DESCRIPTION" : "Memorial Lot",
 				"FAC_ADDRESS" : null,
@@ -1360,7 +1337,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2238",
 				"FAC_UID" : 2238,
 				"FAC_DESCRIPTION" : "Centre for Comparative Medicine",
 				"FAC_ADDRESS" : null,
@@ -1426,7 +1402,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2184",
 				"FAC_UID" : 2184,
 				"FAC_DESCRIPTION" : "Fraser River Parkade",
 				"FAC_ADDRESS" : "6440 Memorial Rd, Vancouver, BC V6T 1Z2",
@@ -1468,7 +1443,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2157",
 				"FAC_UID" : 2157,
 				"FAC_DESCRIPTION" : "B4 Lot",
 				"FAC_ADDRESS" : null,
@@ -1513,7 +1487,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2126",
 				"FAC_UID" : 2126,
 				"FAC_DESCRIPTION" : "Agronomy Road",
 				"FAC_ADDRESS" : null,
@@ -1558,7 +1531,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2188",
 				"FAC_UID" : 2188,
 				"FAC_DESCRIPTION" : "Law Lot",
 				"FAC_ADDRESS" : null,
@@ -1624,7 +1596,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2181",
 				"FAC_UID" : 2181,
 				"FAC_DESCRIPTION" : "West Parkade",
 				"FAC_ADDRESS" : "2140 Lower Mall, Vancouver, BC V6T 1Z2",
@@ -1675,7 +1646,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2231",
 				"FAC_UID" : 2231,
 				"FAC_DESCRIPTION" : "Hospice Lot",
 				"FAC_ADDRESS" : null,
@@ -1741,7 +1711,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2175",
 				"FAC_UID" : 2175,
 				"FAC_DESCRIPTION" : "St. John's College Lot",
 				"FAC_ADDRESS" : null,
@@ -1799,7 +1768,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2123",
 				"FAC_UID" : 2123,
 				"FAC_DESCRIPTION" : "Thunderbird Crescent",
 				"FAC_ADDRESS" : null,
@@ -1841,7 +1809,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2208",
 				"FAC_UID" : 2208,
 				"FAC_DESCRIPTION" : "Marine Drive Residences",
 				"FAC_ADDRESS" : null,
@@ -1883,7 +1850,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2233",
 				"FAC_UID" : 2233,
 				"FAC_DESCRIPTION" : "Botanical Gardens",
 				"FAC_ADDRESS" : null,
@@ -1941,7 +1907,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2182",
 				"FAC_UID" : 2182,
 				"FAC_DESCRIPTION" : "Osborne Lot",
 				"FAC_ADDRESS" : "6108 Thunderbird Boulevard",
@@ -1983,7 +1948,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2227",
 				"FAC_UID" : 2227,
 				"FAC_DESCRIPTION" : "Totem Meters",
 				"FAC_ADDRESS" : null,
@@ -2025,7 +1989,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2174",
 				"FAC_UID" : 2174,
 				"FAC_DESCRIPTION" : "Ritsumeikan Lot",
 				"FAC_ADDRESS" : null,
@@ -2090,7 +2053,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2145",
 				"FAC_UID" : 2145,
 				"FAC_DESCRIPTION" : "Wesbrook Mall Tbird to16th",
 				"FAC_ADDRESS" : null,
@@ -2132,7 +2094,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2243",
 				"FAC_UID" : 2243,
 				"FAC_DESCRIPTION" : "Salmo Court",
 				"FAC_ADDRESS" : null,
@@ -2182,7 +2143,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2237",
 				"FAC_UID" : 2237,
 				"FAC_DESCRIPTION" : "University Hill Secondary School",
 				"FAC_ADDRESS" : null,
@@ -2229,7 +2189,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2244",
 				"FAC_UID" : 2244,
 				"FAC_DESCRIPTION" : "Oyama Court",
 				"FAC_ADDRESS" : null,
@@ -2278,7 +2237,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2242",
 				"FAC_UID" : 2242,
 				"FAC_DESCRIPTION" : "Keremeos Court",
 				"FAC_ADDRESS" : null,
@@ -2321,7 +2279,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2120",
 				"FAC_UID" : 2120,
 				"FAC_DESCRIPTION" : "Fairview Crescent",
 				"FAC_ADDRESS" : null,
@@ -2374,7 +2331,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2159",
 				"FAC_UID" : 2159,
 				"FAC_DESCRIPTION" : "Berwick Lot",
 				"FAC_ADDRESS" : null,
@@ -2416,7 +2372,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2142",
 				"FAC_UID" : 2142,
 				"FAC_DESCRIPTION" : "Wesbrook Mall 2200 Block",
 				"FAC_ADDRESS" : null,
@@ -2469,7 +2424,6 @@
 				]
 			},
 			"properties" : {
-				"FAC_ID" : "2209",
 				"FAC_UID" : 2209,
 				"FAC_DESCRIPTION" : "Strangway Pay Lot",
 				"FAC_ADDRESS" : null,
