@@ -237,7 +237,7 @@
 2244;Oyama Court;;;;;;;;;;;;;;;;;;;;;20150904105707; https://www.honkmobile.com/hourly/zones/
 2245;Vancouver School of Theology;;;;;;;;;;;;;;;;;;;;;20141124144641; https://www.honkmobile.com/hourly/zones/
 2246;Beaty Biodiversity Building;;;;;;;;;;;;;;;;;;;;;20150427080954; https://www.honkmobile.com/hourly/zones/
-2247;Oberlander Lane;;;;;;;;;;;;;;;;;between marine drive residence & lower mall research station;;;;20150427135226; https://www.honkmobile.com/hourly/zones/
+2247;Oberlander Lane;;;;;;;;0;0;0;0;0;0;0;0;0;between Marine Drive Residence & Lower Mall Research station;Reserved Parking Only;;0;20180328141101; https://www.honkmobile.com/hourly/zones/
 2248;Alumni Centre;;;;;;;;;;;;;;;;;;;;;20150717145209; https://www.honkmobile.com/hourly/zones/
 2252;Vancouver School of Economics;;;;;;;;;;;;;;;;;;;;;20150911115603; https://www.honkmobile.com/hourly/zones/
 2253;X Lot;;;;;;;;;;;;;;;;;;;;;20160210161934; https://www.honkmobile.com/hourly/zones/
@@ -254,3 +254,10 @@
 2264;NSDC LOT;;;;;;;;1;0;0;0;1;0;0;0;0;Near UBC Athletics Fields;5 Min Pick up/Drop off Available;;1;20170811134305; https://www.honkmobile.com/hourly/zones/
 2265;memorial gym fire lane;;;;;;;;0;0;0;0;0;0;0;0;0;Memorial Gym ;;;0;20170627122041; https://www.honkmobile.com/hourly/zones/
 2266;DAYCARE;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20170810115653; https://www.honkmobile.com/hourly/zones/
+2267;Vanier Lot;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking for Place Vanier;"No Public Parking; visitors should use B4 lot or West Parkade";;0;20180328123709; https://www.honkmobile.com/hourly/zones/
+2268;Totem Lot;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking for Totem;"No Public Parking; visitors should use B4 Lot or West Parkade";;0;20180328131042; https://www.honkmobile.com/hourly/zones/
+2271;West Coast Suites Lot;;;;;;;;0;0;0;0;0;0;0;0;0;Guests Staying at West Coast Suites;"Parking for Hotel Guests Only; visitors should park in the North Parkade";;0;20180328134207; https://www.honkmobile.com/hourly/zones/
+2272;Gage Underground;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking Lot for Walter Gage;;;0;20180328134819; https://www.honkmobile.com/hourly/zones/
+2273;Gage Surface Lot;;;;;;;;0;0;0;0;0;0;0;0;0;Residential Parking for Walter Gage;"No Public Parking; visitors should use North Parkade";;0;20180328135041; https://www.honkmobile.com/hourly/zones/
+2269;Thunderbird Res East;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";;0;20180328132312; https://www.honkmobile.com/hourly/zones/
+2270;Thunderbird Res Wes;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking lot for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";;0;20180328134035; https://www.honkmobile.com/hourly/zones/
