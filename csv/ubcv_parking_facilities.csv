@@ -8,7 +8,7 @@
 2117;Student Rec Centre;;;;;;;;;;;;;;;;;6000 Student Union Boulevard;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2118;University Boulevard;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $16;5615;;;;;;;;;;;;;;20131216114619; https://www.honkmobile.com/hourly/zones/5615
 2119;Osoyoos Crescent;;;;;;;;;;;;;;;;;;;;;20131218164127; https://www.honkmobile.com/hourly/zones/
-2120;Fairview Crescent;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max. 4 hours;No Charge;$2/hr Max $6;5613;1;1;0;0;0;0;0;1;0;Permit and Visitor parking at Fairview Residence;Easy access to Acadia Park and Fairview for visitors;;1;20171012101633; https://www.honkmobile.com/hourly/zones/5613
+2120;Fairview Crescent;;10:00 PM - 7:00 AM;7:00 AM - 2:00 AM;$2/hr Max $10/day;$2.00/hr Max $10.00;$2/hr Max $10;5613;1;1;0;0;0;0;0;1;0;Permit and Visitor parking at Fairview Residence;Easy access to Acadia Park and Fairview for visitors;;1;20180419163843; https://www.honkmobile.com/hourly/zones/5613
 2121;Acadia Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2122;Thunderbird Boulevard;;;;;;;;;;;;;;;;;;;;;20120825195151; https://www.honkmobile.com/hourly/zones/
 2123;Thunderbird Crescent;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $16;5641;;;;;;;;;;2300 Main Mall;;;;20130411141757; https://www.honkmobile.com/hourly/zones/5641
@@ -188,15 +188,15 @@
 2159;Berwick Lot;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;F/S Permit Only;$8 Flat Rate;$8 Flat Rate;5642;;;;;;;;;;At Berwick Daycare Centre on Osyoos Cresent;;;;20130411145717; https://www.honkmobile.com/hourly/zones/5642
 2160;Bookstore Lot;;;;;;;;;;;;;;;;;Near Bookstore, Sauder, Chemistry, Physics, SUB;;;;20120825194920; https://www.honkmobile.com/hourly/zones/
 2161;Brock Hall Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $16;5617;;;;;;;;;;Behind Brock Hall off Walter Gage Road;;;;20130304145022; https://www.honkmobile.com/hourly/zones/5617
-2162;Buchanan Meter Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $16;5608;1;0;0;0;0;0;0;0;0;At Buchanan E Block off of East Mall;Popular lot for visitors, Rose Garden Parkade is a great alternative;;1;20171012101404; https://www.honkmobile.com/hourly/zones/5608
-2163;C2 Lot;;;7:00 AM - 2:00 AM;$3/hr  Max $15/day;;;5627;1;1;0;0;0;0;0;0;0;Near Life Sciences , Applied Sciences District and TEF 3;Short-term stalls available for quick access;N/A;1;20170822091909; https://www.honkmobile.com/hourly/zones/5627
+2162;Buchanan Meter Lot;;12:00 AM - 6:00 AM;7:00 AM - Midnight;$3.50/hr Max 4 hours;See Area for Rate;See Area for Rate;5608;1;0;0;0;0;0;0;0;0;At Buchanan E Block off of East Mall;Popular lot for visitors, Rose Garden Parkade is a great alternative;;1;20180419162923; https://www.honkmobile.com/hourly/zones/5608
+2163;C2 Lot;;;7:00 AM - 2:00 AM;$3.50/hr max $16.00;;;5627;1;1;0;0;0;0;0;0;0;Near Life Sciences , Applied Sciences District and TEF 3;Short-term stalls available for quick access;N/A;1;20180419164911; https://www.honkmobile.com/hourly/zones/5627
 2164;Library Processing Lot;;;;;;;;;;;;;;;;;;;;;20120825195542; https://www.honkmobile.com/hourly/zones/
 2165;L Lot;;;;;;;;;;;;;;;;;Resident Lot by St. John's College & Marine Drive Residences;;;;20120825195510; https://www.honkmobile.com/hourly/zones/
-2166;Michael Smith Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 1 Hour;No Charge;$3.50/hr Max $16;5621;1;1;0;0;0;0;0;0;0;On East Mall near Bookstore & Wesbrook Building;;;1;20170811133005; https://www.honkmobile.com/hourly/zones/5621
+2166;Michael Smith Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 1 Hour;See Area for Rate;See Area for Rate;5621;1;1;0;0;0;0;0;0;0;On East Mall near Bookstore & Wesbrook Building;;;1;20180419162550; https://www.honkmobile.com/hourly/zones/5621
 2167;Mather Lot;;;;;;;;;;;;;;;;;;;;;20120825195413; https://www.honkmobile.com/hourly/zones/
 2168;Museum Lot;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;$3.50/hr Max $8.00;$3.50/hr Max $8.00;5603;1;0;0;0;0;0;0;0;0;Proximity parking for Museum of Anthropology;Very busy location during daytime hours!;;1;20170813124902; https://www.honkmobile.com/hourly/zones/5603
 2169;Music Underground Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2170;North Parkade;6115 Student Union Boulevard V6T 1Z1;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$3.50/hr max $16.00;$3.50/hr Max $8.00;$3.50/hr Max $8.00;5667;1;1;0;0;1;1;1;1;1;Near Brock Hall, Gage Residence, Nest and Aquatic Centre;Short-term stalls available for pool and gym visitors;6'5";1;20180321131829; https://www.honkmobile.com/hourly/zones/5667
+2170;North Parkade;6115 Student Union Boulevard V6T 1Z1;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$3.50/hr max $16.00;$3.50/hr Max $8.00;$3.50/hr Max $8.00;5667;1;1;0;0;1;1;1;1;1;Near Brock Hall, Gage Residence, Nest and Aquatic Centre;Short-term stalls available for pool and gym visitors;6'5";1;20180420123719; https://www.honkmobile.com/hourly/zones/5667
 2207;Motorcycle Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2208;Marine Drive Residences;;;;;;;;;;;;;;;;;;;;;20131215151424; https://www.honkmobile.com/hourly/zones/
 2209;Strangway Pay Lot;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$3.50/hr max $16.00;$1.50/hr Max $8.00;$3.50/hr Max $16;5655;1;0;0;1;0;0;0;0;0;Close to Dentistry, Family Practice and University Boulevard;Popular lot for visitors to Mahoney's Pub;;1;20171030103455; https://www.honkmobile.com/hourly/zones/5655
@@ -237,7 +237,7 @@
 2244;Oyama Court;;;;;;;;;;;;;;;;;;;;;20150904105707; https://www.honkmobile.com/hourly/zones/
 2245;Vancouver School of Theology;;;;;;;;;;;;;;;;;;;;;20141124144641; https://www.honkmobile.com/hourly/zones/
 2246;Beaty Biodiversity Building;;;;;;;;;;;;;;;;;;;;;20150427080954; https://www.honkmobile.com/hourly/zones/
-2247;Oberlander Lane;;;;;;;;0;0;0;0;0;0;0;0;0;between Marine Drive Residence & Lower Mall Research station;Reserved Parking Only;;0;20180328141101; https://www.honkmobile.com/hourly/zones/
+2247;Oberlander Lane;;;;;;;;0;0;0;0;0;0;0;1;0;between Marine Drive Residence & Lower Mall Research station;Reserved Parking Only;;1;20180416145023; https://www.honkmobile.com/hourly/zones/
 2248;Alumni Centre;;;;;;;;;;;;;;;;;;;;;20150717145209; https://www.honkmobile.com/hourly/zones/
 2252;Vancouver School of Economics;;;;;;;;;;;;;;;;;;;;;20150911115603; https://www.honkmobile.com/hourly/zones/
 2253;X Lot;;;;;;;;;;;;;;;;;;;;;20160210161934; https://www.honkmobile.com/hourly/zones/
