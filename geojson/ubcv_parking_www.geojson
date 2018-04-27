@@ -1,6 +1,6 @@
 {
-  "name" : "ubcv_parking_www",
   "type" : "FeatureCollection",
+  "name" : "ubcv_parking_www",
   "features" : [
     {
       "type" : "Feature",
