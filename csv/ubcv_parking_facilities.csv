@@ -22,7 +22,7 @@
 2131;Health Sciences Road;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $16;5646;;;;;;;;;;;;;;20130424145105; https://www.honkmobile.com/hourly/zones/5646
 2132;Biological Sciences Road;;;;;;;;;;;;;;;;;;;;;20120813120357; https://www.honkmobile.com/hourly/zones/
 2133;Student Union Boulevard;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $16;5609;;;;;;;;;;;;;;20141124145118; https://www.honkmobile.com/hourly/zones/5609
-2134;Walter Gage Road;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;$8 Flat Rate;$8 Flat Rate;5634;;;;;;;;;;;;;;20150601142454; https://www.honkmobile.com/hourly/zones/5634
+2134;Walter Gage Road;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;$8 Flat Rate;$8 Flat Rate;5634;0;0;0;0;0;0;0;0;0;;;;0;20180511103943; https://www.honkmobile.com/hourly/zones/5634
 2135;Mathematics Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2136;Agricultural Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2137;Memorial Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
@@ -177,7 +177,7 @@
 2142;Wesbrook Mall 2200 Block;;10:00 PM - 7:00 AM;7:00 AM - 10:00 PM;$3.50/hr Max 4 hours;No Charge;$3.50/hr Max $16;5612;;;;;;;;;;;;;;20140311193257; https://www.honkmobile.com/hourly/zones/5612
 2143;Wesbrook Mall 2300 Block;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2144;Wesbrook Mall 2400 Block;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2145;Wesbrook Mall Tbird to16th;;;;;;;;;;;;;;;;;;;;;20131216142939; https://www.honkmobile.com/hourly/zones/
+2145;Wesbrook Mall Tbird to16th;;;;;;;5624;0;0;0;0;0;0;0;0;0;;;;0;20180511110703; https://www.honkmobile.com/hourly/zones/5624
 2146;Wesbrook Mall 2600 Block;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2147;Wesbrook Mall 2700 Block;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2148;Wesbrook Mall 2800 Block;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
