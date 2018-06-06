@@ -725,7 +725,7 @@
       "properties" : {
         "FAC_ID" : 2179,
         "FAC_DESCRIPTION" : "Thunderbird Parkade",
-        "FAC_ADDRESS" : "6065 Thunderbird Blvd, Vancouver, BC V6T 1Z3",
+        "FAC_ADDRESS" : "6085 Thunderbird Blvd, Vancouver, BC V6T 1Z3",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
         "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
         "FAC_RATE" : "$3.50/hr max $16.00",
@@ -745,7 +745,7 @@
         "FAC_TIPS" : "Rooftop Parking $10/Day",
         "FAC_HEIGHT" : "6'10\"                2.08m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20170813130051",
+        "FAC_MODIFY_DATE" : "20180606125556",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5677",
         "HIGHLIGHT_FACILITY" : "1"
       }
