@@ -996,7 +996,7 @@
       },
       "properties" : {
         "FAC_ID" : 2175,
-        "FAC_DESCRIPTION" : "St. John's College Lot",
+        "FAC_DESCRIPTION" : "Marine Drive Lot",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
         "FAC_HOURSDAY" : null,
@@ -1017,7 +1017,7 @@
         "FAC_TIPS" : "No Public Parking; visitors should use West Parkade",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20171012100949",
+        "FAC_MODIFY_DATE" : "20180614144544",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/",
         "HIGHLIGHT_FACILITY" : "0"
       }
