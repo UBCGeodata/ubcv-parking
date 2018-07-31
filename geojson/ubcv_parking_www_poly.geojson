@@ -94,7 +94,7 @@
 				"FAC_ADDRESS" : null,
 				"FAC_HOURPM" : null,
 				"FAC_HOURSDAY" : "7:00 AM - 2:00 AM",
-				"FAC_RATE" : "$3/hr  Max $15/day",
+				"FAC_RATE" : "$3.50/hr max $16.00",
 				"FAC_RATEPM" : "See Area for Rate",
 				"FAC_RATEHOL" : "See Area for Rate",
 				"FAC_VERRUS" : "5627",
@@ -111,7 +111,7 @@
 				"FAC_TIPS" : "Short-term stalls available for quick access",
 				"FAC_HEIGHT" : "N/A",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20180531141107",
+				"FAC_MODIFY_DATE" : "20180731101854",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5627"
 			}
 		},
@@ -1448,7 +1448,7 @@
 				"FAC_ADDRESS" : null,
 				"FAC_HOURPM" : null,
 				"FAC_HOURSDAY" : "7:00 AM - 2:00 AM",
-				"FAC_RATE" : "$3/hr  Max $15/day",
+				"FAC_RATE" : "$3.50/hr max $16.00",
 				"FAC_RATEPM" : null,
 				"FAC_RATEHOL" : null,
 				"FAC_VERRUS" : "5631",
@@ -1465,7 +1465,7 @@
 				"FAC_TIPS" : null,
 				"FAC_HEIGHT" : "N/A",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20170803122404",
+				"FAC_MODIFY_DATE" : "20180731094238",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5631"
 			}
 		},
