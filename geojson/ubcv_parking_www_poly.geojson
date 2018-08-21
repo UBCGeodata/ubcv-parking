@@ -853,8 +853,8 @@
 				"FAC_ADDRESS" : "2250 Health Sciences Mall, Vancouver, BC V6T 1Z3 ",
 				"FAC_HOURPM" : "5:00 PM - 12:00 AM",
 				"FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-				"FAC_RATE" : null,
-				"FAC_RATEPM" : "$3.50/hr 4hr Max",
+				"FAC_RATE" : "$3.50/hr max $16.00",
+				"FAC_RATEPM" : "$3.50/hr Max $8.00",
 				"FAC_RATEHOL" : "$3.50/hr Max $8.00",
 				"FAC_VERRUS" : "5669",
 				"FAC_DISABLED" : "1",
@@ -870,7 +870,7 @@
 				"FAC_TIPS" : "Patient Priority stalls on-site",
 				"FAC_HEIGHT" : "6'8\"                2.03m",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20170813130116",
+				"FAC_MODIFY_DATE" : "20180820154507",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5669"
 			}
 		},
