@@ -1,0 +1,26 @@
+Fieldname,Type,Description
+FAC_ID,int,Facility ID in T2 system
+FAC_DESCRIPTION,string,"Name, description"
+FAC_ADDRESS,string,Facility address
+FAC_HOURPM,string,Even rate hours
+FAC_HOURSDAY,string,Day rate hours
+FAC_RATE,string,Day rate
+FAC_RATEPM,string,Evening rate
+FAC_RATEHOL,string,Holiday rate
+FAC_VERRUS,string,Verrus lot id (used for payment link)
+FAC_DISABLED,boolean,Contains disabled stalls
+FAC_MC,boolean,Contains motorcycle stalls
+FAC_BIKE,boolean,Bike cage
+FAC_ELEVATOR,boolean,Elevator in facility
+FAC_EV,boolean,Contains EV charging station
+FAC_UNDERPERMIT,boolean,Undergrad student permit
+FAC_GRAD,boolean,Grad student permit
+FAC_REZPERMIT,boolean,Student Residence permit
+FAC_FSPERMIT,boolean,Faculity and Staff permit
+FAC_BOUNDARY_DESCRIPTION,string,"List of nearby buildings, other info"
+FAC_TIPS,string,Important information about the facility
+FAC_HEIGHT,string,"Height restriction, if applicable"
+FAC_MAP_DISPLAY,string,Should this display on the parking website map
+FAC_MODIFY_DATE,string,Last modify date in T2 system
+PAYMENT_LINK,string,Link to HONK payment page for this facility
+HIGHLIGHT_FACILITY,string,
