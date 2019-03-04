@@ -316,7 +316,7 @@
       },
       "properties" : {
         "FAC_ID" : 2145,
-        "FAC_DESCRIPTION" : "Wesbrook Mall Tbird to16th",
+        "FAC_DESCRIPTION" : "Wesbrook Mall Tbird to 16th",
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
         "FAC_HOURSDAY" : null,
@@ -337,7 +337,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20180511110703",
+        "FAC_MODIFY_DATE" : "20190304112603",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5624",
         "HIGHLIGHT_FACILITY" : "0"
       }
