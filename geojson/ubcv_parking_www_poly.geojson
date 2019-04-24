@@ -28,9 +28,9 @@
 				"FAC_ADDRESS" : null,
 				"FAC_HOURPM" : null,
 				"FAC_HOURSDAY" : "7:00 AM - 2:00 AM",
-				"FAC_RATE" : "$3.50/hr max $16.00",
-				"FAC_RATEPM" : "See Area for Rate",
-				"FAC_RATEHOL" : "See Area for Rate",
+				"FAC_RATE" : "$3/hr  Max $15/day",
+				"FAC_RATEPM" : null,
+				"FAC_RATEHOL" : null,
 				"FAC_VERRUS" : "5627",
 				"FAC_DISABLED" : "1",
 				"FAC_MC" : "1",
@@ -45,7 +45,7 @@
 				"FAC_TIPS" : "Short-term stalls available for quick access",
 				"FAC_HEIGHT" : "N/A",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20180731101854",
+				"FAC_MODIFY_DATE" : "20190423162403",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5627"
 			}
 		},
@@ -76,11 +76,11 @@
 				"FAC_ID" : 2168,
 				"FAC_DESCRIPTION" : "Museum Lot",
 				"FAC_ADDRESS" : null,
-				"FAC_HOURPM" : "10:00 PM - 7:00 AM",
-				"FAC_HOURSDAY" : "7:00 AM - 10:00 PM",
+				"FAC_HOURPM" : "5:00 PM - 12:00 AM",
+				"FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
 				"FAC_RATE" : "$3.50/hr Max 4 hours",
-				"FAC_RATEPM" : "$3.50/hr Max $8.00",
-				"FAC_RATEHOL" : "$3.50/hr Max $8.00",
+				"FAC_RATEPM" : "See Area for Rate",
+				"FAC_RATEHOL" : "See Area for Rate",
 				"FAC_VERRUS" : "5603",
 				"FAC_DISABLED" : "1",
 				"FAC_MC" : "0",
@@ -95,7 +95,7 @@
 				"FAC_TIPS" : "Very busy location during daytime hours!",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20170813124902",
+				"FAC_MODIFY_DATE" : "20190423160412",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5603"
 			}
 		},
@@ -148,7 +148,7 @@
 				"FAC_ADDRESS" : null,
 				"FAC_HOURPM" : "5:00 PM - 12:00 AM",
 				"FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-				"FAC_RATE" : "$3/hr  Max $15/day",
+				"FAC_RATE" : "$2/hr Max $10/day",
 				"FAC_RATEPM" : "$2.00/hr Max $10.00",
 				"FAC_RATEHOL" : "$2/hr Max $10",
 				"FAC_VERRUS" : "5630",
@@ -165,7 +165,7 @@
 				"FAC_TIPS" : "Check our events listings to ensure lot isn't closed!",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20170803124707",
+				"FAC_MODIFY_DATE" : "20190423165528",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5630"
 			}
 		},
@@ -685,7 +685,7 @@
 				"FAC_TIPS" : "Short term acute care parking only",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20170811134929",
+				"FAC_MODIFY_DATE" : "20190423161029",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5675"
 			}
 		},
@@ -710,8 +710,8 @@
 				"FAC_ID" : 2166,
 				"FAC_DESCRIPTION" : "Michael Smith Lot",
 				"FAC_ADDRESS" : null,
-				"FAC_HOURPM" : "10:00 PM - 7:00 AM",
-				"FAC_HOURSDAY" : "7:00 AM - 10:00 PM",
+				"FAC_HOURPM" : "6:00 PM - 6:00 AM",
+				"FAC_HOURSDAY" : "6:00 AM - 6:00 PM",
 				"FAC_RATE" : "$3.50/hr Max 1 Hour",
 				"FAC_RATEPM" : "See Area for Rate",
 				"FAC_RATEHOL" : "See Area for Rate",
@@ -729,7 +729,7 @@
 				"FAC_TIPS" : null,
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20180419162550",
+				"FAC_MODIFY_DATE" : "20190423154936",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5621"
 			}
 		},
@@ -1382,7 +1382,7 @@
 				"FAC_ADDRESS" : null,
 				"FAC_HOURPM" : null,
 				"FAC_HOURSDAY" : "7:00 AM - 2:00 AM",
-				"FAC_RATE" : "$3.50/hr max $16.00",
+				"FAC_RATE" : "$3/hr  Max $15/day",
 				"FAC_RATEPM" : null,
 				"FAC_RATEHOL" : null,
 				"FAC_VERRUS" : "5631",
@@ -1399,7 +1399,7 @@
 				"FAC_TIPS" : null,
 				"FAC_HEIGHT" : "N/A",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20180731094238",
+				"FAC_MODIFY_DATE" : "20190423162334",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5631"
 			}
 		},
@@ -1863,7 +1863,7 @@
 				"FAC_TIPS" : "Very busy location, we recommend using Thunderbird Parkade",
 				"FAC_HEIGHT" : "N/A",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20171023162603",
+				"FAC_MODIFY_DATE" : "20190423163258",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5639"
 			}
 		},
@@ -2365,7 +2365,7 @@
 				"FAC_HOURSDAY" : "6:00 AM - 6:00 PM",
 				"FAC_RATE" : "$3.50/hr max $16.00",
 				"FAC_RATEPM" : "$1.50/hr Max $8.00",
-				"FAC_RATEHOL" : "$3.50/hr Max $16",
+				"FAC_RATEHOL" : "See Area for Rate",
 				"FAC_VERRUS" : "5655",
 				"FAC_DISABLED" : "1",
 				"FAC_MC" : "0",
@@ -2380,7 +2380,7 @@
 				"FAC_TIPS" : "Popular lot for visitors to Mahoney's Pub",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20171030103455",
+				"FAC_MODIFY_DATE" : "20190423155856",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5655"
 			}
 		},
