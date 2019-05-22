@@ -702,7 +702,7 @@
         "FAC_MC" : "1",
         "FAC_BIKE" : "1",
         "FAC_ELEVATOR" : "1",
-        "FAC_EV" : "0",
+        "FAC_EV" : "1",
         "FAC_UNDERPERMIT" : "1",
         "FAC_GRAD" : "1",
         "FAC_REZPERMIT" : "0",
@@ -711,7 +711,7 @@
         "FAC_TIPS" : "Rooftop Parking $10/Day",
         "FAC_HEIGHT" : "6'10\"                2.08m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20190424125055",
+        "FAC_MODIFY_DATE" : "20190522130112",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5677",
         "HIGHLIGHT_FACILITY" : "1"
       }
