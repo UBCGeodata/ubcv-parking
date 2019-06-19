@@ -956,7 +956,7 @@
 				"FAC_ADDRESS" : null,
 				"FAC_HOURPM" : "5:00 PM - 12:00 AM",
 				"FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-				"FAC_RATE" : "$3.50/hr Max 4 hours",
+				"FAC_RATE" : "$4 per hour",
 				"FAC_RATEPM" : "$8 Flat Rate",
 				"FAC_RATEHOL" : "See Area for Rate",
 				"FAC_VERRUS" : "5638",
@@ -973,7 +973,7 @@
 				"FAC_TIPS" : "Perfect for stopping and checking out the Rose Garden view!",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20190423144848",
+				"FAC_MODIFY_DATE" : "20190619140248",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5638"
 			}
 		},
