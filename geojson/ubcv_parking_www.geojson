@@ -1502,40 +1502,6 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.25725799138802, 49.268377213429815 ]
-      },
-      "properties" : {
-        "FAC_ID" : 2028,
-        "FAC_DESCRIPTION" : "University Centre Lot",
-        "FAC_ADDRESS" : null,
-        "FAC_HOURPM" : "5:00 PM - 12:00 AM",
-        "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-        "FAC_RATE" : "$4 per hour",
-        "FAC_RATEPM" : "$10 Flat Rate",
-        "FAC_RATEHOL" : "See Area for Rate",
-        "FAC_VERRUS" : "5638",
-        "FAC_DISABLED" : "1",
-        "FAC_MC" : "0",
-        "FAC_BIKE" : "0",
-        "FAC_ELEVATOR" : "0",
-        "FAC_EV" : "0",
-        "FAC_UNDERPERMIT" : "0",
-        "FAC_GRAD" : "0",
-        "FAC_REZPERMIT" : "0",
-        "FAC_FSPERMIT" : "0",
-        "FAC_BOUNDARY_DESCRIPTION" : "Near Sage Restaurant, Peter Wall, Freddy Wood & Sing Tao",
-        "FAC_TIPS" : "Perfect for stopping and checking out the Rose Garden view!",
-        "FAC_HEIGHT" : null,
-        "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20190619140248",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5638",
-        "HIGHLIGHT_FACILITY" : "0"
-      }
-    },
-    {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
         "coordinates" : [ -123.24739962401082, 49.26304747168837 ]
       },
       "properties" : {
@@ -1564,6 +1530,40 @@
         "FAC_MODIFY_DATE" : "20190312155305",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5669",
         "HIGHLIGHT_FACILITY" : "1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -123.25725799138802, 49.268377213429815 ]
+      },
+      "properties" : {
+        "FAC_ID" : 2028,
+        "FAC_DESCRIPTION" : "University Centre Lot",
+        "FAC_ADDRESS" : null,
+        "FAC_HOURPM" : "5:00 PM - 12:00 AM",
+        "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
+        "FAC_RATE" : "$4 per hour",
+        "FAC_RATEPM" : "$10 Flat Rate",
+        "FAC_RATEHOL" : "See Area for Rate",
+        "FAC_VERRUS" : "5638",
+        "FAC_DISABLED" : "1",
+        "FAC_MC" : "0",
+        "FAC_BIKE" : "0",
+        "FAC_ELEVATOR" : "0",
+        "FAC_EV" : "0",
+        "FAC_UNDERPERMIT" : "0",
+        "FAC_GRAD" : "0",
+        "FAC_REZPERMIT" : "0",
+        "FAC_FSPERMIT" : "0",
+        "FAC_BOUNDARY_DESCRIPTION" : "Near Sage Restaurant, Peter Wall, Freddy Wood & Sing Tao",
+        "FAC_TIPS" : "Perfect for stopping and checking out the Rose Garden view!",
+        "FAC_HEIGHT" : null,
+        "FAC_MAP_DISPLAY" : "1",
+        "FAC_MODIFY_DATE" : "20190619140248",
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5638",
+        "HIGHLIGHT_FACILITY" : "0"
       }
     }
   ]
