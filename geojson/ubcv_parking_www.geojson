@@ -1502,40 +1502,6 @@
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
-        "coordinates" : [ -123.24739962401082, 49.26304747168837 ]
-      },
-      "properties" : {
-        "FAC_ID" : 2185,
-        "FAC_DESCRIPTION" : "Health Sciences Parkade",
-        "FAC_ADDRESS" : "2250 Health Sciences Mall, Vancouver, BC V6T 1Z3 ",
-        "FAC_HOURPM" : "5:00 PM - 12:00 AM",
-        "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-        "FAC_RATE" : "$4.00/hr max $20.00",
-        "FAC_RATEPM" : "$4.00/hr Max $10.00",
-        "FAC_RATEHOL" : "$4.00/hr Max $10.00",
-        "FAC_VERRUS" : "5669",
-        "FAC_DISABLED" : "1",
-        "FAC_MC" : "1",
-        "FAC_BIKE" : "1",
-        "FAC_ELEVATOR" : "1",
-        "FAC_EV" : "0",
-        "FAC_UNDERPERMIT" : "0",
-        "FAC_GRAD" : "0",
-        "FAC_REZPERMIT" : "0",
-        "FAC_FSPERMIT" : "1",
-        "FAC_BOUNDARY_DESCRIPTION" : "Near UBC Hospital, Health Sciences District and UBC Bookstore",
-        "FAC_TIPS" : "Patient Priority stalls on-site",
-        "FAC_HEIGHT" : "6'8\"                2.03m",
-        "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20190312155305",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5669",
-        "HIGHLIGHT_FACILITY" : "1"
-      }
-    },
-    {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
         "coordinates" : [ -123.25725799138802, 49.268377213429815 ]
       },
       "properties" : {
@@ -1564,6 +1530,40 @@
         "FAC_MODIFY_DATE" : "20190619140248",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5638",
         "HIGHLIGHT_FACILITY" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -123.24739962401082, 49.26304747168837 ]
+      },
+      "properties" : {
+        "FAC_ID" : 2185,
+        "FAC_DESCRIPTION" : "Health Sciences Parkade",
+        "FAC_ADDRESS" : "2250 Health Sciences Mall, Vancouver, BC V6T 1Z3 ",
+        "FAC_HOURPM" : "5:00 PM - 12:00 AM",
+        "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
+        "FAC_RATE" : "$4.00/hr max $20.00",
+        "FAC_RATEPM" : "$4.00/hr Max $10.00",
+        "FAC_RATEHOL" : "$4.00/hr Max $10.00",
+        "FAC_VERRUS" : "5669",
+        "FAC_DISABLED" : "1",
+        "FAC_MC" : "1",
+        "FAC_BIKE" : "1",
+        "FAC_ELEVATOR" : "1",
+        "FAC_EV" : "0",
+        "FAC_UNDERPERMIT" : "0",
+        "FAC_GRAD" : "0",
+        "FAC_REZPERMIT" : "0",
+        "FAC_FSPERMIT" : "1",
+        "FAC_BOUNDARY_DESCRIPTION" : "Near UBC Hospital, Health Sciences District and UBC Bookstore",
+        "FAC_TIPS" : "Patient Priority stalls on-site",
+        "FAC_HEIGHT" : "6'8\"                2.03m",
+        "FAC_MAP_DISPLAY" : "1",
+        "FAC_MODIFY_DATE" : "20190312155305",
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5669",
+        "HIGHLIGHT_FACILITY" : "1"
       }
     }
   ]
