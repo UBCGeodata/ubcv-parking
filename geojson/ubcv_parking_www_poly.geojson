@@ -1787,7 +1787,7 @@
 				"FAC_ID" : 2233,
 				"FAC_DESCRIPTION" : "Botanical Gardens",
 				"FAC_ADDRESS" : null,
-				"FAC_HOURPM" : "12:00 AM - 6:00 AM",
+				"FAC_HOURPM" : null,
 				"FAC_HOURSDAY" : "7:00 AM - 10:00 PM",
 				"FAC_RATE" : "$2/hr Max $6/Day",
 				"FAC_RATEPM" : null,
@@ -1803,10 +1803,10 @@
 				"FAC_REZPERMIT" : "0",
 				"FAC_FSPERMIT" : "1",
 				"FAC_BOUNDARY_DESCRIPTION" : "Parking at Botanical Gardens",
-				"FAC_TIPS" : "Visitors to Gardens get a special rate!",
+				"FAC_TIPS" : "Visitors to Gardens get a special rate!  The parking lot opens from 9:00am to 5:00pm, except during special events",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20191024141348",
+				"FAC_MODIFY_DATE" : "20191202145323",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5642"
 			}
 		},
