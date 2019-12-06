@@ -33,7 +33,7 @@
 2153;AMPEL Lot;;;;Reserved/Assigned Permit Only;;;;;;;;;;;;;;;;;20130930092002; https://www.honkmobile.com/hourly/zones/
 2249;Nest;;;;;;;5614;1;0;0;0;0;0;0;0;0;;;;0;20190730182041; https://www.honkmobile.com/hourly/zones/5614
 2156;B1 Lot;;;7:00 AM - 2:00 AM;$3/hr  Max $15/day;No Charge;$10 Flat Rate;5626;;;;;;;;;;Economy Lot at Health Sciences & Agronomy;;;;20150724111510; https://www.honkmobile.com/hourly/zones/5626
-2157;B4 Lot;;;7:00 AM - 2:00 AM;$3/hr  Max $15/day;;;5631;1;1;0;0;0;0;0;0;1;Near Forestry, Main Mall and Orchard Commons;;N/A;1;20190423162334; https://www.honkmobile.com/hourly/zones/5631
+2157;B4 Lot;;;12:00 AM - 11:59 PM;$3/hr  Max $15/day;Same as Day Rate;Same as Day Rate;5631;1;1;0;0;0;0;0;0;1;Near Forestry, Main Mall and Orchard Commons;;N/A;1;20191206125716; https://www.honkmobile.com/hourly/zones/5631
 2174;Ritsumeikan Lot;;;;;;;5648;0;0;0;0;0;0;0;1;0;Residential Parking Lot for Ritsumeikan and Vantage College ;"No Public Parking; visitors should use B4 Lot or West Parkade";;1;20171012100743; https://www.honkmobile.com/hourly/zones/5648
 2175;Marine Drive Lot;;;;;;;;1;0;0;0;0;0;0;1;0;Resident Lot for St. John's College & Marine Drive Residences;"No Public Parking; visitors should use West Parkade";;1;20180614144544; https://www.honkmobile.com/hourly/zones/
 2176;Rose Garden Parkade;6278 NW Marine Drive, Vancouver, BC V6T 1Z1;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$4/HR - MAX $20 UNTIL 11:59PM;$4.00/hr Max $10.00;$4.00/hr Max $10.00;5665;1;1;0;1;0;1;1;1;1;Close to Chan Centre, Freddy Wood Theatre and MOA;Event rate of $10 in effect for events at the Chan Centre;6'8"                2.03m;1;20170813125843; https://www.honkmobile.com/hourly/zones/5665
@@ -189,7 +189,7 @@
 2160;Bookstore Lot;;;;;;;;;;;;;;;;;Near Bookstore, Sauder, Chemistry, Physics, SUB;;;;20120825194920; https://www.honkmobile.com/hourly/zones/
 2161;Brock Hall Lot;;5:00 PM - 12:00 AM;See Area for Rate;$4.00/hr Max 4 hours;$1.50/hr Max $10.00;$1.50/hr Max $10.00;5617;0;0;0;0;0;0;0;0;0;Behind Brock Hall off Walter Gage Road;;;0;20180502150721; https://www.honkmobile.com/hourly/zones/5617
 2162;Buchanan Meter Lot;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;$4.00/hr Max 4 hours;See Area for Rate;See Area for Rate;5608;1;0;0;0;0;0;0;0;0;At Buchanan E Block off of East Mall;Popular lot for visitors, Rose Garden Parkade is a great alternative;;1;20190423143244; https://www.honkmobile.com/hourly/zones/5608
-2163;C2 Lot;;;7:00 AM - 2:00 AM;$3/hr  Max $15/day;;;5627;1;1;0;0;0;0;0;0;0;Near Life Sciences , Applied Sciences District and TEF 3;Short-term stalls available for quick access;N/A;1;20190423162403; https://www.honkmobile.com/hourly/zones/5627
+2163;C2 Lot;;;12:00 AM - 11:59 PM;$3/hr  Max $15/day;Same as Day Rate;Same as Day Rate;5627;1;1;0;0;0;0;0;0;0;Near Life Sciences , Applied Sciences District and TEF 3;Short-term stalls available for quick access;N/A;1;20191206125739; https://www.honkmobile.com/hourly/zones/5627
 2164;Library Processing Lot;;;;;;;;;;;;;;;;;;;;;20120825195542; https://www.honkmobile.com/hourly/zones/
 2165;L Lot;;;;;;;;;;;;;;;;;Resident Lot by St. John's College & Marine Drive Residences;;;;20120825195510; https://www.honkmobile.com/hourly/zones/
 2166;Michael Smith Lot;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$4.00/hr Max 1 Hour;Same as Day Rate;Same as Day Rate;5621;1;1;0;0;0;0;0;0;0;On East Mall near Bookstore & Wesbrook Building;;;1;20190925124137; https://www.honkmobile.com/hourly/zones/5621
