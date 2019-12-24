@@ -2390,6 +2390,50 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
+						[ -123.24953431043372, 49.26698002329692 ],
+						[ -123.24916952973231, 49.26647245245863 ],
+						[ -123.24916416626357, 49.26647245233122 ],
+						[ -123.24907297019723, 49.26650045675549 ],
+						[ -123.24886375919515, 49.266279923990744 ],
+						[ -123.24838632519825, 49.266416444419605 ],
+						[ -123.24893886044975, 49.26716554765174 ],
+						[ -123.24953431043372, 49.26698002329692 ]
+					]
+				]
+			},
+			"properties" : {
+				"FAC_ID" : 2301,
+				"FAC_DESCRIPTION" : "University Blvd Lot",
+				"FAC_ADDRESS" : "6131 University Boulevard Vancouver, BC",
+				"FAC_HOURPM" : null,
+				"FAC_HOURSDAY" : "7:00 AM - 10:00 PM",
+				"FAC_RATE" : "$4 per hour",
+				"FAC_RATEPM" : null,
+				"FAC_RATEHOL" : null,
+				"FAC_VERRUS" : "5632",
+				"FAC_DISABLED" : "1",
+				"FAC_MC" : "0",
+				"FAC_BIKE" : "0",
+				"FAC_ELEVATOR" : "1",
+				"FAC_EV" : "1",
+				"FAC_UNDERPERMIT" : "0",
+				"FAC_GRAD" : "0",
+				"FAC_REZPERMIT" : "0",
+				"FAC_FSPERMIT" : "0",
+				"FAC_BOUNDARY_DESCRIPTION" : "Close to the Nest & University Blvd",
+				"FAC_TIPS" : "Short-term Visitor Only Parking",
+				"FAC_HEIGHT" : "7'0\"",
+				"FAC_MAP_DISPLAY" : "1",
+				"FAC_MODIFY_DATE" : "20191216103554",
+				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5632"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
 						[ -123.2514995214969, 49.2690443736096 ],
 						[ -123.25119029902451, 49.268668263983095 ],
 						[ -123.25124840414387, 49.268647807577494 ],
@@ -2448,50 +2492,6 @@
 				"FAC_MAP_DISPLAY" : "1",
 				"FAC_MODIFY_DATE" : "20190531090716",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -123.24953431043372, 49.26698002329692 ],
-						[ -123.24916952973231, 49.26647245245863 ],
-						[ -123.24916416626357, 49.26647245233122 ],
-						[ -123.24907297019723, 49.26650045675549 ],
-						[ -123.24886375919515, 49.266279923990744 ],
-						[ -123.24838632519825, 49.266416444419605 ],
-						[ -123.24893886044975, 49.26716554765174 ],
-						[ -123.24953431043372, 49.26698002329692 ]
-					]
-				]
-			},
-			"properties" : {
-				"FAC_ID" : 2301,
-				"FAC_DESCRIPTION" : "University Blvd Lot",
-				"FAC_ADDRESS" : "6131 University Boulevard Vancouver, BC",
-				"FAC_HOURPM" : null,
-				"FAC_HOURSDAY" : "7:00 AM - 10:00 PM",
-				"FAC_RATE" : "$4 per hour",
-				"FAC_RATEPM" : null,
-				"FAC_RATEHOL" : null,
-				"FAC_VERRUS" : "5632",
-				"FAC_DISABLED" : "1",
-				"FAC_MC" : "0",
-				"FAC_BIKE" : "0",
-				"FAC_ELEVATOR" : "1",
-				"FAC_EV" : "1",
-				"FAC_UNDERPERMIT" : "0",
-				"FAC_GRAD" : "0",
-				"FAC_REZPERMIT" : "0",
-				"FAC_FSPERMIT" : "0",
-				"FAC_BOUNDARY_DESCRIPTION" : "Close to the Nest & University Blvd",
-				"FAC_TIPS" : "Short-term Visitor Only Parking",
-				"FAC_HEIGHT" : "7'0\"",
-				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20191216103554",
-				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5632"
 			}
 		}
 	]
