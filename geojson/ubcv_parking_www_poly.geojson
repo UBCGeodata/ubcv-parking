@@ -2297,47 +2297,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.24431805965692, 49.26475946693818 ],
-						[ -123.24438723317913, 49.26473510732899 ],
-						[ -123.24295351747026, 49.26299138701109 ],
-						[ -123.24288434704785, 49.26301574576371 ],
-						[ -123.24431805965692, 49.26475946693818 ]
-					]
-				]
-			},
-			"properties" : {
-				"FAC_ID" : 2142,
-				"FAC_DESCRIPTION" : "Wesbrook Mall 2200 Block",
-				"FAC_ADDRESS" : null,
-				"FAC_HOURPM" : null,
-				"FAC_HOURSDAY" : null,
-				"FAC_RATE" : null,
-				"FAC_RATEPM" : null,
-				"FAC_RATEHOL" : null,
-				"FAC_VERRUS" : "5612",
-				"FAC_DISABLED" : "0",
-				"FAC_MC" : "0",
-				"FAC_BIKE" : "0",
-				"FAC_ELEVATOR" : "0",
-				"FAC_EV" : "0",
-				"FAC_UNDERPERMIT" : "0",
-				"FAC_GRAD" : "0",
-				"FAC_REZPERMIT" : "0",
-				"FAC_FSPERMIT" : "0",
-				"FAC_BOUNDARY_DESCRIPTION" : null,
-				"FAC_TIPS" : null,
-				"FAC_HEIGHT" : null,
-				"FAC_MAP_DISPLAY" : "0",
-				"FAC_MODIFY_DATE" : "20190821185509",
-				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5612"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -123.2460769789305, 49.26586268605164 ],
 						[ -123.24618093732641, 49.26584725819074 ],
 						[ -123.24627718751591, 49.26583297466622 ],
