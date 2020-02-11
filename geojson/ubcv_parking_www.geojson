@@ -605,11 +605,11 @@
         "FAC_GRAD" : "1",
         "FAC_REZPERMIT" : "1",
         "FAC_FSPERMIT" : "1",
-        "FAC_BOUNDARY_DESCRIPTION" : "Close to Chan Centre, Freddy Wood Theatre and MOA",
+        "FAC_BOUNDARY_DESCRIPTION" : "Close to Chan Centre, Frederic Wood Theatre and MOA",
         "FAC_TIPS" : "Event rate of $10 in effect for events at the Chan Centre",
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20170813125843",
+        "FAC_MODIFY_DATE" : "20200211121352",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5665",
         "HIGHLIGHT_FACILITY" : "1"
       }
