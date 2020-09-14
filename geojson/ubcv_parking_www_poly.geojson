@@ -148,7 +148,7 @@
 				"FAC_ADDRESS" : null,
 				"FAC_HOURPM" : "5:00 PM - 12:00 AM",
 				"FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-				"FAC_RATE" : "$4.00/hr no  Maximum",
+				"FAC_RATE" : "$4.00 per hr Max $10.00",
 				"FAC_RATEPM" : "$4.00/hr Max $10.00",
 				"FAC_RATEHOL" : "$4.00/hr Max $10.00",
 				"FAC_VERRUS" : "5630",
@@ -165,7 +165,7 @@
 				"FAC_TIPS" : "Check our events listings to ensure lot isn't closed!",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20200909171519",
+				"FAC_MODIFY_DATE" : "20200914111326",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5630"
 			}
 		},
@@ -1789,9 +1789,9 @@
 				"FAC_ADDRESS" : null,
 				"FAC_HOURPM" : null,
 				"FAC_HOURSDAY" : "9:00 AM - 5:30 PM",
-				"FAC_RATE" : "$4.00/hr no  Maximum",
-				"FAC_RATEPM" : null,
-				"FAC_RATEHOL" : "$4.00/hr no  Maximum",
+				"FAC_RATE" : "$1.50 per hr Max $6.00",
+				"FAC_RATEPM" : "$1.50 per hr Max $6.00",
+				"FAC_RATEHOL" : "$1.50 per hr Max $6.00",
 				"FAC_VERRUS" : "5642",
 				"FAC_DISABLED" : "1",
 				"FAC_MC" : "0",
@@ -1806,7 +1806,7 @@
 				"FAC_TIPS" : "Visitors to Gardens get a special rate!  The parking lot opens from 9:00am to 5:30pm, except during special events",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20200909171204",
+				"FAC_MODIFY_DATE" : "20200914111240",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5642"
 			}
 		},
