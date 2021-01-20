@@ -728,9 +728,9 @@
         "FAC_ADDRESS" : "6115 Student Union Boulevard V6T 1Z1",
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
         "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-        "FAC_RATE" : "$4.00/hr no  Maximum",
+        "FAC_RATE" : "$4/HR - MAX $20 UNTIL 11:59PM",
         "FAC_RATEPM" : "$4.00/hr no  Maximum",
-        "FAC_RATEHOL" : "$4.00/hr no  Maximum",
+        "FAC_RATEHOL" : "$4.00/hr Max $20",
         "FAC_VERRUS" : "5667",
         "FAC_DISABLED" : "1",
         "FAC_MC" : "1",
@@ -745,7 +745,7 @@
         "FAC_TIPS" : "Short-term stalls available for pool and gym visitors",
         "FAC_HEIGHT" : "6'5\"",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20200504115446",
+        "FAC_MODIFY_DATE" : "20210120133014",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667",
         "HIGHLIGHT_FACILITY" : "1"
       }
@@ -1374,9 +1374,9 @@
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "5:00 PM - 12:00 AM",
         "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
-        "FAC_RATE" : "$4.00/hr no  Maximum",
+        "FAC_RATE" : "$4/HR - MAX $20 UNTIL 11:59PM",
         "FAC_RATEPM" : "$4.00/hr no  Maximum",
-        "FAC_RATEHOL" : "$4.00/hr no  Maximum",
+        "FAC_RATEHOL" : "$4.00/hr Max $20",
         "FAC_VERRUS" : "5654",
         "FAC_DISABLED" : "1",
         "FAC_MC" : "0",
@@ -1391,7 +1391,7 @@
         "FAC_TIPS" : "Very busy location during daytime hours!",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20200504102657",
+        "FAC_MODIFY_DATE" : "20210120133456",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5654",
         "HIGHLIGHT_FACILITY" : "0"
       }
