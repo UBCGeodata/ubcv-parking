@@ -2336,10 +2336,10 @@
 				"FAC_REZPERMIT" : "0",
 				"FAC_FSPERMIT" : "0",
 				"FAC_BOUNDARY_DESCRIPTION" : "Close to Dentistry, Family Practice and University Boulevard",
-				"FAC_TIPS" : "Popular lot for visitors to Mahoney's Pub",
+				"FAC_TIPS" : null,
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20200504120123",
+				"FAC_MODIFY_DATE" : "20210525130158",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5655"
 			}
 		},
