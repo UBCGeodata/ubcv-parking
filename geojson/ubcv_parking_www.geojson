@@ -232,10 +232,10 @@
         "FAC_REZPERMIT" : "0",
         "FAC_FSPERMIT" : "0",
         "FAC_BOUNDARY_DESCRIPTION" : "2300 Main Mall",
-        "FAC_TIPS" : null,
+        "FAC_TIPS" : "6 Liftango stalls reserved till 10:30am",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20200504103025",
+        "FAC_MODIFY_DATE" : "20210903170408",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5641",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -436,10 +436,10 @@
         "FAC_REZPERMIT" : "0",
         "FAC_FSPERMIT" : "0",
         "FAC_BOUNDARY_DESCRIPTION" : "Near Life Sciences , Applied Sciences District and TEF 3",
-        "FAC_TIPS" : "Short-term stalls available for quick access",
+        "FAC_TIPS" : "12 Liftango stalls reserved till 10:30am ",
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20210607141554",
+        "FAC_MODIFY_DATE" : "20210903170008",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5627",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -507,7 +507,7 @@
         "FAC_TIPS" : "Board of Governor's Lot - No public parking",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20171012101126",
+        "FAC_MODIFY_DATE" : "20210903170243",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5605",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -541,7 +541,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20210817100055",
+        "FAC_MODIFY_DATE" : "20210903171436",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5625",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -1153,7 +1153,7 @@
         "FAC_TIPS" : "Easy access to Acadia Park and Fairview for visitors",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20210607143225",
+        "FAC_MODIFY_DATE" : "20210903170738",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5613",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -1406,11 +1406,11 @@
         "FAC_ID" : 2162,
         "FAC_DESCRIPTION" : "Buchanan Meter Lot",
         "FAC_ADDRESS" : null,
-        "FAC_HOURPM" : "5:00 PM - 12:00 AM",
-        "FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
+        "FAC_HOURPM" : null,
+        "FAC_HOURSDAY" : "12:00 AM - 11:59 PM",
         "FAC_RATE" : "$4.00/hr no  Maximum",
-        "FAC_RATEPM" : "$4.00/hr no  Maximum",
-        "FAC_RATEHOL" : "$4.00/hr no  Maximum",
+        "FAC_RATEPM" : "Same as Day Rate",
+        "FAC_RATEHOL" : "Same as Day Rate",
         "FAC_VERRUS" : "5608",
         "FAC_DISABLED" : "1",
         "FAC_MC" : "0",
@@ -1425,7 +1425,7 @@
         "FAC_TIPS" : "Popular lot for visitors, Rose Garden Parkade is a great alternative",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20210204133846",
+        "FAC_MODIFY_DATE" : "20210904013004",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5608",
         "HIGHLIGHT_FACILITY" : "0"
       }
