@@ -29,10 +29,10 @@
 2138;Crescent Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2139;Education Road;;;;;;;;;;;;;;;;;;;;;20131219155740; https://www.honkmobile.com/hourly/zones/
 2140;Wesbrook Mall  - GSAB;;;;$4.00/hr no  Maximum;$4.00/hr no  Maximum;$4.00/hr no  Maximum;5610;0;0;0;0;0;0;0;0;0;;;;0;20200504103252; https://www.honkmobile.com/hourly/zones/5610
-2152;ACU Lot;;6:00 PM - 7:00 AM;7:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max 2 hours;Same as Day Rate;Same as Day Rate;5675;1;1;0;0;0;0;0;0;0;Entrance to UBC Hospital;Short term acute care parking only;;1;20190925124241; https://www.honkmobile.com/hourly/zones/5675
+2152;ACU Lot;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max 2 hours;Same as Day Rate;Same as Day Rate;5675;1;1;0;0;0;0;0;0;0;Entrance to UBC Hospital;Short term acute care parking only;;1;20210913080603; https://www.honkmobile.com/hourly/zones/5675
 2153;AMPEL Lot;;;;Reserved/Assigned Permit Only;;;;;;;;;;;;;;;;;20130930092002; https://www.honkmobile.com/hourly/zones/
 2249;Nest;;;;;;;5614;1;0;0;0;0;0;0;0;0;;;;0;20190730182041; https://www.honkmobile.com/hourly/zones/5614
-2156;B1 Lot;;;7:00 AM - 2:00 AM;$4.00/hr no  Maximum;$4.00/hr no  Maximum;$4.00/hr no  Maximum;5626;0;0;0;0;0;0;0;0;0;Economy Lot at Health Sciences & Agronomy;;;0;20200504115756; https://www.honkmobile.com/hourly/zones/5626
+2156;B1 Lot;;;7:00 AM - 2:00 AM;$4.00/hr no  Maximum;$4.00/hr no  Maximum;$4.00/hr no  Maximum;;0;0;0;0;0;0;0;0;0;Economy Lot at Health Sciences & Agronomy;CLOSED;;0;20210913080739; https://www.honkmobile.com/hourly/zones/
 2157;B4 Lot;;;12:00 AM - 11:59 PM;$2.00 for 1/2 hr - Max $20 23:59;$4.00/hr no  Maximum;not applicable;5631;1;1;0;0;0;0;0;0;1;Near Forestry, Main Mall and Orchard Commons;;N/A;1;20210607142137; https://www.honkmobile.com/hourly/zones/5631
 2174;Ritsumeikan Lot;;;;;;;5648;0;0;0;0;0;0;0;1;0;Residential Parking Lot for Ritsumeikan and Vantage College ;"No Public Parking; visitors should use B4 Lot or West Parkade";;1;20171012100743; https://www.honkmobile.com/hourly/zones/5648
 2175;Marine Drive Lot;;;;;;;;1;0;0;0;0;0;0;1;0;Resident Lot for St. John's College & Marine Drive Residences;"No Public Parking; visitors should use West Parkade";;1;20180614144544; https://www.honkmobile.com/hourly/zones/
@@ -189,7 +189,7 @@
 2160;Bookstore Lot;;;;;;;;;;;;;;;;;Near Bookstore, Sauder, Chemistry, Physics, SUB;;;;20120825194920; https://www.honkmobile.com/hourly/zones/
 2161;Brock Hall Lot;;5:00 PM - 12:00 AM;See Area for Rate;$4.00/hr no  Maximum;$4.00/hr no  Maximum;$4.00/hr no  Maximum;5617;0;0;0;0;0;0;0;0;0;Behind Brock Hall off Walter Gage Road;;;0;20200504113345; https://www.honkmobile.com/hourly/zones/5617
 2162;Buchanan Meter Lot;;;12:00 AM - 11:59 PM;$4.00/hr no  Maximum;Same as Day Rate;Same as Day Rate;5608;1;0;0;0;0;0;0;0;0;At Buchanan E Block off of East Mall;Popular lot for visitors, Rose Garden Parkade is a great alternative;;0;20210904013004; https://www.honkmobile.com/hourly/zones/5608
-2163;C2 Lot;;;12:00 AM - 11:59 PM;$2.00 for 1/2 hr - Max $20 23:59;$4.00/hr no  Maximum;not applicable;5627;1;1;0;0;0;0;0;0;0;Near Life Sciences , Applied Sciences District and TEF 3;12 Liftango stalls reserved till 10:30am ;N/A;1;20210903170008; https://www.honkmobile.com/hourly/zones/5627
+2163;C2 Lot;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max $20 23:59;$2.00 for 1/2 hr - Max $10 6AM;$2.00 for 1/2 hr - Max $10 23:59;5627;1;1;0;0;0;0;0;0;0;Near Life Sciences , Applied Sciences District and TEF 3;12 Liftango stalls reserved till 10:30am ;N/A;1;20210913081058; https://www.honkmobile.com/hourly/zones/5627
 2164;Library Processing Lot;;;;;;;;;;;;;;;;;;;;;20120825195542; https://www.honkmobile.com/hourly/zones/
 2165;L Lot;;;;;;;;;;;;;;;;;Resident Lot by St. John's College & Marine Drive Residences;;;;20120825195510; https://www.honkmobile.com/hourly/zones/
 2166;Michael Smith Lot;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max 1 hour;Same as Day Rate;Same as Day Rate;5621;1;1;0;0;0;0;0;0;0;On East Mall near Bookstore & Wesbrook Building;;;1;20210607140336; https://www.honkmobile.com/hourly/zones/5621
@@ -246,7 +246,7 @@
 2256;Z Lot;;;;;;;;;;;;;;;;;;;;;20160210162148; https://www.honkmobile.com/hourly/zones/
 2257;Library PARC;;;;F/S Permit Only;;;;;;;;;;;;;;;;;20160307132727; https://www.honkmobile.com/hourly/zones/
 2258;Acadia Park ;;;;;;;;;;;;;;;;;;;;;20160406120730; https://www.honkmobile.com/hourly/zones/
-2259;Acadia Visitor Parking Areas;;;;$4.00/hr no  Maximum;$4.00/hr no  Maximum;$4.00/hr no  Maximum;;0;0;0;0;0;0;0;0;0;;;;0;20200504120249; https://www.honkmobile.com/hourly/zones/
+2259;Acadia Visitor Parking Areas;;;;$2/hr Max $10/day;Same as Day Rate;Same as Day Rate;5618;0;0;0;0;0;0;0;0;0;;;;0;20210913084621; https://www.honkmobile.com/hourly/zones/5618
 2260;All lots except M and R;;;;;;;;;;;;;;;;;;;;;20170224154151; https://www.honkmobile.com/hourly/zones/
 2261;Multi-Lot;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20170810115737; https://www.honkmobile.com/hourly/zones/
 2262;Orchard Commons;;;;;;;;0;0;0;0;;0;0;0;0;;;;;20170428114008; https://www.honkmobile.com/hourly/zones/
