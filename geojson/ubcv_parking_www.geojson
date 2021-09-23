@@ -1390,8 +1390,8 @@
         "FAC_BOUNDARY_DESCRIPTION" : "Near Allard Hall, Buchanan and Brock Hall",
         "FAC_TIPS" : "Very busy location during daytime hours!",
         "FAC_HEIGHT" : null,
-        "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20210913094033",
+        "FAC_MAP_DISPLAY" : "0",
+        "FAC_MODIFY_DATE" : "20210922180947",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5654",
         "HIGHLIGHT_FACILITY" : "0"
       }
