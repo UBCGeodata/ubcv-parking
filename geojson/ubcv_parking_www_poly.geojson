@@ -76,11 +76,11 @@
 				"FAC_ID" : 2168,
 				"FAC_DESCRIPTION" : "Museum Lot",
 				"FAC_ADDRESS" : null,
-				"FAC_HOURPM" : "5:00 PM - 12:00 AM",
-				"FAC_HOURSDAY" : "6:00 AM - 5:00 PM",
+				"FAC_HOURPM" : "6:00 PM - 6:00 AM",
+				"FAC_HOURSDAY" : "6:00 AM - 6:00 PM",
 				"FAC_RATE" : "$2.00 for 1/2 hr - Max $20 23:59",
 				"FAC_RATEPM" : "Same as Day Rate",
-				"FAC_RATEHOL" : "$4.00/hr Max $20",
+				"FAC_RATEHOL" : "$2.00 for 1/2 hr - Max $10 23:59",
 				"FAC_VERRUS" : "5603",
 				"FAC_DISABLED" : "1",
 				"FAC_MC" : "0",
@@ -95,7 +95,7 @@
 				"FAC_TIPS" : "Very busy location during daytime hours!",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20210607140714",
+				"FAC_MODIFY_DATE" : "20211008143838",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5603"
 			}
 		},
