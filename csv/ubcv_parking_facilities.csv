@@ -14,7 +14,7 @@
 2123;Thunderbird Crescent;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max $20 23:59;$2.00 for 1/2 hr - Max $10 6AM;$2.00 for 1/2 hr - Max $10 23:59;5641;0;0;0;0;0;0;0;0;0;2300 Main Mall;6 Liftango stalls reserved till 10:30am;;0;20210913132047; https://www.honkmobile.com/hourly/zones/5641
 2124;East Mall Road South 16-TBird;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max $20 23:59;$2.00 for 1/2 hr - Max $10 6AM;$2.00 for 1/2 hr - Max $10 23:59;5623;0;0;0;0;0;0;0;0;0;;;;0;20210913130802; https://www.honkmobile.com/hourly/zones/5623
 2125;Stadium Road ;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2126;Agronomy Road;;;12:00 AM - 11:59 PM;$2.00 for 1/2 hr - Max 4 hours;Same as Day Rate;Same as Day Rate;5619;0;0;0;0;0;0;0;0;0;;;;0;20210913094657; https://www.honkmobile.com/hourly/zones/5619
+2126;Agronomy Road;;;12:00 AM - 11:59 PM;$4 per hour;Same as Day Rate;Same as Day Rate;5619;0;0;0;0;0;0;0;0;0;;;;0;20211008152903; https://www.honkmobile.com/hourly/zones/5619
 2127;Stores Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2128;Engineering Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2129;Applied Sciences Lane;;;;;;;;;;;;;;;;;;;;;20120828121413; https://www.honkmobile.com/hourly/zones/
@@ -22,7 +22,7 @@
 2131;Health Sciences Road;;10:00 PM - 6:00 AM;7:00 AM - 10:00 PM;$2.00 for 1/2 hr - Max 4 hours;No Charge;$4.00/hr Max $20;5646;;;;;;;;;;;;;;20130424145105; https://www.honkmobile.com/hourly/zones/5646
 2132;Biological Sciences Road;;;;;;;;;;;;;;;;;;;;;20120813120357; https://www.honkmobile.com/hourly/zones/
 2133;Student Union Boulevard;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max 1 hour;Same as Day Rate;Same as Day Rate;5609;0;0;0;0;0;0;0;0;0;;;;0;20210913131853; https://www.honkmobile.com/hourly/zones/5609
-2134;Walter Gage Road;;;;;;;5634;0;0;0;0;0;0;0;0;0;;;;0;20190731164235; https://www.honkmobile.com/hourly/zones/5634
+2134;Walter Gage Road;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max $20 23:59;$2.00 for 1/2 hr - Max $10 6AM;$2.00 for 1/2 hr - Max $10 23:59;5634;0;0;0;0;0;0;0;0;0;;;;0;20211008174540; https://www.honkmobile.com/hourly/zones/5634
 2135;Mathematics Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2136;Agricultural Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2137;Memorial Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
@@ -188,7 +188,7 @@
 2159;Berwick Lot;;;;;;;;0;0;0;0;0;0;0;0;0;At Berwick Daycare Centre on Osyoos Cresent;;;0;20210913085208; https://www.honkmobile.com/hourly/zones/
 2160;Bookstore Lot;;;;;;;;;;;;;;;;;Near Bookstore, Sauder, Chemistry, Physics, SUB;;;;20120825194920; https://www.honkmobile.com/hourly/zones/
 2161;Brock Hall Lot;;5:00 PM - 12:00 AM;See Area for Rate;$4.00/hr no  Maximum;$4.00/hr no  Maximum;$4.00/hr no  Maximum;5617;0;0;0;0;0;0;0;0;0;Behind Brock Hall off Walter Gage Road;;;0;20210913125439; https://www.honkmobile.com/hourly/zones/5617
-2162;Buchanan Meter Lot;;;12:00 AM - 11:59 PM;$2.00 for 1/2 hr - Max 4 hours;Same as Day Rate;Same as Day Rate;5608;1;0;0;0;0;0;0;0;0;At Buchanan E Block off of East Mall;Popular lot for visitors, Rose Garden Parkade is a great alternative;;0;20210913130319; https://www.honkmobile.com/hourly/zones/5608
+2162;Buchanan Meter Lot;;;12:00 AM - 11:59 PM;$4 per hour;Same as Day Rate;Same as Day Rate;5608;1;0;0;0;0;0;0;0;0;At Buchanan E Block off of East Mall;Popular lot for visitors, Rose Garden Parkade is a great alternative;;0;20211008150849; https://www.honkmobile.com/hourly/zones/5608
 2163;C2 Lot;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max $20 23:59;$2.00 for 1/2 hr - Max $10 6AM;$2.00 for 1/2 hr - Max $10 23:59;5627;1;1;0;0;0;0;0;0;0;Near Life Sciences , Applied Sciences District and TEF 3;12 Liftango stalls reserved till 10:30am ;N/A;1;20210913081058; https://www.honkmobile.com/hourly/zones/5627
 2164;Library Processing Lot;;;;;;;;;;;;;;;;;;;;;20120825195542; https://www.honkmobile.com/hourly/zones/
 2165;L Lot;;;;;;;;;;;;;;;;;Resident Lot by St. John's College & Marine Drive Residences;;;;20120825195510; https://www.honkmobile.com/hourly/zones/
@@ -198,7 +198,7 @@
 2169;Music Underground Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2170;North Parkade;6115 Student Union Boulevard V6T 1Z1;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max $20 23:59;$2.00 for 1/2 hr - Max $10 6AM;$2.00 for 1/2 hr - Max $10 23:59;5667;1;1;0;0;1;1;1;1;1;Near Brock Hall, Gage Residence, Nest and Aquatic Centre;Short-term stalls available for pool and gym visitors;6'5";1;20210820111151; https://www.honkmobile.com/hourly/zones/5667
 2207;Motorcycle Lot;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
-2208;Marine Drive Residences;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max $20 23:59;$2.00 for 1/2 hr - Max $10 6AM;$2.00 for 1/2 hr - Max $10 23:59;5651;1;0;0;0;0;0;0;0;0;;;;0;20210913090859; https://www.honkmobile.com/hourly/zones/5651
+2208;Marine Drive Residences;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max $20 23:59;$2.00 for 1/2 hr - Max $10 6AM;$2.00 for 1/2 hr - Max $10 23:59;5651;1;0;0;0;0;0;0;0;0;;;;0;20211008181032; https://www.honkmobile.com/hourly/zones/5651
 2209;Strangway Pay Lot;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max $20 23:59;$2.00 for 1/2 hr - Max $10 6AM;$2.00 for 1/2 hr - Max $10 23:59;5655;1;0;0;1;0;0;0;0;0;Close to Dentistry, Family Practice and University Boulevard;;;1;20210913091817; https://www.honkmobile.com/hourly/zones/5655
 2210;Accessibility Permit;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20170810115823; https://www.honkmobile.com/hourly/zones/
 2211;K Lot;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20170810115714; https://www.honkmobile.com/hourly/zones/
@@ -210,7 +210,7 @@
 2217;Nurseries Road;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2218;PowerHouse Reserved;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2219;Wesbrook Mall;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20210913132410; https://www.honkmobile.com/hourly/zones/
-2220;Old Firehall Meters;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$2.00 for 1/2 hr - Max 4 hours;Same as Day Rate;Same as Day Rate;5604;1;1;0;0;0;0;0;0;0;;;;0;20210913131251; https://www.honkmobile.com/hourly/zones/5604
+2220;Old Firehall Meters;;6:00 PM - 6:00 AM;6:00 AM - 6:00 PM;$4 per hour;Same as Day Rate;Same as Day Rate;5604;1;1;0;0;0;0;0;0;0;;;;0;20211008150151; https://www.honkmobile.com/hourly/zones/5604
 2221;Memorial Lot;;;;;;;5605;1;1;0;0;0;0;0;0;0;Board of Governor's Reserved Lot;Board of Governor's Lot - No public parking;;1;20210903170243; https://www.honkmobile.com/hourly/zones/5605
 2222;Bioenergy Research;;;;;;;;;;;;;;;;;;;;;20120720172509; https://www.honkmobile.com/hourly/zones/
 2223;Totem Lot - F/S;;;;F/S Permit Only;;;;;;;;;;;;;F/S Lot adjacent to Totem Rez Lot;;;;20131215140044; https://www.honkmobile.com/hourly/zones/

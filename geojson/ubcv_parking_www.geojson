@@ -14,7 +14,7 @@
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : "6:00 PM - 6:00 AM",
         "FAC_HOURSDAY" : "6:00 AM - 6:00 PM",
-        "FAC_RATE" : "$2.00 for 1/2 hr - Max 4 hours",
+        "FAC_RATE" : "$4 per hour",
         "FAC_RATEPM" : "Same as Day Rate",
         "FAC_RATEHOL" : "Same as Day Rate",
         "FAC_VERRUS" : "5604",
@@ -31,7 +31,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20210913131251",
+        "FAC_MODIFY_DATE" : "20211008150151",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5604",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -80,11 +80,11 @@
         "FAC_ID" : 2134,
         "FAC_DESCRIPTION" : "Walter Gage Road",
         "FAC_ADDRESS" : null,
-        "FAC_HOURPM" : null,
-        "FAC_HOURSDAY" : null,
-        "FAC_RATE" : null,
-        "FAC_RATEPM" : null,
-        "FAC_RATEHOL" : null,
+        "FAC_HOURPM" : "6:00 PM - 6:00 AM",
+        "FAC_HOURSDAY" : "6:00 AM - 6:00 PM",
+        "FAC_RATE" : "$2.00 for 1/2 hr - Max $20 23:59",
+        "FAC_RATEPM" : "$2.00 for 1/2 hr - Max $10 6AM",
+        "FAC_RATEHOL" : "$2.00 for 1/2 hr - Max $10 23:59",
         "FAC_VERRUS" : "5634",
         "FAC_DISABLED" : "0",
         "FAC_MC" : "0",
@@ -99,7 +99,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20190731164235",
+        "FAC_MODIFY_DATE" : "20211008174540",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5634",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -184,7 +184,7 @@
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
         "FAC_HOURSDAY" : "12:00 AM - 11:59 PM",
-        "FAC_RATE" : "$2.00 for 1/2 hr - Max 4 hours",
+        "FAC_RATE" : "$4 per hour",
         "FAC_RATEPM" : "Same as Day Rate",
         "FAC_RATEHOL" : "Same as Day Rate",
         "FAC_VERRUS" : "5619",
@@ -201,7 +201,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20210913094657",
+        "FAC_MODIFY_DATE" : "20211008152903",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5619",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -949,7 +949,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20210913090859",
+        "FAC_MODIFY_DATE" : "20211008181032",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5651",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -1408,7 +1408,7 @@
         "FAC_ADDRESS" : null,
         "FAC_HOURPM" : null,
         "FAC_HOURSDAY" : "12:00 AM - 11:59 PM",
-        "FAC_RATE" : "$2.00 for 1/2 hr - Max 4 hours",
+        "FAC_RATE" : "$4 per hour",
         "FAC_RATEPM" : "Same as Day Rate",
         "FAC_RATEHOL" : "Same as Day Rate",
         "FAC_VERRUS" : "5608",
@@ -1425,7 +1425,7 @@
         "FAC_TIPS" : "Popular lot for visitors, Rose Garden Parkade is a great alternative",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20210913130319",
+        "FAC_MODIFY_DATE" : "20211008150849",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5608",
         "HIGHLIGHT_FACILITY" : "0"
       }
