@@ -85,7 +85,7 @@
         "FAC_RATE" : "$2.00 for 1/2 hr - Max $20 23:59",
         "FAC_RATEPM" : "$2.00 for 1/2 hr - Max $10 6AM",
         "FAC_RATEHOL" : "$2.00 for 1/2 hr - Max $10 23:59",
-        "FAC_VERRUS" : "5634",
+        "FAC_VERRUS" : "5644",
         "FAC_DISABLED" : "0",
         "FAC_MC" : "0",
         "FAC_BIKE" : "0",
@@ -99,8 +99,8 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20211008174540",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5634",
+        "FAC_MODIFY_DATE" : "20211012111329",
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5644",
         "HIGHLIGHT_FACILITY" : "0"
       }
     },
@@ -627,7 +627,7 @@
         "FAC_HOURPM" : "6:00 PM - 6:00 AM",
         "FAC_HOURSDAY" : "6:00 AM - 6:00 PM",
         "FAC_RATE" : "$2.00 for 1/2 hr - Max $20 23:59",
-        "FAC_RATEPM" : "Same as Day Rate",
+        "FAC_RATEPM" : "$2.00 for 1/2 hr - Max $10 6AM",
         "FAC_RATEHOL" : "$2.00 for 1/2 hr - Max $10 23:59",
         "FAC_VERRUS" : "5603",
         "FAC_DISABLED" : "1",
@@ -643,7 +643,7 @@
         "FAC_TIPS" : "Very busy location during daytime hours!",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20211008143838",
+        "FAC_MODIFY_DATE" : "20211012112052",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5603",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -1003,7 +1003,7 @@
         "FAC_RATE" : "$2.00 for 1/2 hr - Max $20 23:59",
         "FAC_RATEPM" : "Same as Day Rate",
         "FAC_RATEHOL" : "$2.00 for 1/2 hr - Max $10 23:59",
-        "FAC_VERRUS" : "5657",
+        "FAC_VERRUS" : "5620",
         "FAC_DISABLED" : "0",
         "FAC_MC" : "0",
         "FAC_BIKE" : "0",
@@ -1017,8 +1017,8 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20210913093733",
-        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5657",
+        "FAC_MODIFY_DATE" : "20211012111117",
+        "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5620",
         "HIGHLIGHT_FACILITY" : "0"
       }
     },
