@@ -289,45 +289,44 @@
 2301;University Blvd Lot;6131 University Boulevard Vancouver, BC;;12:00 AM - 11:59 PM;$4.00/hr no  Maximum;Same as Day Rate;Same as Day Rate;5632;1;1;0;1;1;0;0;0;0;Close to the Nest & University Blvd;Short-term Visitor Only Parking;7'0";1;20210913092256; https://www.honkmobile.com/hourly/zones/5632
 2270;Thunderbird Res Wes;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking lot for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";;0;20180328134035; https://www.honkmobile.com/hourly/zones/
 2307;Exchange Residence;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20190812102949; https://www.honkmobile.com/hourly/zones/
-2315;Frederic Lasserre (Courtyard);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616090508; https://www.honkmobile.com/hourly/zones/
-2316;D.H. Copp (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616134850; https://www.honkmobile.com/hourly/zones/
-2324;Life Sciences Centre Lockers;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616111529; https://www.honkmobile.com/hourly/zones/
-2326;Totem Park;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616111831; https://www.honkmobile.com/hourly/zones/
-2328;Fred Kaiser (North East);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616112121; https://www.honkmobile.com/hourly/zones/
+2315;Lasserre Lockers(Courtyard);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621142917; https://www.honkmobile.com/hourly/zones/
+2316;D.H. Copp Lockers (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621143139; https://www.honkmobile.com/hourly/zones/
+2324;Life Sciences Centre Lockers;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621141939; https://www.honkmobile.com/hourly/zones/
+2326;Totem Park Lockers;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621142254; https://www.honkmobile.com/hourly/zones/
+2328;Fred Kaiser Lockers (Northeast);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621143624; https://www.honkmobile.com/hourly/zones/
 2309;IA1 Lot;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20211217122012; https://www.honkmobile.com/hourly/zones/
-2323;Engineering Design Centre;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616111336; https://www.honkmobile.com/hourly/zones/
+2323;Engineering Design Centre Locker;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621142826; https://www.honkmobile.com/hourly/zones/
 2339;Fraser River Parkade ;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125719; https://www.honkmobile.com/hourly/zones/
 2340;Health Sciences Parkade Bike;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125800; https://www.honkmobile.com/hourly/zones/
 2343;West Parkade Bike;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125946; https://www.honkmobile.com/hourly/zones/
 2311;Gage Parkade;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220208145027; https://www.honkmobile.com/hourly/zones/
-2317;David Strangway (Parking Area);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616100939; https://www.honkmobile.com/hourly/zones/
-2318;Henry Angus (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616101103; https://www.honkmobile.com/hourly/zones/
-2327;HR MacMillan;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616111935; https://www.honkmobile.com/hourly/zones/
+2317;Strangway Lockers (Parking Area);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621143257; https://www.honkmobile.com/hourly/zones/
+2318;Henry Angus Lockers (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621143503; https://www.honkmobile.com/hourly/zones/
+2327;MacMillan Lockers;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621142428; https://www.honkmobile.com/hourly/zones/
 2331;AERL ;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125223; https://www.honkmobile.com/hourly/zones/
 2333;Buchanan Tower West Bike Cage;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125337; https://www.honkmobile.com/hourly/zones/
-2313;Brock Hall (South);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616084418; https://www.honkmobile.com/hourly/zones/
-2314;Memorial Gym (South);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616090330; https://www.honkmobile.com/hourly/zones/
-2320;Woodward IRC (South East);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616140312; https://www.honkmobile.com/hourly/zones/
-2321;Macdonald (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616110655; https://www.honkmobile.com/hourly/zones/
-2322;CHBE;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616110736; https://www.honkmobile.com/hourly/zones/
-2325;Place Vanier Residence;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616111655; https://www.honkmobile.com/hourly/zones/
-2329;David Lam (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616112323; https://www.honkmobile.com/hourly/zones/
+2313;Brock Hall Lockers (South);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621144339; https://www.honkmobile.com/hourly/zones/
+2314;Memorial Gym Lockers (South);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621144707; https://www.honkmobile.com/hourly/zones/
+2320;Woodward IRC Locker (South East);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621141554; https://www.honkmobile.com/hourly/zones/
+2321;Macdonald Lockers (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621141830; https://www.honkmobile.com/hourly/zones/
+2322;CHBE Lockers;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621142132; https://www.honkmobile.com/hourly/zones/
+2325;Place Vanier Lockers;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621141726; https://www.honkmobile.com/hourly/zones/
+2329;David Lam Lockers (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621143643; https://www.honkmobile.com/hourly/zones/
 2332;Allard Hall;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125256; https://www.honkmobile.com/hourly/zones/
 2334;Buchanan Tower East Bike Cage;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125410; https://www.honkmobile.com/hourly/zones/
 2337;Chemistry;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125557; https://www.honkmobile.com/hourly/zones/
 2303;Acadia Zone 24;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20190725150101; https://www.honkmobile.com/hourly/zones/
 2308;Motorcyle Locations at UBCV;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20210908192625; https://www.honkmobile.com/hourly/zones/
 2310;Fairview Crescent Underground;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220208110234; https://www.honkmobile.com/hourly/zones/
-2330;Pharmacy;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125119; https://www.honkmobile.com/hourly/zones/
+2330;Pharmacy Lockers;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621143757; https://www.honkmobile.com/hourly/zones/
 2341;Thunderbird Parkade Cage 1;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125835; https://www.honkmobile.com/hourly/zones/
 2306;Acadia Zone 27;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20190725150455; https://www.honkmobile.com/hourly/zones/
 2312;Revelstoke;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220214141550; https://www.honkmobile.com/hourly/zones/
-2319;Douglas Kenny (East);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616101319; https://www.honkmobile.com/hourly/zones/
+2319;Kenny Lockers (East);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220621142646; https://www.honkmobile.com/hourly/zones/
 2302;Acadia Zone 23;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20190725150005; https://www.honkmobile.com/hourly/zones/
 2304;Acadia Zone 25;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20190725150138; https://www.honkmobile.com/hourly/zones/
 2305;Acadia Zone 26;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20190807110541; https://www.honkmobile.com/hourly/zones/
 2335;Civil & Mechanical Bike Cage;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125449; https://www.honkmobile.com/hourly/zones/
-2336;Chem Bio ;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125523; https://www.honkmobile.com/hourly/zones/
 2338;UBC Life Building;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125627; https://www.honkmobile.com/hourly/zones/
 2342;Thunderbird Parkade Cage 2;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616125914; https://www.honkmobile.com/hourly/zones/
 2344;Totem Field Studio Bike;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;20220616130041; https://www.honkmobile.com/hourly/zones/
