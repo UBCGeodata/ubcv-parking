@@ -1744,7 +1744,7 @@
 			},
 			"properties" : {
 				"FAC_ID" : 2208,
-				"FAC_DESCRIPTION" : "Marine Drive Residences",
+				"FAC_DESCRIPTION" : "Lower Mall Marine Lot",
 				"FAC_ADDRESS" : null,
 				"FAC_HOURPM" : "6:00 PM - 6:00 AM",
 				"FAC_HOURSDAY" : "6:00 AM - 6:00 PM",
@@ -1765,7 +1765,7 @@
 				"FAC_TIPS" : null,
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "0",
-				"FAC_MODIFY_DATE" : "20220713113320",
+				"FAC_MODIFY_DATE" : "20220829153334",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5651"
 			}
 		},
