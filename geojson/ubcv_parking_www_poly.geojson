@@ -90,12 +90,12 @@
 				"FAC_UNDERPERMIT" : "0",
 				"FAC_GRAD" : "0",
 				"FAC_REZPERMIT" : "0",
-				"FAC_FSPERMIT" : "0",
+				"FAC_FSPERMIT" : "1",
 				"FAC_BOUNDARY_DESCRIPTION" : "Proximity parking for Museum of Anthropology",
 				"FAC_TIPS" : "Very busy location during daytime hours!",
 				"FAC_HEIGHT" : null,
-				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20220713113320",
+				"FAC_MAP_DISPLAY" : "0",
+				"FAC_MODIFY_DATE" : "20230214131922",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5603"
 			}
 		},
