@@ -245,7 +245,7 @@
 2255;W;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2256;Z Lot;;;;;;;;;;;;;;;;;;;;;; https://www.honkmobile.com/hourly/zones/
 2257;Library PARC;;;;F/S Permit Only;;;;;;;;;;;;;;;;;; https://www.honkmobile.com/hourly/zones/
-2258;Acadia Park ;;;;;;;;;;;;;;;;;;;;;; https://www.honkmobile.com/hourly/zones/
+2258;Acadia Park ;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2259;Acadia Visitor Parking Areas;;;;$1.00 for 1/2 hr - Max $8  2AM;Same as Day Rate;Same as Day Rate;5618;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/5618
 2260;All lots except M and R;;;;;;;;;;;;;;;;;;;;;; https://www.honkmobile.com/hourly/zones/
 2261;Multi-Lot;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
@@ -284,10 +284,10 @@
 2279;Acadia Zone 03;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2281;Acadia Zone 05;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2287;Acadia Zone 08;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
-2269;Thunderbird Res East Mall;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";;0;; https://www.honkmobile.com/hourly/zones/
+2269;Thunderbird East Mall;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";;0;; https://www.honkmobile.com/hourly/zones/
 2278;President's Row;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2301;University Blvd Lot;6131 University Boulevard Vancouver, BC;;12:00 AM - 11:59 PM;$4.00/hr no  Maximum;Same as Day Rate;Same as Day Rate;5632;1;1;0;1;1;0;0;0;0;Close to the Nest & University Blvd;Short-term Visitor Only Parking;7'0";1;; https://www.honkmobile.com/hourly/zones/5632
-2270;Thunderbird Res West Mall;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking lot for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";;0;; https://www.honkmobile.com/hourly/zones/
+2270;Thunderbird West Mall;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking lot for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";;0;; https://www.honkmobile.com/hourly/zones/
 2307;Exchange Residence;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2315;Frederic Lasserre Lockers(Patio);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2316;D.H. Copp Lockers (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
