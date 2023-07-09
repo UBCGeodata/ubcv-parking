@@ -373,7 +373,7 @@
 				"FAC_TIPS" : "Rooftop Parking $10/Day",
 				"FAC_HEIGHT" : "6'10\"                2.08m",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20220713113320",
+				"FAC_MODIFY_DATE" : "20230709142405",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5677"
 			}
 		},
@@ -926,7 +926,7 @@
 				"FAC_TIPS" : "Event rate of $10 in effect for events at the Chan Centre",
 				"FAC_HEIGHT" : "6'8\"                2.03m",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20220713113320",
+				"FAC_MODIFY_DATE" : "20230709142236",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5665"
 			}
 		},
@@ -1358,7 +1358,7 @@
 				"FAC_TIPS" : null,
 				"FAC_HEIGHT" : "6'8\"                2.03m",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20230629124155",
+				"FAC_MODIFY_DATE" : "20230709142528",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5673"
 			}
 		},
@@ -1552,7 +1552,7 @@
 				"FAC_TIPS" : "Park on level 4 for accessible parking to street access for UBC",
 				"FAC_HEIGHT" : "6'8\"                2.03m",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20230629115331",
+				"FAC_MODIFY_DATE" : "20230709142451",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5671"
 			}
 		},
@@ -1945,7 +1945,7 @@
 				"FAC_TIPS" : "No Public Parking; visitors should use B4 Lot or West Parkade",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20230628122447",
+				"FAC_MODIFY_DATE" : "20230709141358",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5648"
 			}
 		},
@@ -2405,7 +2405,7 @@
 				"FAC_TIPS" : "Short-term stalls available for pool and gym visitors",
 				"FAC_HEIGHT" : "6'5\"",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20220721133317",
+				"FAC_MODIFY_DATE" : "20230709142315",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667"
 			}
 		},
