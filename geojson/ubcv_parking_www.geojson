@@ -674,10 +674,10 @@
         "FAC_REZPERMIT" : "0",
         "FAC_FSPERMIT" : "1",
         "FAC_BOUNDARY_DESCRIPTION" : "Near Doug Mitchell, Osborne, Pharmacy and UBC Hospital",
-        "FAC_TIPS" : "Rooftop Parking $10/Day",
+        "FAC_TIPS" : "Rooftop closed",
         "FAC_HEIGHT" : "6'10\"                2.08m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20230709142405",
+        "FAC_MODIFY_DATE" : "20230712124354",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5677",
         "HIGHLIGHT_FACILITY" : "1"
       }
