@@ -281,10 +281,10 @@
 2279;Acadia Zone 03;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2281;Acadia Zone 05;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2287;Acadia Zone 08;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
-2269;Thunderbird East Mall;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";;0;; https://www.honkmobile.com/hourly/zones/
+2269;Thunderbird East Mall;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";6' 10" or 2.1 M;0;; https://www.honkmobile.com/hourly/zones/
 2278;President's Row;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2301;University Blvd Lot;6131 University Boulevard Vancouver, BC;;12:00 AM - 11:59 PM;$4.00/hr no  Maximum;Same as Day Rate;Same as Day Rate;5632;1;1;0;1;1;0;0;0;0;Close to the Nest & University Blvd;Short-term Visitor Only Parking;7'0";1;; https://www.honkmobile.com/hourly/zones/5632
-2270;Thunderbird West Mall;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking lot for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";;0;; https://www.honkmobile.com/hourly/zones/
+2270;Thunderbird West Mall;;;;;;;;1;0;0;0;0;0;0;0;0;Residential Parking lot for Thunderbird;"No Public Parking; visitors should use B4 Lot or Thunderbird Parkade";6'10" or 2.1 M;0;; https://www.honkmobile.com/hourly/zones/
 2307;Exchange Residence;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2315;Frederic Lasserre Lockers(Patio);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2316;D.H. Copp Lockers (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
@@ -296,8 +296,8 @@
 2339;Fraser River Parkade Bike Cages;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2340;Health Sciences Parkade Bike;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2343;West Parkade Bike;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
-2346;Gage Covered Lot-South Tower;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
-2311;Gage Covered Lot;;;;;;;;0;0;0;0;0;0;0;0;0;Gated Parking Under Gage Rez;;;0;; https://www.honkmobile.com/hourly/zones/
+2346;Gage Covered Lot-South Tower;;;;;;;;0;0;0;0;0;0;0;0;0;;;7';0;; https://www.honkmobile.com/hourly/zones/
+2311;Gage Covered Lot;;;;;;;;0;0;0;0;0;0;0;0;0;Gated Parking Under Gage Rez;;7';0;; https://www.honkmobile.com/hourly/zones/
 2317;Strangway Lockers (Parking Area);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2318;Henry Angus Lockers (West);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2327;H. R. MacMillan Lockers;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
@@ -317,9 +317,10 @@
 2337;Chemistry;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2303;Acadia Zone 24;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2308;Motorcyle Locations at UBCV;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
-2310;Fairview Underground;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
+2310;Fairview Underground;;;;;;;;0;0;0;0;0;0;0;0;0;;;6' 7";0;; https://www.honkmobile.com/hourly/zones/
 2330;Pharmacy Lockers;;;;;;;;0;0;0;0;0;0;0;0;0;;;;1;; https://www.honkmobile.com/hourly/zones/
 2341;Thunderbird Parkade Cage 1;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
+2349;Ctr for Brain Health Bike Locker;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2306;Acadia Zone 27;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2312;Revelstoke;;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
 2319;Douglas T. Kenny Lockers (East);;;;;;;;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/
