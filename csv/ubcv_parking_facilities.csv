@@ -66,7 +66,7 @@
 2026;GSAB Lot;;5:00 PM - 12:00 AM;6:00 AM - 5:00 PM;;$10 Flat Rate;$10 Flat Rate;5632;0;0;0;0;0;0;0;0;0;http://maps.google.com/?q=49.2675596516011,-123.247323283241;;;0;; https://www.honkmobile.com/hourly/zones/5632
 2027;West Mall Road;;;;;;;5601;;;;;;;;;;;;;;; https://www.honkmobile.com/hourly/zones/5601
 2029;Orchard Lot;;;;;;;;;;;;;;;;;Near MacMillan, Orchard House and Ritsumeikan;;;;; https://www.honkmobile.com/hourly/zones/
-2032;Lower Mall Road;;10:00 PM - 6:00 AM;7:00 AM - 10:00 PM;$2.00 for 1/2 hr - Max 4 hours;No Charge;$4.00/hr Max $20;5649;;;;;;;;;;;;;;; https://www.honkmobile.com/hourly/zones/5649
+2032;Lower Mall Road;;10:00 PM - 6:00 AM;7:00 AM - 10:00 PM;$2.00 for 1/2 hr - Max 4 hours;No Charge;$4.00/hr Max $20;5649;0;0;0;0;0;0;0;0;0;;;;0;; https://www.honkmobile.com/hourly/zones/5649
 2033;Old Auditorium;;;;;;;;;;;;;;;;;6344 Memorial Road;;;;; https://www.honkmobile.com/hourly/zones/
 2034;B.C. Binning;;;;;;;;;;;;;;;;;6363 Stores Road;;;;; https://www.honkmobile.com/hourly/zones/
 2035;Buchanan Complex;;;;;;;;;;;;;;;;;1866 Main Mall Road;;;;; https://www.honkmobile.com/hourly/zones/
@@ -74,7 +74,7 @@
 2037;CEME Trailer;;;;;;;;;;;;;;;;;2345 East Mall ;;;;; https://www.honkmobile.com/hourly/zones/
 2040;George Cunningham Building;;;;;;;;;;;;;;;;;2146 East Mall Road;;;;; https://www.honkmobile.com/hourly/zones/
 2042;David Strangway Building;;;;;;;;;;;;;;;;;2151 Wesbrook Mall;;;;; https://www.honkmobile.com/hourly/zones/
-2043;Donald Rix Building;;;;;;;;;;;;;;;;;2389 Health Sciences Mall;;;;; https://www.honkmobile.com/hourly/zones/
+2043;Donald Rix Building;;;;;;;;0;0;0;0;0;0;0;0;0;2389 Health Sciences Mall;;;0;; https://www.honkmobile.com/hourly/zones/
 2044;Earth & Ocean Sciences;;;;;;;;;;;;;;;;;2219 Main Mall Road;;;;; https://www.honkmobile.com/hourly/zones/
 2045;First Nations Long House;;;;;;;;;;;;;;;;;1985 West Mall Road;;;;; https://www.honkmobile.com/hourly/zones/
 2046;Food, Nutrition & Health;;;;;;;;;;;;;;;;;2205 East Mall;;;;; https://www.honkmobile.com/hourly/zones/
