@@ -436,10 +436,10 @@
         "FAC_REZPERMIT" : "0",
         "FAC_FSPERMIT" : "0",
         "FAC_BOUNDARY_DESCRIPTION" : "Near Life Sciences , Applied Sciences District and TEF 3",
-        "FAC_TIPS" : "12 Liftango stalls reserved till 10:30am ",
+        "FAC_TIPS" : null,
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20231018112224",
+        "FAC_MODIFY_DATE" : "20240221143719",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5627",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -779,7 +779,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20231017134617",
+        "FAC_MODIFY_DATE" : "20240221143938",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5631",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -813,7 +813,7 @@
         "FAC_TIPS" : "Check our events listings to ensure lot isn't closed!",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20220713113320",
+        "FAC_MODIFY_DATE" : "20240221143841",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5630",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -1561,7 +1561,7 @@
         "FAC_TIPS" : "Short-term Visitor Only Parking",
         "FAC_HEIGHT" : "7'0\"",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20230301152730",
+        "FAC_MODIFY_DATE" : "20240221143545",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5632",
         "HIGHLIGHT_FACILITY" : null
       }
