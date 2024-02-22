@@ -99,7 +99,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20231018145522",
+        "FAC_MODIFY_DATE" : "20240221153609",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5644",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -154,7 +154,7 @@
         "FAC_RATEPM" : "Same as Day Rate",
         "FAC_RATEHOL" : "Same as Day Rate",
         "FAC_VERRUS" : "5615",
-        "FAC_DISABLED" : "0",
+        "FAC_DISABLED" : "1",
         "FAC_MC" : "0",
         "FAC_BIKE" : "0",
         "FAC_ELEVATOR" : "0",
@@ -167,7 +167,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20220713113320",
+        "FAC_MODIFY_DATE" : "20240221153122",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5615",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -235,7 +235,7 @@
         "FAC_TIPS" : "6 Liftango stalls reserved till 10:30am",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20220713113320",
+        "FAC_MODIFY_DATE" : "20240221153728",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5641",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -337,7 +337,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20220713113320",
+        "FAC_MODIFY_DATE" : "20240221154845",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5624",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -439,7 +439,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20240221143719",
+        "FAC_MODIFY_DATE" : "20240221153323",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5627",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -473,7 +473,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20231018113958",
+        "FAC_MODIFY_DATE" : "20240221155150",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5673",
         "HIGHLIGHT_FACILITY" : "1"
       }
@@ -609,7 +609,7 @@
         "FAC_TIPS" : "Event rate of $10 in effect for events at the Chan Centre",
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20231127115347",
+        "FAC_MODIFY_DATE" : "20240221155633",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5665",
         "HIGHLIGHT_FACILITY" : "1"
       }
@@ -677,7 +677,7 @@
         "FAC_TIPS" : "Rooftop closed",
         "FAC_HEIGHT" : "6'10\"                2.08m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20231130111149",
+        "FAC_MODIFY_DATE" : "20240221155035",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5677",
         "HIGHLIGHT_FACILITY" : "1"
       }
@@ -711,7 +711,7 @@
         "FAC_TIPS" : "Park on level 4 for accessible parking to street access for UBC",
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20231018113627",
+        "FAC_MODIFY_DATE" : "20240221155710",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5671",
         "HIGHLIGHT_FACILITY" : "1"
       }
@@ -745,7 +745,7 @@
         "FAC_TIPS" : "Short-term stalls available for pool and gym visitors",
         "FAC_HEIGHT" : "6'5\"",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20240116115027",
+        "FAC_MODIFY_DATE" : "20240221155437",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667",
         "HIGHLIGHT_FACILITY" : "1"
       }
@@ -779,7 +779,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20240221143938",
+        "FAC_MODIFY_DATE" : "20240221153431",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5631",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -813,7 +813,7 @@
         "FAC_TIPS" : "Check our events listings to ensure lot isn't closed!",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20240221143841",
+        "FAC_MODIFY_DATE" : "20240221153401",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5630",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -949,7 +949,7 @@
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20231024134718",
+        "FAC_MODIFY_DATE" : "20240221153458",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5651",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -1012,12 +1012,12 @@
         "FAC_UNDERPERMIT" : "0",
         "FAC_GRAD" : "0",
         "FAC_REZPERMIT" : "0",
-        "FAC_FSPERMIT" : "0",
+        "FAC_FSPERMIT" : "1",
         "FAC_BOUNDARY_DESCRIPTION" : null,
         "FAC_TIPS" : null,
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20220713113320",
+        "FAC_MODIFY_DATE" : "20240221154100",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5620",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -1140,7 +1140,7 @@
         "FAC_RATEPM" : "$2.00 for 1/2 hr - Max $10 6AM",
         "FAC_RATEHOL" : "$2.00 for 1/2 hr - Max $10 23:59",
         "FAC_VERRUS" : "5613",
-        "FAC_DISABLED" : "1",
+        "FAC_DISABLED" : "0",
         "FAC_MC" : "1",
         "FAC_BIKE" : "0",
         "FAC_ELEVATOR" : "0",
@@ -1153,7 +1153,7 @@
         "FAC_TIPS" : "Easy access to Acadia Park and Fairview for visitors",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20231013152436",
+        "FAC_MODIFY_DATE" : "20240221154420",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5613",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -1425,7 +1425,7 @@
         "FAC_TIPS" : "Popular lot for visitors, Rose Garden Parkade is a great alternative",
         "FAC_HEIGHT" : null,
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "20230922072423",
+        "FAC_MODIFY_DATE" : "20240221154527",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5608",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -1493,7 +1493,7 @@
         "FAC_TIPS" : "Patient Priority stalls on-site",
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20220713113320",
+        "FAC_MODIFY_DATE" : "20240221155237",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5669",
         "HIGHLIGHT_FACILITY" : "1"
       }
@@ -1561,7 +1561,7 @@
         "FAC_TIPS" : "Short-term Visitor Only Parking",
         "FAC_HEIGHT" : "7'0\"",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "20240221143545",
+        "FAC_MODIFY_DATE" : "20240221153252",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5632",
         "HIGHLIGHT_FACILITY" : null
       }
