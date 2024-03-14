@@ -1276,7 +1276,7 @@
 				"FAC_ADDRESS" : null,
 				"FAC_HOURPM" : null,
 				"FAC_HOURSDAY" : "12:00 AM - 11:59 PM",
-				"FAC_RATE" : "$2.00 for 1/2 hr - Max $20 23:59",
+				"FAC_RATE" : "$2.00 for 1/2 hr - Max $10 23:59",
 				"FAC_RATEPM" : "Same as Day Rate",
 				"FAC_RATEHOL" : "$2.00 for 1/2 hr - Max $10 23:59",
 				"FAC_VERRUS" : "5620",
@@ -1293,7 +1293,7 @@
 				"FAC_TIPS" : null,
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "0",
-				"FAC_MODIFY_DATE" : "20240222120243",
+				"FAC_MODIFY_DATE" : "20240314113130",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5620"
 			}
 		},
