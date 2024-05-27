@@ -1473,7 +1473,7 @@
 				"FAC_RATE" : "$2.00 for 1/2 hr - Max $20 23:59",
 				"FAC_RATEPM" : "$2.00 for 1/2 hr - Max $10 6AM",
 				"FAC_RATEHOL" : "$2.00 for 1/2 hr - Max $10 23:59",
-				"FAC_VERRUS" : "5654",
+				"FAC_VERRUS" : "Closed",
 				"FAC_DISABLED" : "1",
 				"FAC_MC" : "0",
 				"FAC_BIKE" : "0",
@@ -1487,8 +1487,8 @@
 				"FAC_TIPS" : "Very busy location during daytime hours!",
 				"FAC_HEIGHT" : null,
 				"FAC_MAP_DISPLAY" : "0",
-				"FAC_MODIFY_DATE" : "20220713113320",
-				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5654"
+				"FAC_MODIFY_DATE" : "20240527080230",
+				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/Closed"
 			}
 		},
 		{
