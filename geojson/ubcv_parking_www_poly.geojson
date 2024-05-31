@@ -2396,7 +2396,7 @@
 				"FAC_MC" : "1",
 				"FAC_BIKE" : "0",
 				"FAC_ELEVATOR" : "0",
-				"FAC_EV" : "1",
+				"FAC_EV" : "0",
 				"FAC_UNDERPERMIT" : "1",
 				"FAC_GRAD" : "1",
 				"FAC_REZPERMIT" : "1",
@@ -2405,7 +2405,7 @@
 				"FAC_TIPS" : "Short-term stalls available for pool and gym visitors",
 				"FAC_HEIGHT" : "6'5\"",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "20240221155437",
+				"FAC_MODIFY_DATE" : "20240531135058",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667"
 			}
 		},
