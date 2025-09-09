@@ -1683,7 +1683,7 @@
 				"FAC_ID" : 2227,
 				"FAC_DESCRIPTION" : "Totem Virtual Meters",
 				"FAC_HOURSDAY" : "12:00 AM - 11:59 PM",
-				"FAC_RATE" : "$2.25 for 1/2 hr - Max 4 hours",
+				"FAC_RATE" : "$4.50 per hour",
 				"FAC_RATEPM" : "Same as Day Rate",
 				"FAC_RATEHOL" : "Same as Day Rate",
 				"FAC_VERRUS" : "5601",
@@ -1697,7 +1697,7 @@
 				"FAC_REZPERMIT" : "0",
 				"FAC_FSPERMIT" : "0",
 				"FAC_MAP_DISPLAY" : "0",
-				"FAC_MODIFY_DATE" : "2022-07-15T15:20:41-07:00",
+				"FAC_MODIFY_DATE" : "2025-09-08T17:21:55-07:00",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5601",
 				"FAC_EQUIP2" : "LUKE II Paystation"
 			}
