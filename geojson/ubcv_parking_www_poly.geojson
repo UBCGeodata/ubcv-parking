@@ -1961,7 +1961,7 @@
 			"properties" : {
 				"FAC_ID" : 2120,
 				"FAC_DESCRIPTION" : "Fairview Crescent",
-				"FAC_RATE" : "$1.25 for 1/2 hr - Max $9  2AM",
+				"FAC_RATE" : "Check Honk Mobile for Rates",
 				"FAC_RATEPM" : "Same as Day Rate",
 				"FAC_RATEHOL" : "Same as Day Rate",
 				"FAC_VERRUS" : "5613",
@@ -1977,7 +1977,7 @@
 				"FAC_BOUNDARY_DESCRIPTION" : "Permit and Visitor parking at Fairview Residence",
 				"FAC_TIPS" : "Easy access to Acadia Park and Fairview for visitors",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "2025-06-24T15:21:31-07:00",
+				"FAC_MODIFY_DATE" : "2026-02-20T12:42:22-08:00",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5613",
 				"FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
 			}
