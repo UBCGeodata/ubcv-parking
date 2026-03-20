@@ -842,10 +842,9 @@
 				"FAC_REZPERMIT" : "1",
 				"FAC_FSPERMIT" : "1",
 				"FAC_BOUNDARY_DESCRIPTION" : "Close to Chan Centre, Frederic Wood Theatre and MOA",
-				"FAC_TIPS" : "Event rate of $10 in effect for events at the Chan Centre",
 				"FAC_HEIGHT" : "6'8\"                2.03m",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "2024-02-21T15:56:33-08:00",
+				"FAC_MODIFY_DATE" : "2026-03-17T13:25:06-07:00",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5665",
 				"FAC_EQUIP2" : "LUKE II Paystation"
 			}
@@ -1375,7 +1374,7 @@
 				"FAC_TIPS" : "Park on level 4 for accessible parking to street access for UBC",
 				"FAC_HEIGHT" : "6'8\"                2.03m",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "2025-11-06T11:19:08-08:00",
+				"FAC_MODIFY_DATE" : "2026-03-17T13:29:01-07:00",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5671",
 				"FAC_EQUIP2" : "LUKE II Paystation"
 			}
@@ -2134,10 +2133,10 @@
 				"FAC_REZPERMIT" : "1",
 				"FAC_FSPERMIT" : "1",
 				"FAC_BOUNDARY_DESCRIPTION" : "Near Brock Hall, Gage Residence, Nest and Aquatic Centre",
-				"FAC_TIPS" : "Short-term stalls available for pool and gym visitors",
+				"FAC_TIPS" : "Short-term stalls available for pool and gym visitors.  NO ELEVATOR ON SITE",
 				"FAC_HEIGHT" : "6'5\" or 1.96 M",
 				"FAC_MAP_DISPLAY" : "1",
-				"FAC_MODIFY_DATE" : "2025-06-24T15:25:44-07:00",
+				"FAC_MODIFY_DATE" : "2026-03-17T13:27:19-07:00",
 				"PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667",
 				"FAC_EQUIP2" : "Honkmobile"
 			}
