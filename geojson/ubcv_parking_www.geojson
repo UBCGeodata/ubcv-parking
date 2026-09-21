@@ -83,7 +83,7 @@
         "FAC_VERRUS" : "5673",
         "FAC_DISABLED" : "1",
         "FAC_MC" : "1",
-        "FAC_BIKE" : "1",
+        "FAC_BIKE" : "0",
         "FAC_ELEVATOR" : "0",
         "FAC_EV" : "1",
         "FAC_UNDERPERMIT" : "1",
@@ -93,10 +93,10 @@
         "FAC_BOUNDARY_DESCRIPTION" : "Near Arts District, Nitobe Gardens and Koerner Library",
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2026-06-15T16:45:26-07:00",
+        "FAC_MODIFY_DATE" : "2026-08-24T14:30:47-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5673",
         "HIGHLIGHT_FACILITY" : "1",
-        "FAC_EQUIP2" : "Honkmobile"
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -408,10 +408,10 @@
         "FAC_TIPS" : "Patient Priority stalls on-site",
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2026-03-26T13:36:23-07:00",
+        "FAC_MODIFY_DATE" : "2026-08-24T14:26:23-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5669",
         "HIGHLIGHT_FACILITY" : "1",
-        "FAC_EQUIP2" : "LUKE II Paystation"
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -584,10 +584,10 @@
         "FAC_TIPS" : "Very busy location, we recommend using Thunderbird Parkade",
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2023-12-18T18:35:51-08:00",
+        "FAC_MODIFY_DATE" : "2026-08-24T13:56:30-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5639",
         "HIGHLIGHT_FACILITY" : "0",
-        "FAC_EQUIP2" : "LUKE II Paystation"
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -633,7 +633,7 @@
         "FAC_VERRUS" : "5671",
         "FAC_DISABLED" : "1",
         "FAC_MC" : "1",
-        "FAC_BIKE" : "1",
+        "FAC_BIKE" : "0",
         "FAC_ELEVATOR" : "0",
         "FAC_EV" : "1",
         "FAC_UNDERPERMIT" : "1",
@@ -644,10 +644,10 @@
         "FAC_TIPS" : "Park on level 4 for accessible parking to street access for UBC",
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2026-05-06T12:35:53-07:00",
+        "FAC_MODIFY_DATE" : "2026-08-31T00:05:44-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5671",
         "HIGHLIGHT_FACILITY" : "1",
-        "FAC_EQUIP2" : "LUKE II Paystation"
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -755,10 +755,10 @@
         "FAC_REZPERMIT" : "0",
         "FAC_FSPERMIT" : "0",
         "FAC_MAP_DISPLAY" : "0",
-        "FAC_MODIFY_DATE" : "2024-02-21T15:48:45-08:00",
+        "FAC_MODIFY_DATE" : "2026-08-24T13:57:55-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5624",
         "HIGHLIGHT_FACILITY" : "0",
-        "FAC_EQUIP2" : "LUKE II Paystation"
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -789,10 +789,10 @@
         "FAC_BOUNDARY_DESCRIPTION" : "Close to Chan Centre, Frederic Wood Theatre and MOA",
         "FAC_HEIGHT" : "6'8\"                2.03m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2026-05-05T15:32:51-07:00",
+        "FAC_MODIFY_DATE" : "2026-08-24T14:29:27-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5665",
         "HIGHLIGHT_FACILITY" : "1",
-        "FAC_EQUIP2" : "LUKE II Paystation"
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -880,7 +880,7 @@
         "FAC_BOUNDARY_DESCRIPTION" : "Residential Parking Lot for Ritsumeikan and Vantage College ",
         "FAC_TIPS" : "No Public Parking; visitors should use B4 Lot or West Parkade",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2026-07-22T16:35:51-07:00",
+        "FAC_MODIFY_DATE" : "2026-08-26T13:07:34-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5648",
         "HIGHLIGHT_FACILITY" : "0"
       }
@@ -911,13 +911,12 @@
         "FAC_REZPERMIT" : "0",
         "FAC_FSPERMIT" : "1",
         "FAC_BOUNDARY_DESCRIPTION" : "Near Doug Mitchell, Osborne, Pharmacy and UBC Hospital",
-        "FAC_TIPS" : "Rooftop closed",
         "FAC_HEIGHT" : "6'10\"                2.08m",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2026-05-05T15:37:55-07:00",
+        "FAC_MODIFY_DATE" : "2026-08-24T14:33:38-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5677",
         "HIGHLIGHT_FACILITY" : "1",
-        "FAC_EQUIP2" : "LUKE II Paystation"
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -949,10 +948,10 @@
         "FAC_TIPS" : "Short-term stalls available for pool and gym visitors.  NO ELEVATOR ON SITE",
         "FAC_HEIGHT" : "6'5\" or 1.96 M",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2026-05-29T12:41:44-07:00",
+        "FAC_MODIFY_DATE" : "2026-08-24T14:28:16-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5667",
         "HIGHLIGHT_FACILITY" : "1",
-        "FAC_EQUIP2" : "Honkmobile"
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -1045,9 +1044,10 @@
         "FAC_BOUNDARY_DESCRIPTION" : "Near Sage Restaurant, Peter Wall, Freddy Wood & Sing Tao",
         "FAC_TIPS" : "Perfect for stopping and checking out the Rose Garden view!",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2026-08-18T13:27:54-07:00",
+        "FAC_MODIFY_DATE" : "2026-08-24T14:14:40-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5638",
-        "HIGHLIGHT_FACILITY" : "0"
+        "HIGHLIGHT_FACILITY" : "0",
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -1253,10 +1253,10 @@
         "FAC_BOUNDARY_DESCRIPTION" : "Near Arts district, Old Admin and Koerner Library",
         "FAC_HEIGHT" : "N/A",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2024-04-09T09:05:12-07:00",
+        "FAC_MODIFY_DATE" : "2026-08-24T13:06:01-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5625",
         "HIGHLIGHT_FACILITY" : "0",
-        "FAC_EQUIP2" : "LUKE II Paystation"
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -1269,7 +1269,7 @@
         "FAC_ID" : 2178,
         "FAC_DESCRIPTION" : "Stadium Lot",
         "FAC_HOURSDAY" : "12:00 AM - 11:59 PM",
-        "FAC_RATE" : "$4.50 per hr Max $11.00",
+        "FAC_RATE" : "$4.50 per hr Max $11.25",
         "FAC_RATEPM" : "Same as Day Rate",
         "FAC_RATEHOL" : "Same as Day Rate",
         "FAC_VERRUS" : "5630",
@@ -1285,9 +1285,10 @@
         "FAC_BOUNDARY_DESCRIPTION" : "Parking at Thunderbird Stadium",
         "FAC_TIPS" : "Check our events listings to ensure lot isn't closed!",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2024-02-21T15:34:01-08:00",
+        "FAC_MODIFY_DATE" : "2026-08-24T14:03:51-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5630",
-        "HIGHLIGHT_FACILITY" : "0"
+        "HIGHLIGHT_FACILITY" : "0",
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
@@ -1325,7 +1326,7 @@
         "FAC_DESCRIPTION" : "University Blvd Lot",
         "FAC_ADDRESS" : "6131 University Boulevard Vancouver, BC",
         "FAC_HOURSDAY" : "12:00 AM - 11:59 PM",
-        "FAC_RATE" : "$4.50/hr no  Maximum",
+        "FAC_RATE" : "$4.50 per hour",
         "FAC_RATEPM" : "Same as Day Rate",
         "FAC_RATEHOL" : "Same as Day Rate",
         "FAC_VERRUS" : "5632",
@@ -1342,10 +1343,10 @@
         "FAC_TIPS" : "Short-term Visitor Only Parking",
         "FAC_HEIGHT" : "7'0\"",
         "FAC_MAP_DISPLAY" : "1",
-        "FAC_MODIFY_DATE" : "2024-02-21T15:32:52-08:00",
+        "FAC_MODIFY_DATE" : "2026-09-04T16:39:39-07:00",
         "PAYMENT_LINK" : " https://www.honkmobile.com/hourly/zones/5632",
         "HIGHLIGHT_FACILITY" : null,
-        "FAC_EQUIP2" : "Honkmobile"
+        "FAC_EQUIP2" : "Honk/PayByPhone/ZipBy"
       }
     },
     {
